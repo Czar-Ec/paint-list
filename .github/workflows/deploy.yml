@@ -28,7 +28,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GH_PAT }}
+          github_token: ${{ secrets.PAINT_LIST_TOKEN }}
           publish_dir: ./dist/PaintList/browser
           publish_branch: gh-pages
 
