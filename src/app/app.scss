@@ -1,0 +1,12 @@
+:host {
+  display: flex;
+  flex: 1;
+}
+
+.app-container {
+  display: flex;
+  flex: 1;
+  background-color: var(--mat-sys-background);
+  color: var(--mat-sys-on-surface);
+  font: var(--mat-sys-brand-font-family);
+}
