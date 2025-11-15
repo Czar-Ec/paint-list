@@ -11,7 +11,7 @@
     "test:ci": "ng test --watch=false --browsers=ChromeHeadless --karma-config=karma.conf.js --code-coverage",
     "prestart": "node scripts/fetch-theme.js",
     "prebuild": "node scripts/fetch-theme.js",
-    "predeploy": "ng build --configuration production --base-href /paint-list/",
+    "predeploy": "node scripts/fetch-theme.js && ng build --configuration production --base-href /paint-list/",
     "deploy": "gh-pages -d dist/PaintList/browser"
   },
   "prettier": {
