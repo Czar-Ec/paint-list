@@ -1,6 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
 @use 'assets/dist/themes/czarec.theme' as *;
+@import url('https://fonts.googleapis.com/css?family=Michroma');
 
+body {
+  font-family: 'Michroma', sans-serif !important;
+}
 
 @keyframes fadeIn {
   from {
