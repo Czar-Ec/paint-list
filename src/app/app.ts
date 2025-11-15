@@ -1,13 +1,14 @@
 import { HttpClient } from '@angular/common/http';
 import { ChangeDetectorRef, Component, OnInit, signal } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { MatCardModule } from '@angular/material/card';
+import { MatButtonModule } from '@angular/material/button'
 import { NgParticlesService, NgxParticlesModule } from '@tsparticles/angular';
 import type { ISourceOptions } from '@tsparticles/engine';
 import { loadSlim } from '@tsparticles/slim';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, NgxParticlesModule],
+  imports: [NgxParticlesModule, MatCardModule, MatButtonModule],
   templateUrl: './app.html',
   styleUrl: './app.scss',
 })

@@ -1,10 +1,18 @@
 @if(particlesOptions) {
-  <ngx-particles
+<ngx-particles
   [id]="id"
   [options]="particlesOptions"
   (particlesLoaded)="particlesLoaded($event)"
 ></ngx-particles>
 <div class="app-container" #tsparticles>
-  Test
+  <mat-card class="search-container">
+    <mat-card-header>
+      <mat-card-title>Paint List</mat-card-title>
+      <mat-card-subtitle>List of paints in my inventory</mat-card-subtitle>
+    </mat-card-header>
+    <mat-card-content>
+      <button mat-flat-button>test</button>
+    </mat-card-content>
+  </mat-card>
 </div>
 }
