@@ -7,12 +7,7 @@
 @use '@angular/material' as mat;
 
 
-@font-face {
-  font-family: 'Custom';
-  src: url('https://fonts.googleapis.com/css2?family=Michroma&display=swap') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
+
 
 html {
   @include mat.theme((
