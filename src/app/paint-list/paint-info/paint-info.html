@@ -1,0 +1,27 @@
+<mat-card appearance="outlined">
+  <mat-card-header>
+    <mat-card-title>{{ paint.paintName }}</mat-card-title>
+    <app-paint-type [paintType]="paint.paintType"></app-paint-type>
+  </mat-card-header>
+  <mat-card-content>
+    <div class="paint-item-content">
+      <div class="content-item example-color" [style.backgroundColor]="paint.approximateColour">
+        <span class="light-text">Example Color</span>
+        <span class="dark-text">Example Color</span>
+      </div>
+      <div class="brand-content">
+        <a [href]="paint.paintBrand.brandUrl" target="_blank" rel="noopener noreferrer">
+          <img class="brand-logo" [src]="paint.paintBrand.brandImageUrl" />
+        </a>
+      </div>
+      <div class="content-item inventory-amount">Amount: {{ paint.numInInventory }}</div>
+    </div>
+  </mat-card-content>
+  <mat-card-actions>
+    <mat-chip-set>
+      @for(tag of paint.tags; track tag) {
+      <mat-chip>{{ tag }}</mat-chip>
+      }
+    </mat-chip-set>
+  </mat-card-actions>
+</mat-card>

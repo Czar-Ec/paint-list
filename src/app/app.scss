@@ -11,14 +11,74 @@
   flex: 1;
 }
 
+.mat-mdc-card-content {
+  display: flex;
+  min-height: 0;
+}
+
 .app-container {
   display: flex;
   flex: 1;
+  justify-items: center;
   background-color: var(--mat-sys-background);
   color: var(--mat-sys-on-surface);
+  justify-content: center;
 }
 
 .search-container {
+  display: flex;
   flex: 1;
-  margin: 5rem;
+  margin: 2rem;
+  margin-bottom: 80px;
+  max-width: 800px;
+}
+
+.mat-mdc-card-content {
+  padding: 16px;
+  flex: 1;
+}
+
+mat-card {
+  background-color: rgba(50, 0, 0, 0.3); // white with 70% opacity
+  backdrop-filter: blur(4px);                // optional frosted glass
+}
+
+::ng-deep .mat-mdc-card-header-text {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+}
+
+/* 1 = normal, 0.85 = scaled down for mobile */
+:root {
+  --font-scale: 1;
+}
+
+/* When Angular toggles the class */
+body.mobile-font-scale {
+  --font-scale: 0.2;
+}
+
+/* Apply scaling to ALL Material typography tokens */
+body,
+body.mobile-font-scale {
+  --mat-sys-body-small-size: calc(var(--mat-sys-body-small-size) * var(--font-scale));
+  --mat-sys-body-medium-size: calc(var(--mat-sys-body-medium-size) * var(--font-scale));
+  --mat-sys-body-large-size: calc(var(--mat-sys-body-large-size) * var(--font-scale));
+
+  --mat-sys-label-small-size: calc(var(--mat-sys-label-small-size) * var(--font-scale));
+  --mat-sys-label-medium-size: calc(var(--mat-sys-label-medium-size) * var(--font-scale));
+  --mat-sys-label-large-size: calc(var(--mat-sys-label-large-size) * var(--font-scale));
+
+  --mat-sys-title-small-size: calc(var(--mat-sys-title-small-size) * var(--font-scale));
+  --mat-sys-title-medium-size: calc(var(--mat-sys-title-medium-size) * var(--font-scale));
+  --mat-sys-title-large-size: calc(var(--mat-sys-title-large-size) * var(--font-scale));
+
+  --mat-sys-headline-small-size: calc(var(--mat-sys-headline-small-size) * var(--font-scale));
+  --mat-sys-headline-medium-size: calc(var(--mat-sys-headline-medium-size) * var(--font-scale));
+  --mat-sys-headline-large-size: calc(var(--mat-sys-headline-large-size) * var(--font-scale));
+
+  --mat-sys-display-small-size: calc(var(--mat-sys-display-small-size) * var(--font-scale));
+  --mat-sys-display-medium-size: calc(var(--mat-sys-display-medium-size) * var(--font-scale));
+  --mat-sys-display-large-size: calc(var(--mat-sys-display-large-size) * var(--font-scale));
 }

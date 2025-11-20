@@ -1,0 +1,7 @@
+<div class="paint-list-container">
+  @for (paint of paintList(); track paint.paintId) {
+  <app-paint-info [paint]="paint"></app-paint-info>
+  } @empty {
+  <div class="no-paints-message">No paints loaded.</div>
+  }
+</div>

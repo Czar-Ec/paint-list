@@ -1,0 +1,70 @@
+:host {
+  display: flex;
+}
+
+.mat-mdc-card {
+  width: 100%;
+  margin: 1rem;
+}
+
+.mat-mdc-card-content {
+  padding: 1em 16px;
+}
+
+.example-color {
+  height: 10px;
+  display: flex;
+}
+
+.content-item {
+  padding: 1rem;
+}
+
+.mat-mdc-card-header {
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+::ng-deep .mat-mdc-card-header-text {
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+
+.light-text {
+  color: #fff !important;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dark-text {
+  color: #000 !important;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inventory-amount {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+.brand-content {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.brand-logo {
+  height: auto;
+  width: 100%;
+  max-width: 100px;
+}

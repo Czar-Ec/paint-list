@@ -1,0 +1,60 @@
+:host {
+  display: flex;
+  align-items: flex-start;
+  padding-left: 1rem;
+}
+
+/* Shared chip styling */
+mat-chip {
+  padding: 4px 10px;
+  font-weight: 600;
+  border-radius: 6px;
+  color: white;
+
+  /* Target the actual background element inside the MDC chip */
+  .mdc-evolution-chip__background {
+    background: inherit !important;
+  }
+}
+
+
+// --- PAINT TYPES ---
+
+.paint-type-primer {
+  background: #757575 !important;        // mid grey
+}
+
+.paint-type-base {
+  background: #d32f2f !important;        // strong red
+}
+
+.paint-type-contrast {
+  background: linear-gradient(135deg, #7e57c2, #ab47bc) !important;  // purple-magenta blend
+}
+
+.paint-type-layer {
+  background: #42a5f5 !important;        // bright blue
+}
+
+.paint-type-shade {
+  background: rgba(0, 0, 0, 0.75) !important;   // dark translucent
+  backdrop-filter: blur(2px) !important;
+}
+
+.paint-type-technical {
+  background: #00897b !important;        // teal green
+}
+
+.paint-type-metallic {
+  background: linear-gradient(135deg, #bdbdbd, #f5f5f5, #bdbdbd) !important; // silver shine
+  color: #333 !important;
+  border: 1px solid rgba(255, 255, 255, 0.4) !important;
+}
+
+.paint-type-colour-shift {
+  background: linear-gradient(135deg, #00c3ff, #ff00c3) !important; // cyan <-> magenta
+}
+
+.paint-type-other {
+  background: #9e9e9e !important;        // fallback neutral
+}
