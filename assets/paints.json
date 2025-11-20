@@ -1,0 +1,22 @@
+[
+  {
+    "paintId": "basic-skin-tone",
+    "paintName": "Basic Skin Tone",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#e9ac8d",
+    "tags": ["70.815"],
+    "numInInventory": 1,
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2018/06/vallejo-model-color-70815-newIC.jpg"
+  },
+  {
+    "paintId": "blue-violet",
+    "paintName": "Blue Violet",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#59477f",
+    "tags": ["70.811"],
+    "numInInventory": 1,
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70811-newIC.jpg"
+  }
+]
