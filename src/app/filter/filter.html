@@ -1,1 +1,15 @@
-<p>filter works!</p>
+<form class="filter-form" [formGroup]="filterFormGroup">
+  <mat-form-field class="filter-form-field" appearance="outline">
+    <mat-label>Search for paint</mat-label>
+
+    <input type="text" matInput formControlName="filterStr" />
+
+    @if (filterFormGroup.get('filterStr')?.value) {
+    <button class="clear-btn" matSuffix type="button" (click)="clearFilter()">
+      <mat-icon>close</mat-icon>
+    </button>
+    } @else {
+    <mat-icon matSuffix>search</mat-icon>
+    }
+  </mat-form-field>
+</form>

@@ -2,7 +2,8 @@
   display: flex;
   flex: 1;
   min-height: 0;
-  overflow: auto;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 
 .paint-list-container {
