@@ -4,9 +4,9 @@
     "paintName": "Basic Skin Tone",
     "paintType": "BASE",
     "paintBrand": "vallejo",
-    "approximateColour": "#e9ac8d",
-    "tags": ["70.815"],
+    "approximateColour": "#f5c4a4",
     "numInInventory": 1,
+    "tags": ["skin", "flesh", "70.815"],
     "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2018/06/vallejo-model-color-70815-newIC.jpg"
   },
   {
@@ -14,9 +14,399 @@
     "paintName": "Blue Violet",
     "paintType": "BASE",
     "paintBrand": "vallejo",
-    "approximateColour": "#59477f",
-    "tags": ["70.811"],
+    "approximateColour": "#574f7b",
     "numInInventory": 1,
+    "tags": ["blue", "violet", "70.811"],
     "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70811-newIC.jpg"
+  },
+  {
+    "paintId": "brass",
+    "paintName": "Brass",
+    "paintType": "METALLIC",
+    "paintBrand": "vallejo",
+    "approximateColour": "#b18b44",
+    "numInInventory": 6,
+    "tags": ["metallic", "brass", "gold", "70.801"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70801-newIC.jpg"
+  },
+  {
+    "paintId": "bronze",
+    "paintName": "Bronze",
+    "paintType": "METALLIC",
+    "paintBrand": "vallejo",
+    "approximateColour": "#6b4a29",
+    "numInInventory": 1,
+    "tags": ["metallic", "bronze", "70.998"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70998-newIC.jpg"
+  },
+  {
+    "paintId": "carmine-red",
+    "paintName": "Carmine Red",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#9a1e24",
+    "numInInventory": 1,
+    "tags": ["red", "carmine", "70.908"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70908-newIC.jpg"
+  },
+  {
+    "paintId": "cardinal-purple",
+    "paintName": "Cardinal Purple",
+    "paintType": "CONTRAST",
+    "paintBrand": "vallejo",
+    "approximateColour": "#86003e",
+    "numInInventory": 1,
+    "tags": ["purple", "red", "72.408"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/04/vallejo-xpress-color-72408-NewIC.jpg"
+  },
+  {
+    "paintId": "clear-orange",
+    "paintName": "Clear Orange",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#e25822",
+    "numInInventory": 1,
+    "tags": ["transparent", "orange", "70.956"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70956-newIC.jpg"
+  },
+  {
+    "paintId": "dark-gunmetal",
+    "paintName": "Dark Gunmetal",
+    "paintType": "METALLIC",
+    "paintBrand": "vallejo",
+    "approximateColour": "#a09f9f",
+    "numInInventory": 1,
+    "tags": ["gunmetal", "metallic", "grey", "70.863"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70863-newIC.jpg"
+  },
+  {
+    "paintId": "dark-vermillion",
+    "paintName": "Dark Vermillion",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#9f2529",
+    "numInInventory": 1,
+    "tags": ["red", "vermillion", "70.947"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70947-newIC.jpg"
+  },
+  {
+    "paintId": "dark-prussian-blue",
+    "paintName": "Dark Prussian Blue",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#2b3c6b",
+    "numInInventory": 1,
+    "tags": ["blue", "prussian", "70.899"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70899-newIC.jpg"
+  },
+  {
+    "paintId": "deep-yellow",
+    "paintName": "Deep Yellow",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#fddc23",
+    "numInInventory": 1,
+    "tags": ["yellow", "70.915"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70915-newIC.jpg"
+  },
+  {
+    "paintId": "emerald",
+    "paintName": "Emerald",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#008b67",
+    "numInInventory": 2,
+    "tags": ["green", "emerald", "70.838"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70838-newIC.jpg"
+  },
+  {
+    "paintId": "fluorescent-blue",
+    "paintName": "Fluorescent Blue",
+    "paintType": "OTHER",
+    "paintBrand": "vallejo",
+    "approximateColour": "#00ffff",
+    "numInInventory": 1,
+    "tags": ["fluorescent", "blue", "72.160"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2023/11/vallejo-game-color-fluo-72160-1.jpg"
+  },
+  {
+    "paintId": "fluorescent-green",
+    "paintName": "Fluorescent Green",
+    "paintType": "OTHER",
+    "paintBrand": "vallejo",
+    "approximateColour": "#00ff00",
+    "numInInventory": 1,
+    "tags": ["fluorescent", "green", "72.104"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2023/11/vallejo-game-color-fluo-72104-1.jpg"
+  },
+  {
+    "paintId": "fluorescent-magenta",
+    "paintName": "Fluorescent Magenta",
+    "paintType": "OTHER",
+    "paintBrand": "vallejo",
+    "approximateColour": "#ff00ff",
+    "numInInventory": 1,
+    "tags": ["fluorescent", "magenta", "72.158"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2023/11/vallejo-game-color-fluo-72158-1.jpg"
+  },
+  {
+    "paintId": "frost",
+    "paintName": "Frost",
+    "paintType": "TECHNICAL",
+    "paintBrand": "vallejo",
+    "approximateColour": "#e3e3e3",
+    "numInInventory": 1,
+    "tags": ["frost", "72.604"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2023/11/vallejo-game-color-special-fx-72604-1.jpg"
+  },
+  {
+    "paintId": "german-dark-green",
+    "paintName": "German Dark Green",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#234027",
+    "numInInventory": 1,
+    "tags": ["green", "german", "70.979"],
+    "refImage": ""
+  },
+  {
+    "paintId": "gloss-black",
+    "paintName": "Glossy Black",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#1a1a1a",
+    "numInInventory": 1,
+    "tags": ["black", "gloss", "70.861"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70861-newIC.jpg"
+  },
+  {
+    "paintId": "gory-red",
+    "paintName": "Gory Red",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#8c0000",
+    "numInInventory": 1,
+    "tags": ["red", "blood", "72.011"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72011-1.jpg"
+  },
+  {
+    "paintId": "gunmetal",
+    "paintName": "Gunmetal",
+    "paintType": "METALLIC",
+    "paintBrand": "vallejo",
+    "approximateColour": "#a09f9f",
+    "numInInventory": 1,
+    "tags": ["metallic", "gunmetal", "70.863"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70863-newIC.jpg"
+  },
+  {
+    "paintId": "gunmetal-blue",
+    "paintName": "Gunmetal Blue",
+    "paintType": "METALLIC",
+    "paintBrand": "vallejo",
+    "approximateColour": "#3f4b60",
+    "numInInventory": 2,
+    "tags": ["metallic", "blue", "gunmetal", "70.800"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70800-newIC.jpg"
+  },
+  {
+    "paintId": "leather-brown",
+    "paintName": "Leather Brown",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#6d4b3b",
+    "numInInventory": 1,
+    "tags": ["brown", "leather", "70.871"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70871-newIC.jpg"
+  },
+  {
+    "paintId": "light-flesh",
+    "paintName": "Light Flesh",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#f1d5b5",
+    "numInInventory": 1,
+    "tags": ["skin", "flesh", "light", "70.928"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70928-newIC.jpg"
+  },
+  {
+    "paintId": "magenta",
+    "paintName": "Magenta",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#d61758",
+    "numInInventory": 1,
+    "tags": ["magenta", "pink", "70.945"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70945-newIC.jpg"
+  },
+  {
+    "paintId": "matt-varnish",
+    "paintName": "Matt Varnish",
+    "paintType": "TECHINCAL",
+    "paintBrand": "vallejo",
+    "approximateColour": "#eeeeee",
+    "numInInventory": 1,
+    "tags": ["varnish", "matte", "70.520"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-auxiliaries-matt-varnish-70520.jpg"
+  },
+  {
+    "paintId": "metal-medium",
+    "paintName": "Metal Medium",
+    "paintType": "TECHINCAL",
+    "paintBrand": "vallejo",
+    "approximateColour": "#b3b3b3",
+    "numInInventory": 2,
+    "tags": ["metallic", "medium", "70.521"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2023/07/vallejo-auxiliaries-metal-medium-70521.jpg"
+  },
+  {
+    "paintId": "metallic-green",
+    "paintName": "Metallic Green",
+    "paintType": "METALLIC",
+    "paintBrand": "vallejo",
+    "approximateColour": "#2b5d3b",
+    "numInInventory": 1,
+    "tags": ["green", "metallic", "69.068"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2025/02/vallejo-mecha-color-69068.jpg"
+  },
+  {
+    "paintId": "midnight-purple",
+    "paintName": "Midnight Purple",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#2b0038",
+    "numInInventory": 1,
+    "tags": ["purple", "dark", "70.959"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72116-1.jpg"
+  },
+  {
+    "paintId": "old-gold",
+    "paintName": "Old Gold",
+    "paintType": "METALLIC",
+    "paintBrand": "vallejo",
+    "approximateColour": "#b28a3c",
+    "numInInventory": 1,
+    "tags": ["gold", "metallic", "70.878"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70878-newIC.jpg"
+  },
+  {
+    "paintId": "orange-fire",
+    "paintName": "Orange Fire",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#fd5e3a",
+    "numInInventory": 1,
+    "tags": ["orange", "fire", "72.008"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72008-1.jpg"
+  },
+  {
+    "paintId": "pink",
+    "paintName": "Pink",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#ebb2c3",
+    "numInInventory": 1,
+    "tags": ["pink", "70.958"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70958-newIC.jpg"
+  },
+  {
+    "paintId": "red",
+    "paintName": "Red",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#d5132f",
+    "numInInventory": 2,
+    "tags": ["red", "70.926"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70926-newIC.jpg"
+  },
+  {
+    "paintId": "royal-blue",
+    "paintName": "Royal Blue",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#41558d",
+    "numInInventory": 1,
+    "tags": ["blue", "royal", "70.809"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70809-newIC.jpg"
+  },
+  {
+    "paintId": "royal-purple",
+    "paintName": "Royal Purple",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#4b2967",
+    "numInInventory": 1,
+    "tags": ["purple", "royal", "70.810"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70810-newIC.jpg"
+  },
+  {
+    "paintId": "scarlet-blood",
+    "paintName": "Scarlet Blood",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#c41e1e",
+    "numInInventory": 1,
+    "tags": ["scarlet", "blood", "70.817"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-72106-1.jpg"
+  },
+  {
+    "paintId": "silver",
+    "paintName": "Silver",
+    "paintType": "METALLIC",
+    "paintBrand": "vallejo",
+    "approximateColour": "#c0c0c0",
+    "numInInventory": 2,
+    "tags": ["metallic", "silver", "70.997"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70997-newIC.jpg"
+  },
+  {
+    "paintId": "sunset-red",
+    "paintName": "Sunset Red",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#f85351",
+    "numInInventory": 1,
+    "tags": ["red", "sunset", "70.802"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70802-newIC.jpg"
+  },
+  {
+    "paintId": "tinny-tin",
+    "paintName": "Tinny Tin",
+    "paintType": "METALLIC",
+    "paintBrand": "vallejo",
+    "approximateColour": "#d6d6d6",
+    "numInInventory": 1,
+    "tags": ["metallic", "tin", "72.060"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/01/vallejo-game-color-metallic-72060-1.jpg"
+  },
+  {
+    "paintId": "vermillion",
+    "paintName": "Vermillion",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#e34234",
+    "numInInventory": 1,
+    "tags": ["red", "vermillion", "70.909"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70909-newIC.jpg"
+  },
+  {
+    "paintId": "violet",
+    "paintName": "Violet",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#8f5ba3",
+    "numInInventory": 2,
+    "tags": ["purple", "violet", "70.960"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70960-newIC.jpg"
+  },
+  {
+    "paintId": "white",
+    "paintName": "White",
+    "paintType": "BASE",
+    "paintBrand": "vallejo",
+    "approximateColour": "#ffffff",
+    "numInInventory": 1,
+    "tags": ["white", "70.951"],
+    "refImage": "https://acrylicosvallejo.com/wp-content/uploads/2024/02/vallejo-model-color-70951-newIC.jpg"
   }
 ]

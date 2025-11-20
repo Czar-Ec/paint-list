@@ -26,4 +26,5 @@ export interface Paint {
   tags: string[];
   paintBrand: Brand;
   refImage: string;
+  notes?: string;
 }

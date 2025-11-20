@@ -1,5 +1,8 @@
 <mat-card appearance="outlined">
   <mat-card-header>
+    <a [href]="paint.paintBrand.brandUrl" target="_blank" rel="noopener noreferrer">
+      <img class="brand-logo" [src]="paint.paintBrand.brandImageUrl" />
+    </a>
     <mat-card-title>{{ paint.paintName }}</mat-card-title>
     <app-paint-type [paintType]="paint.paintType"></app-paint-type>
   </mat-card-header>
@@ -9,12 +12,13 @@
         <span class="light-text">Example Color</span>
         <span class="dark-text">Example Color</span>
       </div>
-      <div class="brand-content">
-        <a [href]="paint.paintBrand.brandUrl" target="_blank" rel="noopener noreferrer">
-          <img class="brand-logo" [src]="paint.paintBrand.brandImageUrl" />
-        </a>
+      <div class="content-item item-detail-container">
+        <img class="ref-image" [src]="paint.refImage" />
+        <div class="item-detail-text">
+          <h1>Amount: <strong>{{paint.numInInventory}}</strong></h1>
+          <p>{{paint.notes}}</p>
+        </div>
       </div>
-      <div class="content-item inventory-amount">Amount: {{ paint.numInInventory }}</div>
     </div>
   </mat-card-content>
   <mat-card-actions>

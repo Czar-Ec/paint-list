@@ -64,6 +64,7 @@ export class ConfigService {
           tags: el.tags,
           refImage: el.refImage,
           paintBrand: this._paintBrandList.find((brand) => brand.brandId == el.paintBrand),
+          notes: el.notes
         } as Paint)
     );
 

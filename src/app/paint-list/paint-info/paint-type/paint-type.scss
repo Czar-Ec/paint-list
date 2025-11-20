@@ -6,7 +6,6 @@
 
 /* Shared chip styling */
 mat-chip {
-  padding: 4px 10px;
   font-weight: 600;
   border-radius: 6px;
   color: white;
@@ -14,6 +13,11 @@ mat-chip {
   /* Target the actual background element inside the MDC chip */
   .mdc-evolution-chip__background {
     background: inherit !important;
+  }
+
+  .mobile-font-scale {
+    font-size: 0.7rem;
+    padding: 0;
   }
 }
 

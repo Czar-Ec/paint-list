@@ -16,12 +16,18 @@
   display: flex;
 }
 
+.paint-item-content {
+  display: flex;
+  flex-direction: column;
+}
+
 .content-item {
+  display: flex;
   padding: 1rem;
 }
 
 .mat-mdc-card-header {
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   gap: 1rem;
 }
@@ -48,23 +54,34 @@
   justify-content: center;
 }
 
-.inventory-amount {
-  display: flex;
-  flex: 1;
-  align-items: center;
-  justify-content: center;
-}
 
 .brand-content {
   display: flex;
   flex: 1;
   align-items: center;
   justify-content: center;
-  padding: 1rem;
+  padding: 0.2rem;
 }
 
 .brand-logo {
   height: auto;
-  width: 100%;
+  width: 4rem;
   max-width: 100px;
+}
+
+.item-detail-container {
+  display: flex;
+  flex: 1;
+  align-items: start;
+  gap: 1rem;
+  min-width: 0;
+}
+
+.ref-image {
+  width: 1rem;
+  flex: 1;
+}
+
+.item-detail-text {
+  flex: 1;
 }
