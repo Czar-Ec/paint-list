@@ -3,240 +3,280 @@
     "id": "turbo-dork-absinthe",
     "name": "Absinthe",
     "set": "Turbo Dork",
-    "hex": "#40C385"
+    "hex": "#40C385",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-all-that-glitters",
     "name": "All That Glitters",
     "set": "Turbo Dork",
-    "hex": "#D6B34F"
+    "hex": "#D6B34F",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-appleseed",
     "name": "Appleseed",
     "set": "Turbo Dork",
-    "hex": "#44CC6C"
+    "hex": "#44CC6C",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-bees-knees",
     "name": "Bees Knees",
     "set": "Turbo Dork",
-    "hex": "#FFE145"
+    "hex": "#FFE145",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-black-ice",
     "name": "Black Ice",
     "set": "Turbo Dork",
-    "hex": "#5D6164"
+    "hex": "#5D6164",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-blue-steel",
     "name": "Blue Steel",
     "set": "Turbo Dork",
-    "hex": "#6993AA"
+    "hex": "#6993AA",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-box-wine",
     "name": "Box Wine",
     "set": "Turbo Dork",
-    "hex": "#B55B57"
+    "hex": "#B55B57",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-bullion",
     "name": "Bullion",
     "set": "Turbo Dork",
-    "hex": "#FFC362"
+    "hex": "#FFC362",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-cartridge-family",
     "name": "Cartridge Family",
     "set": "Turbo Dork",
-    "hex": "#F79A47"
+    "hex": "#F79A47",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-cool-ranch",
     "name": "Cool Ranch",
     "set": "Turbo Dork",
-    "hex": "#495EA8"
+    "hex": "#495EA8",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-curacao",
     "name": "Curacao",
     "set": "Turbo Dork",
-    "hex": "#4CCCD5"
+    "hex": "#4CCCD5",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-da-ba-dee",
     "name": "Da Ba Dee",
     "set": "Turbo Dork",
-    "hex": "#4B94CB"
+    "hex": "#4B94CB",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-death-by",
     "name": "Death By",
     "set": "Turbo Dork",
-    "hex": "#805D49"
+    "hex": "#805D49",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-dork",
     "name": "Dork",
     "set": "Turbo Dork",
-    "hex": "#48D6FF"
+    "hex": "#48D6FF",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-fahrenheit",
     "name": "Fahrenheit",
     "set": "Turbo Dork",
-    "hex": "#FD6C4F"
+    "hex": "#FD6C4F",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-gold-rush",
     "name": "Gold Rush",
     "set": "Turbo Dork",
-    "hex": "#F4BC64"
+    "hex": "#F4BC64",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-gordian-knot",
     "name": "Gordian Knot",
     "set": "Turbo Dork",
-    "hex": "#7BAA78"
+    "hex": "#7BAA78",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-hotline",
     "name": "Hotline",
     "set": "Turbo Dork",
-    "hex": "#FF6ABA"
+    "hex": "#FF6ABA",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-life-on-mars",
     "name": "Life On Mars",
     "set": "Turbo Dork",
-    "hex": "#9E4C3F"
+    "hex": "#9E4C3F",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-maguro",
     "name": "Maguro",
     "set": "Turbo Dork",
-    "hex": "#90DDFE"
+    "hex": "#90DDFE",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-malum-malus",
     "name": "Malum Malus",
     "set": "Turbo Dork",
-    "hex": "#54C85F"
+    "hex": "#54C85F",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-multipass",
     "name": "Multipass",
     "set": "Turbo Dork",
-    "hex": "#FF8251"
+    "hex": "#FF8251",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-orange-you-glad",
     "name": "Orange You Glad",
     "set": "Turbo Dork",
-    "hex": "#FFD246"
+    "hex": "#FFD246",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-pearly-gates",
     "name": "Pearly Gates",
     "set": "Turbo Dork",
-    "hex": "#FFFFFF"
+    "hex": "#FFFFFF",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-people-eater",
     "name": "People Eater",
     "set": "Turbo Dork",
-    "hex": "#935AAF"
+    "hex": "#935AAF",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-pucker",
     "name": "Pucker",
     "set": "Turbo Dork",
-    "hex": "#FDE852"
+    "hex": "#FDE852",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-purl-grey",
     "name": "Purl Grey",
     "set": "Turbo Dork",
-    "hex": "#9E97D9"
+    "hex": "#9E97D9",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-red-queen",
     "name": "Red Queen",
     "set": "Turbo Dork",
-    "hex": "#B44C4D"
+    "hex": "#B44C4D",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-redrum",
     "name": "Redrum",
     "set": "Turbo Dork",
-    "hex": "#D94E50"
+    "hex": "#D94E50",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-sakura",
     "name": "Sakura",
     "set": "Turbo Dork",
-    "hex": "#FFB0CB"
+    "hex": "#FFB0CB",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-silver-fox",
     "name": "Silver Fox",
     "set": "Turbo Dork",
-    "hex": "#B5B9BC"
+    "hex": "#B5B9BC",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-six-shooter",
     "name": "Six Shooter",
     "set": "Turbo Dork",
-    "hex": "#757E82"
+    "hex": "#757E82",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-sparkle-motion",
     "name": "Sparkle Motion",
     "set": "Turbo Dork",
-    "hex": "#CFC9C2"
+    "hex": "#CFC9C2",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-spicy-meatball",
     "name": "Spicy Meatball",
     "set": "Turbo Dork",
-    "hex": "#D44F58"
+    "hex": "#D44F58",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-summoning-sickness",
     "name": "Summoning Sickness",
     "set": "Turbo Dork",
-    "hex": "#B2B954"
+    "hex": "#B2B954",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-syringa",
     "name": "Syringa",
     "set": "Turbo Dork",
-    "hex": "#CE8BAF"
+    "hex": "#CE8BAF",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-taro",
     "name": "Taro",
     "set": "Turbo Dork",
-    "hex": "#DCB9E5"
+    "hex": "#DCB9E5",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-tin-star",
     "name": "Tin Star",
     "set": "Turbo Dork",
-    "hex": "#BFCACF"
+    "hex": "#BFCACF",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-turbo",
     "name": "Turbo",
     "set": "Turbo Dork",
-    "hex": "#FFADCC"
+    "hex": "#FFADCC",
+    "brandId": "turbodork"
   },
   {
     "id": "turbo-dork-two-cents",
     "name": "Two Cents",
     "set": "Turbo Dork",
-    "hex": "#E48558"
+    "hex": "#E48558",
+    "brandId": "turbodork"
   }
 ]
