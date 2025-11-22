@@ -1,18 +1,17 @@
-import fs from "fs";
+import fs from 'fs';
 import path from 'path';
-import { kebabCase, ensureDir, fetchMarkdown, extractTableLines, parseHex } from "./utils.js";
+import { kebabCase, ensureDir, fetchMarkdown, extractTableLines, parseHex } from './utils.js';
 
-const URL = "https://raw.githubusercontent.com/Arcturus5404/miniature-paints/refs/heads/main/paints/Army_Painter.md";
-const OUTPUT = "src/assets/dist/paints/army-painter.json";
+const URL =
+  'https://raw.githubusercontent.com/Arcturus5404/miniature-paints/refs/heads/main/paints/Army_Painter.md';
+const OUTPUT = 'src/assets/dist/paints/army-painter.json';
 
 async function run() {
   const markdown = await fetchMarkdown(URL);
   const lines = extractTableLines(markdown);
 
-  const paints = lines.map(line => {
-    const cols = line.split("|").map(s => s.trim());
-    console.log(cols);
-      const [_, name, code, set, r, g, b, hexCell] = line.split('|').map((s) => s.trim());
+  const paints = lines.map((line) => {
+    const [_, name, code, set, r, g, b, hexCell] = line.split('|').map((s) => s.trim());
     const hex = parseHex(hexCell);
 
     return {
@@ -20,7 +19,8 @@ async function run() {
       name,
       code,
       set,
-      hex
+      hex,
+      brandId: 'armypainter',
     };
   });
 

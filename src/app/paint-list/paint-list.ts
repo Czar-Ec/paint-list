@@ -1,22 +1,25 @@
-import { Component, effect, inject, Signal } from '@angular/core';
-import { ConfigService } from '../shared/config-service';
-import { Paint } from '../shared/list-objects';
 import { CommonModule } from '@angular/common';
-import { PaintInfo } from './paint-info/paint-info';
+import { Component, computed, inject, Signal } from '@angular/core';
 import { FilterService } from '../shared/filter-service';
+import { PaintRecord } from '../shared/list-objects';
+import { PaintInfo } from './paint-info/paint-info';
+import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 
 @Component({
   selector: 'app-paint-list',
-  imports: [CommonModule, PaintInfo],
+  imports: [CommonModule, PaintInfo, MatProgressSpinnerModule],
   templateUrl: './paint-list.html',
   styleUrl: './paint-list.scss',
 })
 export class PaintList {
-  paintList: Signal<Paint[]>;
+  paintList: Signal<PaintRecord[] | null>;
 
   private readonly filterService = inject(FilterService);
 
+  public isLoading: Signal<boolean>;
+
   constructor() {
     this.paintList = this.filterService.filteredList$;
+    this.isLoading = computed(() => this.paintList() === null);
   }
 }

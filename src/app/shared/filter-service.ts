@@ -1,23 +1,23 @@
 import { effect, inject, Injectable, signal } from '@angular/core';
-import { Paint } from './list-objects';
 import { ConfigService } from './config-service';
+import { PaintRecord } from './list-objects';
 
 @Injectable({
   providedIn: 'root',
 })
 export class FilterService {
   // Stores the complete list of paints for filtering operations.
-  private _fullPaintList: Paint[] = [];
+  private _fullPaintList: PaintRecord[] = [];
 
-  private filteredPaintList: Paint[] = [];
+  private filteredPaintList: PaintRecord[] = [];
 
-  public filteredList$ = signal<Paint[]>([]);
+  public filteredList$ = signal<PaintRecord[] | null>([]);
 
   public configService = inject(ConfigService);
 
   constructor() {
     effect(() => {
-      this._fullPaintList = this.configService.paintList$();
+      this._fullPaintList = this.configService.allPaints$();
       this.filteredPaintList = this._fullPaintList;
       this.filteredList$.set(this.filteredPaintList);
     });
@@ -40,12 +40,9 @@ export class FilterService {
       const filter = lowerFilterStr; // already lowercase
 
       return (
-        paint.paintName.toLowerCase().includes(filter) ||
-        paint.paintType.toLowerCase().includes(filter) ||
-        paint.tags.some((tag) => tag.toLowerCase().includes(filter)) ||
-        paint.numInInventory.toString().includes(filter) ||
-        (paint.notes?.toLowerCase().includes(filter) ?? false) ||
-        paint.paintBrand.brandName.toLowerCase().includes(filter)
+        paint.name.toLowerCase().includes(filter) ||
+        paint.set.toLowerCase().includes(filter) ||
+        paint.brandId.toLowerCase().includes(filter)
       );
     });
 

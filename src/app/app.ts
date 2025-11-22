@@ -31,7 +31,7 @@ export class App implements OnInit {
   ) {
     this.configService.loadConfig('assets/config.json');
     this.configService.loadPaintBrandList('assets/paint-brands.json');
-    this.configService.loadPaintList('assets/paints.json');
+    this.configService.loadAllPaints();
 
     // Load particles JSON from assets
     this.http
@@ -54,7 +54,6 @@ export class App implements OnInit {
 
   ngOnInit() {
     this.screenService.isMobile$.subscribe((isMobile) => {
-      console.log('Is mobile screen:', isMobile);
       document.documentElement.classList.toggle('mobile-font-scale', isMobile);
     });
   }

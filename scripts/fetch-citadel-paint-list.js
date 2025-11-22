@@ -29,6 +29,7 @@ async function run() {
         name,
         set,
         hex,
+        brandId: 'citadel',
       };
     })
     .filter(Boolean);

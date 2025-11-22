@@ -3,7 +3,7 @@ import { FormControl, FormGroup, FormsModule, ReactiveFormsModule } from '@angul
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatIconModule } from '@angular/material/icon';
 import { MatInputModule } from '@angular/material/input';
-import { debounceTime } from 'rxjs';
+import { debounceTime, tap } from 'rxjs';
 import { FilterService } from '../shared/filter-service';
 
 @Component({
@@ -41,7 +41,10 @@ export class Filter {
   private _filterListener() {
     this.filterFormGroup
       .get('filterStr')
-      ?.valueChanges.pipe(debounceTime(500))
+      ?.valueChanges.pipe(
+        tap(() => this.filterService.filteredList$.set(null)),
+        debounceTime(500)
+      )
       .subscribe((value) => {
         this.filterService.updateFilter(value);
       });

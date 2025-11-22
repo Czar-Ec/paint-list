@@ -19,6 +19,7 @@ async function run() {
       name,
       set,
       hex,
+      brandId: 'twothincoats',
     };
   });
 
