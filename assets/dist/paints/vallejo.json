@@ -1,0 +1,8878 @@
+[
+  {
+    "id": "71.281-3b-russian-green",
+    "name": "3B Russian Green",
+    "code": "71.281",
+    "set": "Model Air",
+    "hex": "#474946"
+  },
+  {
+    "id": "71.282-6k-russian-brown",
+    "name": "6K Russian Brown",
+    "code": "71.282",
+    "set": "Model Air",
+    "hex": "#4D4C4A"
+  },
+  {
+    "id": "71.283-7k-russian-tan",
+    "name": "7K Russian Tan",
+    "code": "71.283",
+    "set": "Model Air",
+    "hex": "#787059"
+  },
+  {
+    "id": "71.336-a-14-steel-grey",
+    "name": "A-14 Steel Grey",
+    "code": "71.336",
+    "set": "Model Air",
+    "hex": "#697271"
+  },
+  {
+    "id": "71.303-a-24m-camouflage-green",
+    "name": "A-24M Camouflage Green",
+    "code": "71.303",
+    "set": "Model Air",
+    "hex": "#575944"
+  },
+  {
+    "id": "71.319-a-28m-greyish-blue",
+    "name": "A-28M Greyish Blue",
+    "code": "71.319",
+    "set": "Model Air",
+    "hex": "#719F92"
+  },
+  {
+    "id": "71.317-aii-sv-gol-light-blue",
+    "name": "AII SV. Gol Light Blue",
+    "code": "71.317",
+    "set": "Model Air",
+    "hex": "#7CC5D6"
+  },
+  {
+    "id": "71.320-amt-1-light-grey-brown",
+    "name": "AMT-1 Light Grey Brown",
+    "code": "71.320",
+    "set": "Model Air",
+    "hex": "#958B81"
+  },
+  {
+    "id": "71.304-amt-11-blue-grey",
+    "name": "AMT-11 Blue Grey",
+    "code": "71.304",
+    "set": "Model Air",
+    "hex": "#5A616B"
+  },
+  {
+    "id": "71.308-amt-12-dark-grey",
+    "name": "AMT-12 Dark Grey",
+    "code": "71.308",
+    "set": "Model Air",
+    "hex": "#43484C"
+  },
+  {
+    "id": "71.301-amt-4-camouflage-green",
+    "name": "AMT-4 Camouflage Green",
+    "code": "71.301",
+    "set": "Model Air",
+    "hex": "#645D40"
+  },
+  {
+    "id": "71.318-amt-7-greyish-blue",
+    "name": "AMT-7 Greyish Blue",
+    "code": "71.318",
+    "set": "Model Air",
+    "hex": "#628B9F"
+  },
+  {
+    "id": "76.120-abyssal-turquoise",
+    "name": "Abyssal Turquoise",
+    "code": "76.120",
+    "set": "Game Air",
+    "hex": "#1B3E54"
+  },
+  {
+    "id": "72.120-abyssal-turquoise",
+    "name": "Abyssal Turquoise",
+    "code": "72.120",
+    "set": "Game Color",
+    "hex": "#1B3E54"
+  },
+  {
+    "id": "72.607-acid",
+    "name": "Acid",
+    "code": "72.607",
+    "set": "Game Color Special FX",
+    "hex": "#539E5D"
+  },
+  {
+    "id": "70.336-afrikakorps-tank-crew",
+    "name": "Afrikakorps Tank Crew",
+    "code": "70.336",
+    "set": "Panzer Aces",
+    "hex": "#6E705B"
+  },
+  {
+    "id": "70.340-afrikakorps-tank-crew-highlights",
+    "name": "Afrikakorps Tank Crew Highlights",
+    "code": "70.340",
+    "set": "Panzer Aces",
+    "hex": "#A99D75"
+  },
+  {
+    "id": "71.132-aged-white",
+    "name": "Aged White",
+    "code": "71.132",
+    "set": "Model Air",
+    "hex": "#E3D3AF"
+  },
+  {
+    "id": "71.274-aggressor-gray",
+    "name": "Aggressor Gray",
+    "code": "71.274",
+    "set": "Model Air",
+    "hex": "#7B7C7E"
+  },
+  {
+    "id": "72.776-alien-purple",
+    "name": "Alien Purple",
+    "code": "72.776",
+    "set": "Game Air",
+    "hex": "#6D62A6"
+  },
+  {
+    "id": "72.076-alien-purple",
+    "name": "Alien Purple",
+    "code": "72.076",
+    "set": "Game Color",
+    "hex": "#7161A8"
+  },
+  {
+    "id": "76.076-alien-purple",
+    "name": "Alien Purple",
+    "code": "76.076",
+    "set": "Game Air",
+    "hex": "#7161A8"
+  },
+  {
+    "id": "28.025-alien-purple",
+    "name": "Alien Purple",
+    "code": "28.025",
+    "set": "Hobby Paint",
+    "hex": "#7161A8"
+  },
+  {
+    "id": "77.701-aluminium",
+    "name": "Aluminium",
+    "code": "77.701",
+    "set": "Metal Color",
+    "hex": "#AEAEAE"
+  },
+  {
+    "id": "71.062-aluminum-metallic",
+    "name": "Aluminum (Metallic)",
+    "code": "71.062",
+    "set": "Model Air",
+    "hex": "#ACACB6"
+  },
+  {
+    "id": "70.829-amaranth-red",
+    "name": "Amaranth Red",
+    "code": "70.829",
+    "set": "Model Color",
+    "hex": "#D14E30"
+  },
+  {
+    "id": "74.027-amethyst",
+    "name": "Amethyst",
+    "code": "74.027",
+    "set": "Nocturna Models",
+    "hex": "#702A81"
+  },
+  {
+    "id": "70.841-andrea-blue",
+    "name": "Andrea Blue",
+    "code": "70.841",
+    "set": "Model Color",
+    "hex": "#0270AF"
+  },
+  {
+    "id": "72.123-angel-green",
+    "name": "Angel Green",
+    "code": "72.123",
+    "set": "Game Color",
+    "hex": "#324D2C"
+  },
+  {
+    "id": "76.123-angel-green",
+    "name": "Angel Green",
+    "code": "76.123",
+    "set": "Game Air",
+    "hex": "#324D2C"
+  },
+  {
+    "id": "71.052-anthracite-grey",
+    "name": "Anthracite Grey",
+    "code": "71.052",
+    "set": "Model Air",
+    "hex": "#4E4F54"
+  },
+  {
+    "id": "85.015-antique-gold",
+    "name": "Antique Gold",
+    "code": "85.015",
+    "set": "Arte Deco",
+    "hex": "#856A3B"
+  },
+  {
+    "id": "85.175-antique-ochre",
+    "name": "Antique Ochre",
+    "code": "85.175",
+    "set": "Arte Deco",
+    "hex": "#CD9D37"
+  },
+  {
+    "id": "85.002-antique-white",
+    "name": "Antique White",
+    "code": "85.002",
+    "set": "Arte Deco",
+    "hex": "#FCFDED"
+  },
+  {
+    "id": "85.082-apple-green",
+    "name": "Apple Green",
+    "code": "85.082",
+    "set": "Arte Deco",
+    "hex": "#99DA84"
+  },
+  {
+    "id": "72.119-aquamarine",
+    "name": "Aquamarine",
+    "code": "72.119",
+    "set": "Game Color",
+    "hex": "#007C74"
+  },
+  {
+    "id": "71.071-arctic-blue-metallic",
+    "name": "Arctic Blue (Metallic)",
+    "code": "71.071",
+    "set": "Model Air",
+    "hex": "#373C4F"
+  },
+  {
+    "id": "72.002-arctic-white",
+    "name": "Arctic White",
+    "code": "72.002",
+    "set": "Game Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "85.012-arena-sand",
+    "name": "Arena Sand",
+    "code": "85.012",
+    "set": "Arte Deco",
+    "hex": "#FEE8D9"
+  },
+  {
+    "id": "72.466-armor-green",
+    "name": "Armor Green",
+    "code": "72.466",
+    "set": "Xpress Color",
+    "hex": "#1E462B"
+  },
+  {
+    "id": "71.041-armour-brown",
+    "name": "Armour Brown",
+    "code": "71.041",
+    "set": "Model Air",
+    "hex": "#4F4140"
+  },
+  {
+    "id": "72.107-athena-skin",
+    "name": "Athena Skin",
+    "code": "72.107",
+    "set": "Game Color",
+    "hex": "#C85B54"
+  },
+  {
+    "id": "76.107-athena-skin",
+    "name": "Athena Skin",
+    "code": "76.107",
+    "set": "Game Air",
+    "hex": "#C85B54"
+  },
+  {
+    "id": "85.176-autumn-red",
+    "name": "Autumn Red",
+    "code": "85.176",
+    "set": "Arte Deco",
+    "hex": "#833331"
+  },
+  {
+    "id": "70.902-azure",
+    "name": "Azure",
+    "code": "70.902",
+    "set": "Model Color",
+    "hex": "#5B6B9E"
+  },
+  {
+    "id": "70.768-bc-dark-brown",
+    "name": "BC Dark Brown",
+    "code": "70.768",
+    "set": "Model Color",
+    "hex": "#76563D"
+  },
+  {
+    "id": "71.323-bs-dark-earth",
+    "name": "BS Dark Earth",
+    "code": "71.323",
+    "set": "Model Air",
+    "hex": "#6C5B41"
+  },
+  {
+    "id": "71.324-bs-dark-green",
+    "name": "BS Dark Green",
+    "code": "71.324",
+    "set": "Model Air",
+    "hex": "#444631"
+  },
+  {
+    "id": "71.307-bs-medium-sea-grey",
+    "name": "BS Medium Sea Grey",
+    "code": "71.307",
+    "set": "Model Air",
+    "hex": "#80888B"
+  },
+  {
+    "id": "85.061-baby-blue",
+    "name": "Baby Blue",
+    "code": "85.061",
+    "set": "Arte Deco",
+    "hex": "#BCCEEC"
+  },
+  {
+    "id": "85.046-baby-pink",
+    "name": "Baby Pink",
+    "code": "85.046",
+    "set": "Arte Deco",
+    "hex": "#FEA8D6"
+  },
+  {
+    "id": "72.450-bag-of-bones",
+    "name": "Bag of Bones",
+    "code": "72.450",
+    "set": "Xpress Color",
+    "hex": "#C1A16E"
+  },
+  {
+    "id": "72.771-barbarian-flesh",
+    "name": "Barbarian Flesh",
+    "code": "72.771",
+    "set": "Game Air",
+    "hex": "#A17C62"
+  },
+  {
+    "id": "72.071-barbarian-skin",
+    "name": "Barbarian Skin",
+    "code": "72.071",
+    "set": "Game Color",
+    "hex": "#926641"
+  },
+  {
+    "id": "76.071-barbarian-skin",
+    "name": "Barbarian Skin",
+    "code": "76.071",
+    "set": "Game Air",
+    "hex": "#926641"
+  },
+  {
+    "id": "70.869-basalt-grey",
+    "name": "Basalt Grey",
+    "code": "70.869",
+    "set": "Model Color",
+    "hex": "#5C5A5D"
+  },
+  {
+    "id": "74.004-base-flesh",
+    "name": "Base Flesh",
+    "code": "74.004",
+    "set": "Nocturna Models",
+    "hex": "#846759"
+  },
+  {
+    "id": "62.010-basic-blue",
+    "name": "Basic Blue",
+    "code": "62.010",
+    "set": "Premium Airbrush Color",
+    "hex": "#0198CD"
+  },
+  {
+    "id": "62.013-basic-green",
+    "name": "Basic Green",
+    "code": "62.013",
+    "set": "Premium Airbrush Color",
+    "hex": "#006E47"
+  },
+  {
+    "id": "70.815-basic-skin-tone",
+    "name": "Basic Skin Tone",
+    "code": "70.815",
+    "set": "Model Color",
+    "hex": "#E9AC8D"
+  },
+  {
+    "id": "62.003-basic-yellow",
+    "name": "Basic Yellow",
+    "code": "62.003",
+    "set": "Premium Airbrush Color",
+    "hex": "#FEC303"
+  },
+  {
+    "id": "72.473-battledress-brown",
+    "name": "Battledress Brown",
+    "code": "72.473",
+    "set": "Xpress Color",
+    "hex": "#5D4C32"
+  },
+  {
+    "id": "76.043-beasty-brown",
+    "name": "Beasty Brown",
+    "code": "76.043",
+    "set": "Game Air",
+    "hex": "#7C5222"
+  },
+  {
+    "id": "72.043-beasty-brown",
+    "name": "Beasty Brown",
+    "code": "72.043",
+    "set": "Game Color",
+    "hex": "#7F5525"
+  },
+  {
+    "id": "72.743-beasty-brown",
+    "name": "Beasty Brown",
+    "code": "72.743",
+    "set": "Game Air",
+    "hex": "#7A543D"
+  },
+  {
+    "id": "28.019-beasty-brown",
+    "name": "Beasty Brown",
+    "code": "28.019",
+    "set": "Hobby Paint",
+    "hex": "#785841"
+  },
+  {
+    "id": "70.917-beige",
+    "name": "Beige",
+    "code": "70.917",
+    "set": "Model Color",
+    "hex": "#DFBE6F"
+  },
+  {
+    "id": "71.074-beige",
+    "name": "Beige",
+    "code": "71.074",
+    "set": "Model Air",
+    "hex": "#E4C082"
+  },
+  {
+    "id": "70.875-beige-brown",
+    "name": "Beige Brown",
+    "code": "70.875",
+    "set": "Model Color",
+    "hex": "#816041"
+  },
+  {
+    "id": "70.804-beige-red",
+    "name": "Beige Red",
+    "code": "70.804",
+    "set": "Model Color",
+    "hex": "#B06E4B"
+  },
+  {
+    "id": "85.038-berry-red",
+    "name": "Berry Red",
+    "code": "85.038",
+    "set": "Arte Deco",
+    "hex": "#A81915"
+  },
+  {
+    "id": "72.606-bile",
+    "name": "Bile",
+    "code": "72.606",
+    "set": "Game Color Special FX",
+    "hex": "#A4C600"
+  },
+  {
+    "id": "76.122-bile-green",
+    "name": "Bile Green",
+    "code": "76.122",
+    "set": "Game Air",
+    "hex": "#D5D900"
+  },
+  {
+    "id": "72.122-bile-green",
+    "name": "Bile Green",
+    "code": "72.122",
+    "set": "Game Color",
+    "hex": "#D5D900"
+  },
+  {
+    "id": "76.051-black",
+    "name": "Black",
+    "code": "76.051",
+    "set": "Game Air",
+    "hex": "#000000"
+  },
+  {
+    "id": "72.751-black",
+    "name": "Black",
+    "code": "72.751",
+    "set": "Game Air",
+    "hex": "#010101"
+  },
+  {
+    "id": "71.057-black",
+    "name": "Black",
+    "code": "71.057",
+    "set": "Model Air",
+    "hex": "#2D2E30"
+  },
+  {
+    "id": "28.012-black",
+    "name": "Black",
+    "code": "28.012",
+    "set": "Hobby Paint",
+    "hex": "#000000"
+  },
+  {
+    "id": "70.602-black",
+    "name": "Black",
+    "code": "70.602",
+    "set": "Surface Primer",
+    "hex": "#060606"
+  },
+  {
+    "id": "72.051-black",
+    "name": "Black",
+    "code": "72.051",
+    "set": "Game Color",
+    "hex": "#000000"
+  },
+  {
+    "id": "76.518-black",
+    "name": "Black",
+    "code": "76.518",
+    "set": "Wash FX",
+    "hex": "#323031"
+  },
+  {
+    "id": "70.642-black",
+    "name": "Black",
+    "code": "70.642",
+    "set": "Mecha Color",
+    "hex": "#010101"
+  },
+  {
+    "id": "72.094-black",
+    "name": "Black",
+    "code": "72.094",
+    "set": "Game Color",
+    "hex": "#000000"
+  },
+  {
+    "id": "62.020-black",
+    "name": "Black",
+    "code": "62.020",
+    "set": "Premium Airbrush Color",
+    "hex": "#010101"
+  },
+  {
+    "id": "85.120-black",
+    "name": "Black",
+    "code": "85.120",
+    "set": "Arte Deco",
+    "hex": "#020202"
+  },
+  {
+    "id": "70.950-black",
+    "name": "Black",
+    "code": "70.950",
+    "set": "Model Color",
+    "hex": "#231D1D"
+  },
+  {
+    "id": "71.073-black-metallic",
+    "name": "Black (Metallic)",
+    "code": "71.073",
+    "set": "Model Air",
+    "hex": "#625E6C"
+  },
+  {
+    "id": "70.855-black-glaze",
+    "name": "Black Glaze",
+    "code": "70.855",
+    "set": "Model Color",
+    "hex": "#383838"
+  },
+  {
+    "id": "70.980-black-green",
+    "name": "Black Green",
+    "code": "70.980",
+    "set": "Model Color",
+    "hex": "#2A342B"
+  },
+  {
+    "id": "72.090-black-green",
+    "name": "Black Green",
+    "code": "72.090",
+    "set": "Game Color",
+    "hex": "#3D634A"
+  },
+  {
+    "id": "71.018-black-green",
+    "name": "Black Green",
+    "code": "71.018",
+    "set": "Model Air",
+    "hex": "#444D4C"
+  },
+  {
+    "id": "85.163-black-green",
+    "name": "Black Green",
+    "code": "85.163",
+    "set": "Arte Deco",
+    "hex": "#1E3930"
+  },
+  {
+    "id": "71.021-black-green-rlm70",
+    "name": "Black Green RLM70",
+    "code": "71.021",
+    "set": "Model Air",
+    "hex": "#444645"
+  },
+  {
+    "id": "70.862-black-grey",
+    "name": "Black Grey",
+    "code": "70.862",
+    "set": "Model Color",
+    "hex": "#302722"
+  },
+  {
+    "id": "71.055-black-grey-rlm66",
+    "name": "Black Grey RLM66",
+    "code": "71.055",
+    "set": "Model Air",
+    "hex": "#505153"
+  },
+  {
+    "id": "72.423-black-lotus",
+    "name": "Black Lotus",
+    "code": "72.423",
+    "set": "Xpress Color",
+    "hex": "#302627"
+  },
+  {
+    "id": "70.859-black-red",
+    "name": "Black Red",
+    "code": "70.859",
+    "set": "Model Color",
+    "hex": "#552F2C"
+  },
+  {
+    "id": "73.806-black-splash-mud",
+    "name": "Black Splash Mud",
+    "code": "73.806",
+    "set": "Weathering FX",
+    "hex": "#27262B"
+  },
+  {
+    "id": "73.812-black-thick-mud",
+    "name": "Black Thick Mud",
+    "code": "73.812",
+    "set": "Weathering FX",
+    "hex": "#262626"
+  },
+  {
+    "id": "70.751-black-violet",
+    "name": "Black Violet",
+    "code": "70.751",
+    "set": "Model Color",
+    "hex": "#392A31"
+  },
+  {
+    "id": "69.518-black-wash",
+    "name": "Black Wash",
+    "code": "69.518",
+    "set": "Mecha Color",
+    "hex": "#010101"
+  },
+  {
+    "id": "73.301-black-wash",
+    "name": "Black Wash",
+    "code": "73.301",
+    "set": "Game Color Wash",
+    "hex": "#0E0D0E"
+  },
+  {
+    "id": "73.201-black-wash",
+    "name": "Black Wash",
+    "code": "73.201",
+    "set": "Game Color Wash",
+    "hex": "#343235"
+  },
+  {
+    "id": "28.023-bloody-red",
+    "name": "Bloody Red",
+    "code": "28.023",
+    "set": "Hobby Paint",
+    "hex": "#BF1B33"
+  },
+  {
+    "id": "70.632-bloody-red",
+    "name": "Bloody Red",
+    "code": "70.632",
+    "set": "Surface Primer",
+    "hex": "#AC2C29"
+  },
+  {
+    "id": "72.710-bloody-red",
+    "name": "Bloody Red",
+    "code": "72.710",
+    "set": "Game Air",
+    "hex": "#CD3230"
+  },
+  {
+    "id": "72.010-bloody-red",
+    "name": "Bloody Red",
+    "code": "72.010",
+    "set": "Game Color",
+    "hex": "#D41C1C"
+  },
+  {
+    "id": "76.010-bloody-red",
+    "name": "Bloody Red",
+    "code": "76.010",
+    "set": "Game Air",
+    "hex": "#D41C1C"
+  },
+  {
+    "id": "72.088-blue",
+    "name": "Blue",
+    "code": "72.088",
+    "set": "Game Color",
+    "hex": "#00528E"
+  },
+  {
+    "id": "69.019-blue",
+    "name": "Blue",
+    "code": "69.019",
+    "set": "Mecha Color",
+    "hex": "#44689C"
+  },
+  {
+    "id": "71.004-blue",
+    "name": "Blue",
+    "code": "71.004",
+    "set": "Model Air",
+    "hex": "#2C4063"
+  },
+  {
+    "id": "70.925-blue",
+    "name": "Blue",
+    "code": "70.925",
+    "set": "Model Color",
+    "hex": "#372C4C"
+  },
+  {
+    "id": "70.736-blue-fluorescent",
+    "name": "Blue Fluorescent",
+    "code": "70.736",
+    "set": "Model Color",
+    "hex": "#0370B1"
+  },
+  {
+    "id": "70.808-blue-green",
+    "name": "Blue Green",
+    "code": "70.808",
+    "set": "Model Color",
+    "hex": "#007A89"
+  },
+  {
+    "id": "62.012-blue-green",
+    "name": "Blue Green",
+    "code": "62.012",
+    "set": "Premium Airbrush Color",
+    "hex": "#017574"
+  },
+  {
+    "id": "76.524-blue-grey",
+    "name": "Blue Grey",
+    "code": "76.524",
+    "set": "Wash FX",
+    "hex": "#91A2A9"
+  },
+  {
+    "id": "69.015-blue-grey",
+    "name": "Blue Grey",
+    "code": "69.015",
+    "set": "Mecha Color",
+    "hex": "#6A8795"
+  },
+  {
+    "id": "71.115-blue-grey",
+    "name": "Blue Grey",
+    "code": "71.115",
+    "set": "Model Air",
+    "hex": "#454952"
+  },
+  {
+    "id": "85.072-blue-grey-mist",
+    "name": "Blue Grey Mist",
+    "code": "85.072",
+    "set": "Arte Deco",
+    "hex": "#6AA29F"
+  },
+  {
+    "id": "70.905-blue-grey-pale",
+    "name": "Blue Grey Pale",
+    "code": "70.905",
+    "set": "Model Color",
+    "hex": "#808686"
+  },
+  {
+    "id": "85.073-blue-maze",
+    "name": "Blue Maze",
+    "code": "85.073",
+    "set": "Arte Deco",
+    "hex": "#3B5D6A"
+  },
+  {
+    "id": "70.811-blue-violet",
+    "name": "Blue Violet",
+    "code": "70.811",
+    "set": "Model Color",
+    "hex": "#59467E"
+  },
+  {
+    "id": "73.207-blue-wash",
+    "name": "Blue Wash",
+    "code": "73.207",
+    "set": "Game Color Wash",
+    "hex": "#1A5B9B"
+  },
+  {
+    "id": "85.064-blueberry",
+    "name": "Blueberry",
+    "code": "85.064",
+    "set": "Arte Deco",
+    "hex": "#1B2E6A"
+  },
+  {
+    "id": "74.031-blueberry",
+    "name": "Blueberry",
+    "code": "74.031",
+    "set": "Nocturna Models",
+    "hex": "#6C75B8"
+  },
+  {
+    "id": "85.080-bluegrass-green",
+    "name": "Bluegrass Green",
+    "code": "85.080",
+    "set": "Arte Deco",
+    "hex": "#007B59"
+  },
+  {
+    "id": "72.734-bone-white",
+    "name": "Bone White",
+    "code": "72.734",
+    "set": "Game Air",
+    "hex": "#C3B89C"
+  },
+  {
+    "id": "28.013-bone-white",
+    "name": "Bone White",
+    "code": "28.013",
+    "set": "Hobby Paint",
+    "hex": "#D4BE99"
+  },
+  {
+    "id": "76.034-bone-white",
+    "name": "Bone White",
+    "code": "76.034",
+    "set": "Game Air",
+    "hex": "#BEA374"
+  },
+  {
+    "id": "72.034-bone-white",
+    "name": "Bone White",
+    "code": "72.034",
+    "set": "Game Color",
+    "hex": "#BEA374"
+  },
+  {
+    "id": "85.049-bougainvillea",
+    "name": "Bougainvillea",
+    "code": "85.049",
+    "set": "Arte Deco",
+    "hex": "#AC2D84"
+  },
+  {
+    "id": "85.024-boysenberry-pink",
+    "name": "Boysenberry Pink",
+    "code": "85.024",
+    "set": "Arte Deco",
+    "hex": "#DB4584"
+  },
+  {
+    "id": "85.042-brandywine",
+    "name": "Brandywine",
+    "code": "85.042",
+    "set": "Arte Deco",
+    "hex": "#7B1C16"
+  },
+  {
+    "id": "70.801-brass",
+    "name": "Brass",
+    "code": "70.801",
+    "set": "Model Color",
+    "hex": "#643B1D"
+  },
+  {
+    "id": "72.758-brassy-brass",
+    "name": "Brassy Brass",
+    "code": "72.758",
+    "set": "Game Air",
+    "hex": "#A15323"
+  },
+  {
+    "id": "72.058-brassy-brass",
+    "name": "Brassy Brass",
+    "code": "72.058",
+    "set": "Game Color",
+    "hex": "#E9D7CB"
+  },
+  {
+    "id": "71.067-bright-brass-metallic",
+    "name": "Bright Brass (Metallic)",
+    "code": "71.067",
+    "set": "Model Air",
+    "hex": "#9F8F5B"
+  },
+  {
+    "id": "72.057-bright-bronze",
+    "name": "Bright Bronze",
+    "code": "72.057",
+    "set": "Game Color",
+    "hex": "#E7D5BF"
+  },
+  {
+    "id": "72.757-bright-bronze",
+    "name": "Bright Bronze",
+    "code": "72.757",
+    "set": "Game Air",
+    "hex": "#95664C"
+  },
+  {
+    "id": "85.091-bright-green",
+    "name": "Bright Green",
+    "code": "85.091",
+    "set": "Arte Deco",
+    "hex": "#61C44E"
+  },
+  {
+    "id": "70.851-bright-orange",
+    "name": "Bright Orange",
+    "code": "70.851",
+    "set": "Model Color",
+    "hex": "#E05921"
+  },
+  {
+    "id": "62.005-bright-red",
+    "name": "Bright Red",
+    "code": "62.005",
+    "set": "Premium Airbrush Color",
+    "hex": "#9D2723"
+  },
+  {
+    "id": "70.317-british-tank-crew",
+    "name": "British Tank Crew",
+    "code": "70.317",
+    "set": "Panzer Aces",
+    "hex": "#756D56"
+  },
+  {
+    "id": "70.321-british-tank-crew-highlights",
+    "name": "British Tank Crew Highlights",
+    "code": "70.321",
+    "set": "Panzer Aces",
+    "hex": "#EAC284"
+  },
+  {
+    "id": "69.062-bronze",
+    "name": "Bronze",
+    "code": "69.062",
+    "set": "Mecha Color",
+    "hex": "#766B35"
+  },
+  {
+    "id": "70.998-bronze",
+    "name": "Bronze",
+    "code": "70.998",
+    "set": "Model Color",
+    "hex": "#533C1D"
+  },
+  {
+    "id": "81.123-bronze",
+    "name": "Bronze",
+    "code": "81.123",
+    "set": "Arte Deco",
+    "hex": "#6D4C21"
+  },
+  {
+    "id": "76.036-bronze-brown",
+    "name": "Bronze Brown",
+    "code": "76.036",
+    "set": "Game Air",
+    "hex": "#B16921"
+  },
+  {
+    "id": "72.036-bronze-brown",
+    "name": "Bronze Brown",
+    "code": "72.036",
+    "set": "Game Color",
+    "hex": "#B16921"
+  },
+  {
+    "id": "72.736-bronze-flesh-tone",
+    "name": "Bronze Flesh Tone",
+    "code": "72.736",
+    "set": "Game Air",
+    "hex": "#EF9849"
+  },
+  {
+    "id": "71.250-bronze-green",
+    "name": "Bronze Green",
+    "code": "71.250",
+    "set": "Model Air",
+    "hex": "#545648"
+  },
+  {
+    "id": "70.897-bronze-green",
+    "name": "Bronze Green",
+    "code": "70.897",
+    "set": "Model Color",
+    "hex": "#313A29"
+  },
+  {
+    "id": "69.034-brown",
+    "name": "Brown",
+    "code": "69.034",
+    "set": "Mecha Color",
+    "hex": "#7B674E"
+  },
+  {
+    "id": "76.513-brown",
+    "name": "Brown",
+    "code": "76.513",
+    "set": "Wash FX",
+    "hex": "#7B5F47"
+  },
+  {
+    "id": "72.092-brown",
+    "name": "Brown",
+    "code": "72.092",
+    "set": "Game Color",
+    "hex": "#9A632A"
+  },
+  {
+    "id": "73.818-brown-engine-soot",
+    "name": "Brown Engine Soot",
+    "code": "73.818",
+    "set": "Weathering FX",
+    "hex": "#584E45"
+  },
+  {
+    "id": "69.818-brown-engine-soot-matt",
+    "name": "Brown Engine Soot (Matt)",
+    "code": "69.818",
+    "set": "Mecha Color",
+    "hex": "#5F351F"
+  },
+  {
+    "id": "70.854-brown-glaze",
+    "name": "Brown Glaze",
+    "code": "70.854",
+    "set": "Model Color",
+    "hex": "#4E403D"
+  },
+  {
+    "id": "71.030-brown-green",
+    "name": "Brown Green",
+    "code": "71.030",
+    "set": "Model Air",
+    "hex": "#906F4E"
+  },
+  {
+    "id": "71.248-brown-grey",
+    "name": "Brown Grey",
+    "code": "71.248",
+    "set": "Model Air",
+    "hex": "#62615F"
+  },
+  {
+    "id": "71.105-brown-rlm26",
+    "name": "Brown RLM26",
+    "code": "71.105",
+    "set": "Model Air",
+    "hex": "#844138"
+  },
+  {
+    "id": "70.803-brown-rose",
+    "name": "Brown Rose",
+    "code": "70.803",
+    "set": "Model Color",
+    "hex": "#9C6560"
+  },
+  {
+    "id": "70.876-brown-sand",
+    "name": "Brown Sand",
+    "code": "70.876",
+    "set": "Model Color",
+    "hex": "#906145"
+  },
+  {
+    "id": "73.805-brown-splash-mud",
+    "name": "Brown Splash Mud",
+    "code": "73.805",
+    "set": "Weathering FX",
+    "hex": "#342A29"
+  },
+  {
+    "id": "73.811-brown-thick-mud",
+    "name": "Brown Thick Mud",
+    "code": "73.811",
+    "set": "Weathering FX",
+    "hex": "#46413E"
+  },
+  {
+    "id": "71.264-brown-violet-rlm81",
+    "name": "Brown Violet RLM81",
+    "code": "71.264",
+    "set": "Model Air",
+    "hex": "#635A49"
+  },
+  {
+    "id": "70.976-buff",
+    "name": "Buff",
+    "code": "70.976",
+    "set": "Model Color",
+    "hex": "#D7AF4D"
+  },
+  {
+    "id": "85.037-burgundy",
+    "name": "Burgundy",
+    "code": "85.037",
+    "set": "Arte Deco",
+    "hex": "#C41422"
+  },
+  {
+    "id": "72.770-burned-flesh",
+    "name": "Burned Flesh",
+    "code": "72.770",
+    "set": "Game Air",
+    "hex": "#A26641"
+  },
+  {
+    "id": "74.002-burned-flesh",
+    "name": "Burned Flesh",
+    "code": "74.002",
+    "set": "Nocturna Models",
+    "hex": "#614746"
+  },
+  {
+    "id": "77.721-burnt-iron",
+    "name": "Burnt Iron",
+    "code": "77.721",
+    "set": "Metal Color",
+    "hex": "#7D7D7B"
+  },
+  {
+    "id": "85.030-burnt-orange",
+    "name": "Burnt Orange",
+    "code": "85.030",
+    "set": "Arte Deco",
+    "hex": "#D92625"
+  },
+  {
+    "id": "70.814-burnt-red",
+    "name": "Burnt Red",
+    "code": "70.814",
+    "set": "Model Color",
+    "hex": "#763C3A"
+  },
+  {
+    "id": "85.116-burnt-sienna",
+    "name": "Burnt Sienna",
+    "code": "85.116",
+    "set": "Arte Deco",
+    "hex": "#672C28"
+  },
+  {
+    "id": "85.117-burnt-umber",
+    "name": "Burnt Umber",
+    "code": "85.117",
+    "set": "Arte Deco",
+    "hex": "#4B473E"
+  },
+  {
+    "id": "70.941-burnt-umber",
+    "name": "Burnt Umber",
+    "code": "70.941",
+    "set": "Model Color",
+    "hex": "#513B2E"
+  },
+  {
+    "id": "71.040-burnt-umber",
+    "name": "Burnt Umber",
+    "code": "71.040",
+    "set": "Model Air",
+    "hex": "#483E34"
+  },
+  {
+    "id": "85.003-buttermilk",
+    "name": "Buttermilk",
+    "code": "85.003",
+    "set": "Arte Deco",
+    "hex": "#FFFDE2"
+  },
+  {
+    "id": "85.033-calico-red",
+    "name": "Calico Red",
+    "code": "85.033",
+    "set": "Arte Deco",
+    "hex": "#E20F16"
+  },
+  {
+    "id": "70.822-camouflage-black-brown",
+    "name": "Camouflage Black Brown",
+    "code": "70.822",
+    "set": "Model Color",
+    "hex": "#403436"
+  },
+  {
+    "id": "70.741-camouflage-black-green",
+    "name": "Camouflage Black Green",
+    "code": "70.741",
+    "set": "Model Color",
+    "hex": "#313129"
+  },
+  {
+    "id": "71.117-camouflage-brown",
+    "name": "Camouflage Brown",
+    "code": "71.117",
+    "set": "Model Air",
+    "hex": "#AE906E"
+  },
+  {
+    "id": "70.979-camouflage-dark-green",
+    "name": "Camouflage Dark Green",
+    "code": "70.979",
+    "set": "Model Color",
+    "hex": "#263025"
+  },
+  {
+    "id": "71.019-camouflage-dark-green",
+    "name": "Camouflage Dark Green",
+    "code": "71.019",
+    "set": "Model Air",
+    "hex": "#4B4E47"
+  },
+  {
+    "id": "71.280-camouflage-gray",
+    "name": "Camouflage Gray",
+    "code": "71.280",
+    "set": "Model Air",
+    "hex": "#6A6C69"
+  },
+  {
+    "id": "72.467-camouflage-green",
+    "name": "Camouflage Green",
+    "code": "72.467",
+    "set": "Xpress Color",
+    "hex": "#605D32"
+  },
+  {
+    "id": "76.031-camouflage-green",
+    "name": "Camouflage Green",
+    "code": "76.031",
+    "set": "Game Air",
+    "hex": "#8B7732"
+  },
+  {
+    "id": "72.031-camouflage-green",
+    "name": "Camouflage Green",
+    "code": "72.031",
+    "set": "Game Color",
+    "hex": "#8B7732"
+  },
+  {
+    "id": "71.118-camouflage-grey",
+    "name": "Camouflage Grey",
+    "code": "71.118",
+    "set": "Model Air",
+    "hex": "#867966"
+  },
+  {
+    "id": "71.116-camouflage-grey-green",
+    "name": "Camouflage Grey Green",
+    "code": "71.116",
+    "set": "Model Air",
+    "hex": "#7A694B"
+  },
+  {
+    "id": "71.038-camouflage-medium-brown",
+    "name": "Camouflage Medium Brown",
+    "code": "71.038",
+    "set": "Model Air",
+    "hex": "#5F4E3E"
+  },
+  {
+    "id": "70.740-camouflage-middle-brown",
+    "name": "Camouflage Middle Brown",
+    "code": "70.740",
+    "set": "Model Color",
+    "hex": "#513E20"
+  },
+  {
+    "id": "70.894-camouflage-olive-green",
+    "name": "Camouflage Olive Green",
+    "code": "70.894",
+    "set": "Model Color",
+    "hex": "#3C3D2F"
+  },
+  {
+    "id": "71.035-camouflage-pale-brown",
+    "name": "Camouflage Pale Brown",
+    "code": "71.035",
+    "set": "Model Air",
+    "hex": "#796453"
+  },
+  {
+    "id": "62.079-candy-black",
+    "name": "Candy Black",
+    "code": "62.079",
+    "set": "Premium Airbrush Color",
+    "hex": "#4C413F"
+  },
+  {
+    "id": "62.078-candy-brown",
+    "name": "Candy Brown",
+    "code": "62.078",
+    "set": "Premium Airbrush Color",
+    "hex": "#CEB6AC"
+  },
+  {
+    "id": "62.072-candy-dark-yellow",
+    "name": "Candy Dark Yellow",
+    "code": "62.072",
+    "set": "Premium Airbrush Color",
+    "hex": "#F8B075"
+  },
+  {
+    "id": "62.075-candy-magenta",
+    "name": "Candy Magenta",
+    "code": "62.075",
+    "set": "Premium Airbrush Color",
+    "hex": "#E17EAA"
+  },
+  {
+    "id": "62.073-candy-orange",
+    "name": "Candy Orange",
+    "code": "62.073",
+    "set": "Premium Airbrush Color",
+    "hex": "#F5A975"
+  },
+  {
+    "id": "62.076-candy-racing-blue",
+    "name": "Candy Racing Blue",
+    "code": "62.076",
+    "set": "Premium Airbrush Color",
+    "hex": "#7AA6D7"
+  },
+  {
+    "id": "62.077-candy-racing-green",
+    "name": "Candy Racing Green",
+    "code": "62.077",
+    "set": "Premium Airbrush Color",
+    "hex": "#A2D5D0"
+  },
+  {
+    "id": "62.074-candy-red",
+    "name": "Candy Red",
+    "code": "62.074",
+    "set": "Premium Airbrush Color",
+    "hex": "#E58877"
+  },
+  {
+    "id": "62.071-candy-yellow",
+    "name": "Candy Yellow",
+    "code": "62.071",
+    "set": "Premium Airbrush Color",
+    "hex": "#FCE37E"
+  },
+  {
+    "id": "70.314-canvas",
+    "name": "Canvas",
+    "code": "70.314",
+    "set": "Panzer Aces",
+    "hex": "#6E6554"
+  },
+  {
+    "id": "70.763-canvas",
+    "name": "Canvas",
+    "code": "70.763",
+    "set": "Model Color",
+    "hex": "#4D3E1F"
+  },
+  {
+    "id": "72.408-cardinal-purple",
+    "name": "Cardinal Purple",
+    "code": "72.408",
+    "set": "Xpress Color",
+    "hex": "#C81928"
+  },
+  {
+    "id": "72.414-caribbean-turquoise",
+    "name": "Caribbean Turquoise",
+    "code": "72.414",
+    "set": "Xpress Color",
+    "hex": "#005961"
+  },
+  {
+    "id": "62.006-carmine",
+    "name": "Carmine",
+    "code": "62.006",
+    "set": "Premium Airbrush Color",
+    "hex": "#AC2E32"
+  },
+  {
+    "id": "70.908-carmine-red",
+    "name": "Carmine Red",
+    "code": "70.908",
+    "set": "Model Color",
+    "hex": "#97211F"
+  },
+  {
+    "id": "85.107-cashmere-beige",
+    "name": "Cashmere Beige",
+    "code": "85.107",
+    "set": "Arte Deco",
+    "hex": "#FEBDB5"
+  },
+  {
+    "id": "70.982-cavalry-brown",
+    "name": "Cavalry Brown",
+    "code": "70.982",
+    "set": "Model Color",
+    "hex": "#84443A"
+  },
+  {
+    "id": "72.067-cayman-green",
+    "name": "Cayman Green",
+    "code": "72.067",
+    "set": "Game Color",
+    "hex": "#59542A"
+  },
+  {
+    "id": "71.045-cement-grey",
+    "name": "Cement Grey",
+    "code": "71.045",
+    "set": "Model Air",
+    "hex": "#91948B"
+  },
+  {
+    "id": "72.753-chain-mail-silver",
+    "name": "Chain Mail Silver",
+    "code": "72.753",
+    "set": "Game Air",
+    "hex": "#AEAEAE"
+  },
+  {
+    "id": "72.053-chainmail",
+    "name": "Chainmail",
+    "code": "72.053",
+    "set": "Game Color",
+    "hex": "#E4E5E9"
+  },
+  {
+    "id": "74.017-chalice-red",
+    "name": "Chalice Red",
+    "code": "74.017",
+    "set": "Nocturna Models",
+    "hex": "#45384C"
+  },
+  {
+    "id": "72.455-chameleon-orange",
+    "name": "Chameleon Orange",
+    "code": "72.455",
+    "set": "Xpress Color",
+    "hex": "#CE652E"
+  },
+  {
+    "id": "72.155-charcoal",
+    "name": "Charcoal",
+    "code": "72.155",
+    "set": "Game Color",
+    "hex": "#363638"
+  },
+  {
+    "id": "85.119-charcoal-grey",
+    "name": "Charcoal Grey",
+    "code": "85.119",
+    "set": "Arte Deco",
+    "hex": "#253338"
+  },
+  {
+    "id": "72.045-charred-brown",
+    "name": "Charred Brown",
+    "code": "72.045",
+    "set": "Game Color",
+    "hex": "#422A26"
+  },
+  {
+    "id": "72.745-charred-brown",
+    "name": "Charred Brown",
+    "code": "72.745",
+    "set": "Game Air",
+    "hex": "#4D4542"
+  },
+  {
+    "id": "76.045-charred-brown",
+    "name": "Charred Brown",
+    "code": "76.045",
+    "set": "Game Air",
+    "hex": "#422A26"
+  },
+  {
+    "id": "70.746-chestnut-brown",
+    "name": "Chestnut Brown",
+    "code": "70.746",
+    "set": "Model Color",
+    "hex": "#603F36"
+  },
+  {
+    "id": "69.035-chipping-brown",
+    "name": "Chipping Brown",
+    "code": "69.035",
+    "set": "Mecha Color",
+    "hex": "#484242"
+  },
+  {
+    "id": "70.872-chocolate-brown",
+    "name": "Chocolate Brown",
+    "code": "70.872",
+    "set": "Model Color",
+    "hex": "#58443D"
+  },
+  {
+    "id": "77.707-chrome",
+    "name": "Chrome",
+    "code": "77.707",
+    "set": "Metal Color",
+    "hex": "#AFAFAF"
+  },
+  {
+    "id": "71.064-chrome-metallic",
+    "name": "Chrome (Metallic)",
+    "code": "71.064",
+    "set": "Model Air",
+    "hex": "#A8A8B2"
+  },
+  {
+    "id": "62.067-cleaner",
+    "name": "Cleaner",
+    "code": "62.067",
+    "set": "Premium Airbrush Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "62.068-clear-base",
+    "name": "Clear Base",
+    "code": "62.068",
+    "set": "Premium Airbrush Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "70.956-clear-orange",
+    "name": "Clear Orange",
+    "code": "70.956",
+    "set": "Model Color",
+    "hex": "#CC4527"
+  },
+  {
+    "id": "62.009-cobalt-blue",
+    "name": "Cobalt Blue",
+    "code": "62.009",
+    "set": "Premium Airbrush Color",
+    "hex": "#34578F"
+  },
+  {
+    "id": "72.740-cobra-leather",
+    "name": "Cobra Leather",
+    "code": "72.740",
+    "set": "Game Air",
+    "hex": "#855C26"
+  },
+  {
+    "id": "71.331-cockpit-emerald-green-faded",
+    "name": "Cockpit Emerald Green “Faded”",
+    "code": "71.331",
+    "set": "Model Air",
+    "hex": "#46857A"
+  },
+  {
+    "id": "74.014-cold-flesh",
+    "name": "Cold Flesh",
+    "code": "74.014",
+    "set": "Nocturna Models",
+    "hex": "#838591"
+  },
+  {
+    "id": "72.750-cold-grey",
+    "name": "Cold Grey",
+    "code": "72.750",
+    "set": "Game Air",
+    "hex": "#828385"
+  },
+  {
+    "id": "70.919-cold-white",
+    "name": "Cold White",
+    "code": "70.919",
+    "set": "Model Color",
+    "hex": "#F6F6F8"
+  },
+  {
+    "id": "85.074-colonial-green",
+    "name": "Colonial Green",
+    "code": "85.074",
+    "set": "Arte Deco",
+    "hex": "#4F8384"
+  },
+  {
+    "id": "72.468-commando-green",
+    "name": "Commando Green",
+    "code": "72.468",
+    "set": "Xpress Color",
+    "hex": "#3E4F3C"
+  },
+  {
+    "id": "71.131-concrete",
+    "name": "Concrete",
+    "code": "71.131",
+    "set": "Model Air",
+    "hex": "#776D61"
+  },
+  {
+    "id": "70.754-continental-blue",
+    "name": "Continental Blue",
+    "code": "70.754",
+    "set": "Model Color",
+    "hex": "#25242A"
+  },
+  {
+    "id": "85.103-cool-neutral-tone",
+    "name": "Cool Neutral Tone",
+    "code": "85.103",
+    "set": "Arte Deco",
+    "hex": "#B2A48F"
+  },
+  {
+    "id": "77.710-copper",
+    "name": "Copper",
+    "code": "77.710",
+    "set": "Metal Color",
+    "hex": "#9C8F87"
+  },
+  {
+    "id": "69.061-copper",
+    "name": "Copper",
+    "code": "69.061",
+    "set": "Mecha Color",
+    "hex": "#9A5B3A"
+  },
+  {
+    "id": "62.050-copper",
+    "name": "Copper",
+    "code": "62.050",
+    "set": "Premium Airbrush Color",
+    "hex": "#E9DBD2"
+  },
+  {
+    "id": "70.797-copper",
+    "name": "Copper",
+    "code": "70.797",
+    "set": "Liquid Gold",
+    "hex": "#E7CFC5"
+  },
+  {
+    "id": "81.171-copper",
+    "name": "Copper",
+    "code": "81.171",
+    "set": "Arte Deco",
+    "hex": "#BB4812"
+  },
+  {
+    "id": "70.999-copper",
+    "name": "Copper",
+    "code": "70.999",
+    "set": "Model Color",
+    "hex": "#803427"
+  },
+  {
+    "id": "71.068-copper-metallic",
+    "name": "Copper (Metallic)",
+    "code": "71.068",
+    "set": "Model Air",
+    "hex": "#8C5C48"
+  },
+  {
+    "id": "72.421-copper-brown",
+    "name": "Copper Brown",
+    "code": "72.421",
+    "set": "Xpress Color",
+    "hex": "#532C25"
+  },
+  {
+    "id": "85.025-coral-rose",
+    "name": "Coral Rose",
+    "code": "85.025",
+    "set": "Arte Deco",
+    "hex": "#ED7590"
+  },
+  {
+    "id": "70.843-cork-brown",
+    "name": "Cork Brown",
+    "code": "70.843",
+    "set": "Model Color",
+    "hex": "#A16F4E"
+  },
+  {
+    "id": "72.608-corrosion",
+    "name": "Corrosion",
+    "code": "72.608",
+    "set": "Game Color Special FX",
+    "hex": "#572922"
+  },
+  {
+    "id": "85.056-country-blue",
+    "name": "Country Blue",
+    "code": "85.056",
+    "set": "Arte Deco",
+    "hex": "#939ED6"
+  },
+  {
+    "id": "85.034-country-red",
+    "name": "Country Red",
+    "code": "85.034",
+    "set": "Arte Deco",
+    "hex": "#9F1B19"
+  },
+  {
+    "id": "84.160-crackle-medium",
+    "name": "Crackle Medium",
+    "code": "84.160",
+    "set": "Arte Deco",
+    "hex": "#F8F5E5"
+  },
+  {
+    "id": "85.043-cranberry",
+    "name": "Cranberry",
+    "code": "85.043",
+    "set": "Arte Deco",
+    "hex": "#4A2828"
+  },
+  {
+    "id": "70.766-cream-white",
+    "name": "Cream White",
+    "code": "70.766",
+    "set": "Model Color",
+    "hex": "#E3D1C3"
+  },
+  {
+    "id": "74.018-crimson",
+    "name": "Crimson",
+    "code": "74.018",
+    "set": "Nocturna Models",
+    "hex": "#65263E"
+  },
+  {
+    "id": "85.039-crimson-tide",
+    "name": "Crimson Tide",
+    "code": "85.039",
+    "set": "Arte Deco",
+    "hex": "#833F58"
+  },
+  {
+    "id": "73.825-crushed-grass",
+    "name": "Crushed Grass",
+    "code": "73.825",
+    "set": "Weathering FX",
+    "hex": "#8E906B"
+  },
+  {
+    "id": "77.703-dark-aluminium",
+    "name": "Dark Aluminium",
+    "code": "77.703",
+    "set": "Metal Color",
+    "hex": "#949496"
+  },
+  {
+    "id": "72.017-dark-blue",
+    "name": "Dark Blue",
+    "code": "72.017",
+    "set": "Game Color",
+    "hex": "#464775"
+  },
+  {
+    "id": "69.021-dark-blue",
+    "name": "Dark Blue",
+    "code": "69.021",
+    "set": "Mecha Color",
+    "hex": "#405B78"
+  },
+  {
+    "id": "62.011-dark-blue",
+    "name": "Dark Blue",
+    "code": "62.011",
+    "set": "Premium Airbrush Color",
+    "hex": "#39374F"
+  },
+  {
+    "id": "70.930-dark-blue",
+    "name": "Dark Blue",
+    "code": "70.930",
+    "set": "Model Color",
+    "hex": "#273461"
+  },
+  {
+    "id": "70.904-dark-blue-grey",
+    "name": "Dark Blue Grey",
+    "code": "70.904",
+    "set": "Model Color",
+    "hex": "#6D8589"
+  },
+  {
+    "id": "70.867-dark-blue-grey",
+    "name": "Dark Blue Grey",
+    "code": "70.867",
+    "set": "Model Color",
+    "hex": "#424345"
+  },
+  {
+    "id": "71.266-dark-blue-rlm24",
+    "name": "Dark Blue RLM24",
+    "code": "71.266",
+    "set": "Model Air",
+    "hex": "#2E4861"
+  },
+  {
+    "id": "76.514-dark-brown",
+    "name": "Dark Brown",
+    "code": "76.514",
+    "set": "Wash FX",
+    "hex": "#6D504A"
+  },
+  {
+    "id": "71.042-dark-brown-rlm61",
+    "name": "Dark Brown RLM61",
+    "code": "71.042",
+    "set": "Model Air",
+    "hex": "#484745"
+  },
+  {
+    "id": "85.118-dark-chocolate",
+    "name": "Dark Chocolate",
+    "code": "85.118",
+    "set": "Arte Deco",
+    "hex": "#522721"
+  },
+  {
+    "id": "71.029-dark-earth",
+    "name": "Dark Earth",
+    "code": "71.029",
+    "set": "Model Air",
+    "hex": "#5E5544"
+  },
+  {
+    "id": "70.927-dark-flesh",
+    "name": "Dark Flesh",
+    "code": "70.927",
+    "set": "Model Color",
+    "hex": "#D3933B"
+  },
+  {
+    "id": "72.744-dark-flesh-tone",
+    "name": "Dark Flesh Tone",
+    "code": "72.744",
+    "set": "Game Air",
+    "hex": "#5B4844"
+  },
+  {
+    "id": "72.044-dark-fleshtone",
+    "name": "Dark Fleshtone",
+    "code": "72.044",
+    "set": "Game Color",
+    "hex": "#603429"
+  },
+  {
+    "id": "71.120-dark-ghost-gray",
+    "name": "Dark Ghost Gray",
+    "code": "71.120",
+    "set": "Model Air",
+    "hex": "#8A97A0"
+  },
+  {
+    "id": "71.123-dark-gray-rlm42",
+    "name": "Dark Gray RLM42",
+    "code": "71.123",
+    "set": "Model Air",
+    "hex": "#515352"
+  },
+  {
+    "id": "72.028-dark-green",
+    "name": "Dark Green",
+    "code": "72.028",
+    "set": "Game Color",
+    "hex": "#1F3727"
+  },
+  {
+    "id": "76.512-dark-green",
+    "name": "Dark Green",
+    "code": "76.512",
+    "set": "Wash FX",
+    "hex": "#74712A"
+  },
+  {
+    "id": "28.026-dark-green",
+    "name": "Dark Green",
+    "code": "28.026",
+    "set": "Hobby Paint",
+    "hex": "#3C463E"
+  },
+  {
+    "id": "72.728-dark-green",
+    "name": "Dark Green",
+    "code": "72.728",
+    "set": "Game Air",
+    "hex": "#274E39"
+  },
+  {
+    "id": "69.030-dark-green",
+    "name": "Dark Green",
+    "code": "69.030",
+    "set": "Mecha Color",
+    "hex": "#525345"
+  },
+  {
+    "id": "62.014-dark-green",
+    "name": "Dark Green",
+    "code": "62.014",
+    "set": "Premium Airbrush Color",
+    "hex": "#32433B"
+  },
+  {
+    "id": "71.012-dark-green",
+    "name": "Dark Green",
+    "code": "71.012",
+    "set": "Model Air",
+    "hex": "#5D5E56"
+  },
+  {
+    "id": "71.015-dark-green-rlm71",
+    "name": "Dark Green RLM71",
+    "code": "71.015",
+    "set": "Model Air",
+    "hex": "#544C3F"
+  },
+  {
+    "id": "71.011-dark-green-rlm83",
+    "name": "Dark Green RLM83",
+    "code": "71.011",
+    "set": "Model Air",
+    "hex": "#4E4E46"
+  },
+  {
+    "id": "70.994-dark-grey",
+    "name": "Dark Grey",
+    "code": "70.994",
+    "set": "Model Color",
+    "hex": "#312F32"
+  },
+  {
+    "id": "71.110-dark-grey",
+    "name": "Dark Grey",
+    "code": "71.110",
+    "set": "Model Air",
+    "hex": "#535A64"
+  },
+  {
+    "id": "76.517-dark-grey",
+    "name": "Dark Grey",
+    "code": "76.517",
+    "set": "Wash FX",
+    "hex": "#52514F"
+  },
+  {
+    "id": "71.054-dark-grey-blue",
+    "name": "Dark Grey Blue",
+    "code": "71.054",
+    "set": "Model Air",
+    "hex": "#484D51"
+  },
+  {
+    "id": "69.041-dark-grey-green",
+    "name": "Dark Grey Green",
+    "code": "69.041",
+    "set": "Mecha Color",
+    "hex": "#505251"
+  },
+  {
+    "id": "71.277-dark-gull-gray",
+    "name": "Dark Gull Gray",
+    "code": "71.277",
+    "set": "Model Air",
+    "hex": "#828385"
+  },
+  {
+    "id": "72.054-dark-gunmetal",
+    "name": "Dark Gunmetal",
+    "code": "72.054",
+    "set": "Game Color",
+    "hex": "#DADADA"
+  },
+  {
+    "id": "76.520-dark-khaki-green",
+    "name": "Dark Khaki Green",
+    "code": "76.520",
+    "set": "Wash FX",
+    "hex": "#8C724F"
+  },
+  {
+    "id": "71.313-dark-mediterranean-blue",
+    "name": "Dark Mediterranean Blue",
+    "code": "71.313",
+    "set": "Model Air",
+    "hex": "#2A3551"
+  },
+  {
+    "id": "70.316-dark-mud",
+    "name": "Dark Mud",
+    "code": "70.316",
+    "set": "Panzer Aces",
+    "hex": "#685F4E"
+  },
+  {
+    "id": "62.016-dark-ochre",
+    "name": "Dark Ochre",
+    "code": "62.016",
+    "set": "Premium Airbrush Color",
+    "hex": "#9C613F"
+  },
+  {
+    "id": "85.028-dark-orange",
+    "name": "Dark Orange",
+    "code": "85.028",
+    "set": "Arte Deco",
+    "hex": "#E5371C"
+  },
+  {
+    "id": "85.048-dark-orchid",
+    "name": "Dark Orchid",
+    "code": "85.048",
+    "set": "Arte Deco",
+    "hex": "#AF1F5C"
+  },
+  {
+    "id": "85.084-dark-pine",
+    "name": "Dark Pine",
+    "code": "85.084",
+    "set": "Arte Deco",
+    "hex": "#005D40"
+  },
+  {
+    "id": "70.899-dark-prussian-blue",
+    "name": "Dark Prussian Blue",
+    "code": "70.899",
+    "set": "Model Color",
+    "hex": "#372741"
+  },
+  {
+    "id": "70.749-dark-purple",
+    "name": "Dark Purple",
+    "code": "70.749",
+    "set": "Model Color",
+    "hex": "#452733"
+  },
+  {
+    "id": "70.946-dark-red",
+    "name": "Dark Red",
+    "code": "70.946",
+    "set": "Model Color",
+    "hex": "#692F24"
+  },
+  {
+    "id": "69.011-dark-red",
+    "name": "Dark Red",
+    "code": "69.011",
+    "set": "Mecha Color",
+    "hex": "#93262C"
+  },
+  {
+    "id": "70.745-dark-rose",
+    "name": "Dark Rose",
+    "code": "70.745",
+    "set": "Model Color",
+    "hex": "#805252"
+  },
+  {
+    "id": "85.174-dark-rosewood",
+    "name": "Dark Rosewood",
+    "code": "85.174",
+    "set": "Arte Deco",
+    "hex": "#421922"
+  },
+  {
+    "id": "70.306-dark-rubber",
+    "name": "Dark Rubber",
+    "code": "70.306",
+    "set": "Panzer Aces",
+    "hex": "#505153"
+  },
+  {
+    "id": "70.771-dark-rust",
+    "name": "Dark Rust",
+    "code": "70.771",
+    "set": "Model Color",
+    "hex": "#3B2625"
+  },
+  {
+    "id": "76.507-dark-rust",
+    "name": "Dark Rust",
+    "code": "76.507",
+    "set": "Wash FX",
+    "hex": "#B65A45"
+  },
+  {
+    "id": "70.302-dark-rust",
+    "name": "Dark Rust",
+    "code": "70.302",
+    "set": "Panzer Aces",
+    "hex": "#4F4442"
+  },
+  {
+    "id": "69.507-dark-rust-wash",
+    "name": "Dark Rust Wash",
+    "code": "69.507",
+    "set": "Mecha Color",
+    "hex": "#E05B10"
+  },
+  {
+    "id": "70.847-dark-sand",
+    "name": "Dark Sand",
+    "code": "70.847",
+    "set": "Model Color",
+    "hex": "#CBA868"
+  },
+  {
+    "id": "70.898-dark-sea-blue",
+    "name": "Dark Sea Blue",
+    "code": "70.898",
+    "set": "Model Color",
+    "hex": "#262C38"
+  },
+  {
+    "id": "71.053-dark-sea-gray",
+    "name": "Dark Sea Gray",
+    "code": "71.053",
+    "set": "Model Air",
+    "hex": "#4C535D"
+  },
+  {
+    "id": "70.868-dark-sea-green",
+    "name": "Dark Sea Green",
+    "code": "70.868",
+    "set": "Model Color",
+    "hex": "#4B4545"
+  },
+  {
+    "id": "70.991-dark-sea-grey",
+    "name": "Dark Sea Grey",
+    "code": "70.991",
+    "set": "Model Color",
+    "hex": "#6C6B69"
+  },
+  {
+    "id": "71.309-dark-slate-grey",
+    "name": "Dark Slate Grey",
+    "code": "71.309",
+    "set": "Model Air",
+    "hex": "#5D5E56"
+  },
+  {
+    "id": "69.065-dark-steel",
+    "name": "Dark Steel",
+    "code": "69.065",
+    "set": "Mecha Color",
+    "hex": "#737476"
+  },
+  {
+    "id": "72.084-dark-turquoise",
+    "name": "Dark Turquoise",
+    "code": "72.084",
+    "set": "Game Color",
+    "hex": "#01708B"
+  },
+  {
+    "id": "70.947-dark-vermilion",
+    "name": "Dark Vermilion",
+    "code": "70.947",
+    "set": "Model Color",
+    "hex": "#B52A27"
+  },
+  {
+    "id": "76.503-dark-yellow",
+    "name": "Dark Yellow",
+    "code": "76.503",
+    "set": "Wash FX",
+    "hex": "#CBB126"
+  },
+  {
+    "id": "70.978-dark-yellow",
+    "name": "Dark Yellow",
+    "code": "70.978",
+    "set": "Model Color",
+    "hex": "#90873A"
+  },
+  {
+    "id": "71.025-dark-yellow",
+    "name": "Dark Yellow",
+    "code": "71.025",
+    "set": "Model Air",
+    "hex": "#957A45"
+  },
+  {
+    "id": "85.009-dark-yellow",
+    "name": "Dark Yellow",
+    "code": "85.009",
+    "set": "Arte Deco",
+    "hex": "#F9B105"
+  },
+  {
+    "id": "28.022-dead-flesh",
+    "name": "Dead Flesh",
+    "code": "28.022",
+    "set": "Hobby Paint",
+    "hex": "#B6A26F"
+  },
+  {
+    "id": "76.035-dead-flesh",
+    "name": "Dead Flesh",
+    "code": "76.035",
+    "set": "Game Air",
+    "hex": "#C3AA4D"
+  },
+  {
+    "id": "72.035-dead-flesh",
+    "name": "Dead Flesh",
+    "code": "72.035",
+    "set": "Game Color",
+    "hex": "#C3AA4D"
+  },
+  {
+    "id": "72.735-dead-flesh",
+    "name": "Dead Flesh",
+    "code": "72.735",
+    "set": "Game Air",
+    "hex": "#C8BC8A"
+  },
+  {
+    "id": "72.001-dead-white",
+    "name": "Dead White",
+    "code": "72.001",
+    "set": "Game Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "72.701-dead-white",
+    "name": "Dead White",
+    "code": "72.701",
+    "set": "Game Air",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "76.001-dead-white",
+    "name": "Dead White",
+    "code": "76.001",
+    "set": "Game Air",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "70.986-deck-tan",
+    "name": "Deck Tan",
+    "code": "70.986",
+    "set": "Model Color",
+    "hex": "#ABA390"
+  },
+  {
+    "id": "69.018-deep-blue",
+    "name": "Deep Blue",
+    "code": "69.018",
+    "set": "Mecha Color",
+    "hex": "#0C97C2"
+  },
+  {
+    "id": "74.009-deep-forest-skin",
+    "name": "Deep Forest Skin",
+    "code": "74.009",
+    "set": "Nocturna Models",
+    "hex": "#3E4A4A"
+  },
+  {
+    "id": "70.970-deep-green",
+    "name": "Deep Green",
+    "code": "70.970",
+    "set": "Model Color",
+    "hex": "#1B4B33"
+  },
+  {
+    "id": "69.029-deep-green",
+    "name": "Deep Green",
+    "code": "69.029",
+    "set": "Mecha Color",
+    "hex": "#70793A"
+  },
+  {
+    "id": "72.113-deep-magenta",
+    "name": "Deep Magenta",
+    "code": "72.113",
+    "set": "Game Color",
+    "hex": "#622640"
+  },
+  {
+    "id": "72.409-deep-purple",
+    "name": "Deep Purple",
+    "code": "72.409",
+    "set": "Xpress Color",
+    "hex": "#6F2B42"
+  },
+  {
+    "id": "71.090-deep-sky",
+    "name": "Deep Sky",
+    "code": "71.090",
+    "set": "Model Air",
+    "hex": "#35415B"
+  },
+  {
+    "id": "70.844-deep-sky-blue",
+    "name": "Deep Sky Blue",
+    "code": "70.844",
+    "set": "Model Color",
+    "hex": "#4D95C5"
+  },
+  {
+    "id": "85.075-deep-teal",
+    "name": "Deep Teal",
+    "code": "85.075",
+    "set": "Arte Deco",
+    "hex": "#01937E"
+  },
+  {
+    "id": "70.915-deep-yellow",
+    "name": "Deep Yellow",
+    "code": "70.915",
+    "set": "Model Color",
+    "hex": "#F1C701"
+  },
+  {
+    "id": "72.603-demon-blood",
+    "name": "Demon Blood",
+    "code": "72.603",
+    "set": "Game Color Special FX",
+    "hex": "#66477E"
+  },
+  {
+    "id": "72.458-demonic-skin",
+    "name": "Demonic Skin",
+    "code": "72.458",
+    "set": "Xpress Color",
+    "hex": "#965C58"
+  },
+  {
+    "id": "70.767-desert-brown",
+    "name": "Desert Brown",
+    "code": "70.767",
+    "set": "Model Color",
+    "hex": "#AB8556"
+  },
+  {
+    "id": "76.522-desert-dust",
+    "name": "Desert Dust",
+    "code": "76.522",
+    "set": "Wash FX",
+    "hex": "#E3CDA4"
+  },
+  {
+    "id": "69.522-desert-dust-wash",
+    "name": "Desert Dust Wash",
+    "code": "69.522",
+    "set": "Mecha Color",
+    "hex": "#D8BB81"
+  },
+  {
+    "id": "72.454-desert-ochre",
+    "name": "Desert Ochre",
+    "code": "72.454",
+    "set": "Xpress Color",
+    "hex": "#9D6729"
+  },
+  {
+    "id": "85.011-desert-sand",
+    "name": "Desert Sand",
+    "code": "85.011",
+    "set": "Arte Deco",
+    "hex": "#EDEBC6"
+  },
+  {
+    "id": "70.613-desert-tan",
+    "name": "Desert Tan",
+    "code": "70.613",
+    "set": "Surface Primer",
+    "hex": "#D1BE9E"
+  },
+  {
+    "id": "85.078-desert-turquoise",
+    "name": "Desert Turquoise",
+    "code": "85.078",
+    "set": "Arte Deco",
+    "hex": "#018D8C"
+  },
+  {
+    "id": "76.063-desert-yellow",
+    "name": "Desert Yellow",
+    "code": "76.063",
+    "set": "Game Air",
+    "hex": "#996732"
+  },
+  {
+    "id": "70.977-desert-yellow",
+    "name": "Desert Yellow",
+    "code": "70.977",
+    "set": "Model Color",
+    "hex": "#B6854A"
+  },
+  {
+    "id": "72.063-desert-yellow",
+    "name": "Desert Yellow",
+    "code": "72.063",
+    "set": "Game Color",
+    "hex": "#996732"
+  },
+  {
+    "id": "28.015-desert-yellow",
+    "name": "Desert Yellow",
+    "code": "28.015",
+    "set": "Hobby Paint",
+    "hex": "#9D7D4A"
+  },
+  {
+    "id": "72.763-desert-yellow",
+    "name": "Desert Yellow",
+    "code": "72.763",
+    "set": "Game Air",
+    "hex": "#A7844E"
+  },
+  {
+    "id": "74.019-devil-red",
+    "name": "Devil Red",
+    "code": "74.019",
+    "set": "Nocturna Models",
+    "hex": "#921251"
+  },
+  {
+    "id": "73.816-diesel-stains",
+    "name": "Diesel Stains",
+    "code": "73.816",
+    "set": "Weathering FX",
+    "hex": "#A44C34"
+  },
+  {
+    "id": "71.133-dirt",
+    "name": "Dirt",
+    "code": "71.133",
+    "set": "Model Air",
+    "hex": "#7A6240"
+  },
+  {
+    "id": "72.145-dirty-grey",
+    "name": "Dirty Grey",
+    "code": "72.145",
+    "set": "Game Color",
+    "hex": "#675F30"
+  },
+  {
+    "id": "85.101-dove-grey",
+    "name": "Dove Grey",
+    "code": "85.101",
+    "set": "Arte Deco",
+    "hex": "#ECECEC"
+  },
+  {
+    "id": "72.477-dreadnought-yellow",
+    "name": "Dreadnought Yellow",
+    "code": "72.477",
+    "set": "Xpress Color Intense",
+    "hex": "#D38821"
+  },
+  {
+    "id": "72.133-dried-blood",
+    "name": "Dried Blood",
+    "code": "72.133",
+    "set": "Game Color",
+    "hex": "#622A1D"
+  },
+  {
+    "id": "72.136-dry-rust",
+    "name": "Dry Rust",
+    "code": "72.136",
+    "set": "Game Color",
+    "hex": "#5E332D"
+  },
+  {
+    "id": "77.717-dull-aluminium",
+    "name": "Dull Aluminium",
+    "code": "77.717",
+    "set": "Metal Color",
+    "hex": "#BBBBBB"
+  },
+  {
+    "id": "77.702-duraluminium",
+    "name": "Duraluminium",
+    "code": "77.702",
+    "set": "Metal Color",
+    "hex": "#A4A4A4"
+  },
+  {
+    "id": "85.020-dusty-rose",
+    "name": "Dusty Rose",
+    "code": "85.020",
+    "set": "Arte Deco",
+    "hex": "#FC8992"
+  },
+  {
+    "id": "72.041-dwarf-skin",
+    "name": "Dwarf Skin",
+    "code": "72.041",
+    "set": "Game Color",
+    "hex": "#D99169"
+  },
+  {
+    "id": "72.741-dwarf-skin",
+    "name": "Dwarf Skin",
+    "code": "72.741",
+    "set": "Game Air",
+    "hex": "#D99169"
+  },
+  {
+    "id": "72.402-dwarf-skin",
+    "name": "Dwarf Skin",
+    "code": "72.402",
+    "set": "Xpress Color",
+    "hex": "#833E2F"
+  },
+  {
+    "id": "76.062-earth",
+    "name": "Earth",
+    "code": "76.062",
+    "set": "Game Air",
+    "hex": "#775730"
+  },
+  {
+    "id": "72.062-earth",
+    "name": "Earth",
+    "code": "72.062",
+    "set": "Game Color",
+    "hex": "#775730"
+  },
+  {
+    "id": "72.762-earth",
+    "name": "Earth",
+    "code": "72.762",
+    "set": "Game Air",
+    "hex": "#7B6848"
+  },
+  {
+    "id": "70.611-earth-green-early",
+    "name": "Earth Green (Early)",
+    "code": "70.611",
+    "set": "Surface Primer",
+    "hex": "#615837"
+  },
+  {
+    "id": "71.009-eau-de-nil-duck-egg-green",
+    "name": "Eau de Nil “Duck Egg Green”",
+    "code": "71.009",
+    "set": "Model Air",
+    "hex": "#C2C89C"
+  },
+  {
+    "id": "76.023-electric-blue",
+    "name": "Electric Blue",
+    "code": "76.023",
+    "set": "Game Air",
+    "hex": "#4399B2"
+  },
+  {
+    "id": "69.020-electric-blue",
+    "name": "Electric Blue",
+    "code": "69.020",
+    "set": "Mecha Color",
+    "hex": "#0370B1"
+  },
+  {
+    "id": "72.023-electric-blue",
+    "name": "Electric Blue",
+    "code": "72.023",
+    "set": "Game Color",
+    "hex": "#4399B2"
+  },
+  {
+    "id": "72.723-electric-blue",
+    "name": "Electric Blue",
+    "code": "72.723",
+    "set": "Game Air",
+    "hex": "#2E95B4"
+  },
+  {
+    "id": "72.004-elf-skin-tone",
+    "name": "Elf Skin Tone",
+    "code": "72.004",
+    "set": "Game Color",
+    "hex": "#CA8854"
+  },
+  {
+    "id": "76.004-elf-skin-tone",
+    "name": "Elf Skin Tone",
+    "code": "76.004",
+    "set": "Game Air",
+    "hex": "#CA8854"
+  },
+  {
+    "id": "72.704-elf-skin-tone",
+    "name": "Elf Skin Tone",
+    "code": "72.704",
+    "set": "Game Air",
+    "hex": "#E7AE81"
+  },
+  {
+    "id": "72.117-elfic-blue",
+    "name": "Elfic Blue",
+    "code": "72.117",
+    "set": "Game Color",
+    "hex": "#50617D"
+  },
+  {
+    "id": "72.098-elfic-flesh",
+    "name": "Elfic Flesh",
+    "code": "72.098",
+    "set": "Game Color",
+    "hex": "#EAD7B9"
+  },
+  {
+    "id": "70.838-emerald",
+    "name": "Emerald",
+    "code": "70.838",
+    "set": "Model Color",
+    "hex": "#00624B"
+  },
+  {
+    "id": "71.048-engine-gray",
+    "name": "Engine Gray",
+    "code": "71.048",
+    "set": "Model Air",
+    "hex": "#555962"
+  },
+  {
+    "id": "73.815-engine-grime",
+    "name": "Engine Grime",
+    "code": "73.815",
+    "set": "Weathering FX",
+    "hex": "#605A5A"
+  },
+  {
+    "id": "70.921-english-uniform",
+    "name": "English Uniform",
+    "code": "70.921",
+    "set": "Model Color",
+    "hex": "#6F532B"
+  },
+  {
+    "id": "28.008-english-uniform",
+    "name": "English Uniform",
+    "code": "28.008",
+    "set": "Hobby Paint",
+    "hex": "#755D41"
+  },
+  {
+    "id": "76.523-european-dust",
+    "name": "European Dust",
+    "code": "76.523",
+    "set": "Wash FX",
+    "hex": "#8C6B4A"
+  },
+  {
+    "id": "73.801-european-splash-mud",
+    "name": "European Splash Mud",
+    "code": "73.801",
+    "set": "Weathering FX",
+    "hex": "#563F37"
+  },
+  {
+    "id": "73.807-european-thick-mud",
+    "name": "European Thick Mud",
+    "code": "73.807",
+    "set": "Weathering FX",
+    "hex": "#423930"
+  },
+  {
+    "id": "85.090-evergreen",
+    "name": "Evergreen",
+    "code": "85.090",
+    "set": "Arte Deco",
+    "hex": "#1E3930"
+  },
+  {
+    "id": "72.112-evil-red",
+    "name": "Evil Red",
+    "code": "72.112",
+    "set": "Game Color",
+    "hex": "#461E26"
+  },
+  {
+    "id": "77.723-exhaust-manifold",
+    "name": "Exhaust Manifold",
+    "code": "77.723",
+    "set": "Metal Color",
+    "hex": "#7D7D7B"
+  },
+  {
+    "id": "70.896-extra-dark-green",
+    "name": "Extra Dark Green",
+    "code": "70.896",
+    "set": "Model Color",
+    "hex": "#282A14"
+  },
+  {
+    "id": "71.109-faded-p-r-u-blue",
+    "name": "Faded P.R.U. Blue",
+    "code": "71.109",
+    "set": "Model Air",
+    "hex": "#496570"
+  },
+  {
+    "id": "74.007-fairy-flesh",
+    "name": "Fairy Flesh",
+    "code": "74.007",
+    "set": "Nocturna Models",
+    "hex": "#F5AC89"
+  },
+  {
+    "id": "72.457-fairy-skin",
+    "name": "Fairy Skin",
+    "code": "72.457",
+    "set": "Xpress Color",
+    "hex": "#CA8774"
+  },
+  {
+    "id": "70.833-fern-green",
+    "name": "Fern Green",
+    "code": "70.833",
+    "set": "Model Color",
+    "hex": "#475436"
+  },
+  {
+    "id": "71.085-ferrari-red",
+    "name": "Ferrari Red",
+    "code": "71.085",
+    "set": "Model Air",
+    "hex": "#AF3532"
+  },
+  {
+    "id": "70.964-field-blue",
+    "name": "Field Blue",
+    "code": "70.964",
+    "set": "Model Color",
+    "hex": "#4D5256"
+  },
+  {
+    "id": "72.037-filthy-brown",
+    "name": "Filthy Brown",
+    "code": "72.037",
+    "set": "Game Color",
+    "hex": "#E99300"
+  },
+  {
+    "id": "74.024-fire-flame",
+    "name": "Fire Flame",
+    "code": "74.024",
+    "set": "Nocturna Models",
+    "hex": "#C41F3D"
+  },
+  {
+    "id": "71.084-fire-red",
+    "name": "Fire Red",
+    "code": "71.084",
+    "set": "Model Air",
+    "hex": "#863E30"
+  },
+  {
+    "id": "85.029-fire-red",
+    "name": "Fire Red",
+    "code": "85.029",
+    "set": "Arte Deco",
+    "hex": "#E20F16"
+  },
+  {
+    "id": "71.337-flanker-blue",
+    "name": "Flanker Blue",
+    "code": "71.337",
+    "set": "Model Air",
+    "hex": "#91AEB4"
+  },
+  {
+    "id": "71.334-flanker-light-blue",
+    "name": "Flanker Light Blue",
+    "code": "71.334",
+    "set": "Model Air",
+    "hex": "#B1C4C8"
+  },
+  {
+    "id": "71.335-flanker-light-gray",
+    "name": "Flanker Light Gray",
+    "code": "71.335",
+    "set": "Model Air",
+    "hex": "#9DA6A5"
+  },
+  {
+    "id": "70.962-flat-blue",
+    "name": "Flat Blue",
+    "code": "70.962",
+    "set": "Model Color",
+    "hex": "#3F4873"
+  },
+  {
+    "id": "70.984-flat-brown",
+    "name": "Flat Brown",
+    "code": "70.984",
+    "set": "Model Color",
+    "hex": "#703F38"
+  },
+  {
+    "id": "70.983-flat-earth",
+    "name": "Flat Earth",
+    "code": "70.983",
+    "set": "Model Color",
+    "hex": "#69442A"
+  },
+  {
+    "id": "70.955-flat-flesh",
+    "name": "Flat Flesh",
+    "code": "70.955",
+    "set": "Model Color",
+    "hex": "#E09959"
+  },
+  {
+    "id": "70.968-flat-green",
+    "name": "Flat Green",
+    "code": "70.968",
+    "set": "Model Color",
+    "hex": "#374B2F"
+  },
+  {
+    "id": "70.957-flat-red",
+    "name": "Flat Red",
+    "code": "70.957",
+    "set": "Model Color",
+    "hex": "#A12B29"
+  },
+  {
+    "id": "70.953-flat-yellow",
+    "name": "Flat Yellow",
+    "code": "70.953",
+    "set": "Model Color",
+    "hex": "#F6BA36"
+  },
+  {
+    "id": "72.769-flesh",
+    "name": "Flesh",
+    "code": "72.769",
+    "set": "Game Air",
+    "hex": "#F6BD90"
+  },
+  {
+    "id": "85.016-flesh",
+    "name": "Flesh",
+    "code": "85.016",
+    "set": "Arte Deco",
+    "hex": "#FED2D8"
+  },
+  {
+    "id": "70.341-flesh-base",
+    "name": "Flesh Base",
+    "code": "70.341",
+    "set": "Panzer Aces",
+    "hex": "#A4531E"
+  },
+  {
+    "id": "72.601-flesh-blood",
+    "name": "Flesh Blood",
+    "code": "72.601",
+    "set": "Game Color Special FX",
+    "hex": "#F27466"
+  },
+  {
+    "id": "70.342-flesh-highlights",
+    "name": "Flesh Highlights",
+    "code": "70.342",
+    "set": "Panzer Aces",
+    "hex": "#FCD2A8"
+  },
+  {
+    "id": "70.343-flesh-shadows",
+    "name": "Flesh Shadows",
+    "code": "70.343",
+    "set": "Panzer Aces",
+    "hex": "#551305"
+  },
+  {
+    "id": "85.018-flesh-tone-no-2",
+    "name": "Flesh Tone no. 2",
+    "code": "85.018",
+    "set": "Arte Deco",
+    "hex": "#EEC3B2"
+  },
+  {
+    "id": "73.204-flesh-wash",
+    "name": "Flesh Wash",
+    "code": "73.204",
+    "set": "Game Color Wash",
+    "hex": "#B67C78"
+  },
+  {
+    "id": "72.459-fluid-pink",
+    "name": "Fluid Pink",
+    "code": "72.459",
+    "set": "Xpress Color",
+    "hex": "#C06793"
+  },
+  {
+    "id": "62.038-fluorescent-blue",
+    "name": "Fluorescent Blue",
+    "code": "62.038",
+    "set": "Premium Airbrush Color",
+    "hex": "#4399D6"
+  },
+  {
+    "id": "72.160-fluorescent-blue",
+    "name": "Fluorescent Blue",
+    "code": "72.160",
+    "set": "Game Color",
+    "hex": "#0082CD"
+  },
+  {
+    "id": "72.161-fluorescent-cold-green",
+    "name": "Fluorescent Cold Green",
+    "code": "72.161",
+    "set": "Game Color",
+    "hex": "#007074"
+  },
+  {
+    "id": "62.032-fluorescent-golden-yellow",
+    "name": "Fluorescent Golden Yellow",
+    "code": "62.032",
+    "set": "Premium Airbrush Color",
+    "hex": "#FBBB35"
+  },
+  {
+    "id": "62.039-fluorescent-green",
+    "name": "Fluorescent Green",
+    "code": "62.039",
+    "set": "Premium Airbrush Color",
+    "hex": "#69B642"
+  },
+  {
+    "id": "72.104-fluorescent-green",
+    "name": "Fluorescent Green",
+    "code": "72.104",
+    "set": "Game Color",
+    "hex": "#74B72C"
+  },
+  {
+    "id": "72.158-fluorescent-magenta",
+    "name": "Fluorescent Magenta",
+    "code": "72.158",
+    "set": "Game Color",
+    "hex": "#E8348D"
+  },
+  {
+    "id": "62.036-fluorescent-magenta",
+    "name": "Fluorescent Magenta",
+    "code": "62.036",
+    "set": "Premium Airbrush Color",
+    "hex": "#D33B90"
+  },
+  {
+    "id": "62.033-fluorescent-orange",
+    "name": "Fluorescent Orange",
+    "code": "62.033",
+    "set": "Premium Airbrush Color",
+    "hex": "#F17E01"
+  },
+  {
+    "id": "72.156-fluorescent-orange",
+    "name": "Fluorescent Orange",
+    "code": "72.156",
+    "set": "Game Color",
+    "hex": "#E84E10"
+  },
+  {
+    "id": "72.157-fluorescent-red",
+    "name": "Fluorescent Red",
+    "code": "72.157",
+    "set": "Game Color",
+    "hex": "#DD2F52"
+  },
+  {
+    "id": "71.082-fluorescent-red",
+    "name": "Fluorescent Red",
+    "code": "71.082",
+    "set": "Model Air",
+    "hex": "#EA624C"
+  },
+  {
+    "id": "62.035-fluorescent-rose",
+    "name": "Fluorescent Rose",
+    "code": "62.035",
+    "set": "Premium Airbrush Color",
+    "hex": "#E73E8F"
+  },
+  {
+    "id": "62.034-fluorescent-scarlet",
+    "name": "Fluorescent Scarlet",
+    "code": "62.034",
+    "set": "Premium Airbrush Color",
+    "hex": "#EC4F60"
+  },
+  {
+    "id": "62.037-fluorescent-violet",
+    "name": "Fluorescent Violet",
+    "code": "62.037",
+    "set": "Premium Airbrush Color",
+    "hex": "#693E76"
+  },
+  {
+    "id": "72.159-fluorescent-violet",
+    "name": "Fluorescent Violet",
+    "code": "72.159",
+    "set": "Game Color",
+    "hex": "#6F257A"
+  },
+  {
+    "id": "62.031-fluorescent-yellow",
+    "name": "Fluorescent Yellow",
+    "code": "62.031",
+    "set": "Premium Airbrush Color",
+    "hex": "#F2E500"
+  },
+  {
+    "id": "72.103-fluorescent-yellow",
+    "name": "Fluorescent Yellow",
+    "code": "72.103",
+    "set": "Game Color",
+    "hex": "#F0E639"
+  },
+  {
+    "id": "85.089-forest-green",
+    "name": "Forest Green",
+    "code": "85.089",
+    "set": "Arte Deco",
+    "hex": "#055D2B"
+  },
+  {
+    "id": "72.465-forest-green",
+    "name": "Forest Green",
+    "code": "72.465",
+    "set": "Xpress Color",
+    "hex": "#11662D"
+  },
+  {
+    "id": "74.013-forest-skin",
+    "name": "Forest Skin",
+    "code": "74.013",
+    "set": "Nocturna Models",
+    "hex": "#867562"
+  },
+  {
+    "id": "72.025-foul-green",
+    "name": "Foul Green",
+    "code": "72.025",
+    "set": "Game Color",
+    "hex": "#00A27D"
+  },
+  {
+    "id": "85.066-french-blue",
+    "name": "French Blue",
+    "code": "85.066",
+    "set": "Arte Deco",
+    "hex": "#3F6A8A"
+  },
+  {
+    "id": "71.088-french-blue",
+    "name": "French Blue",
+    "code": "71.088",
+    "set": "Model Air",
+    "hex": "#1F4E7A"
+  },
+  {
+    "id": "70.900-french-mirage-blue",
+    "name": "French Mirage Blue",
+    "code": "70.900",
+    "set": "Model Color",
+    "hex": "#5F6772"
+  },
+  {
+    "id": "70.320-french-tank-crew",
+    "name": "French Tank Crew",
+    "code": "70.320",
+    "set": "Panzer Aces",
+    "hex": "#756D56"
+  },
+  {
+    "id": "70.324-french-tank-crew-highlights",
+    "name": "French Tank Crew Highlights",
+    "code": "70.324",
+    "set": "Panzer Aces",
+    "hex": "#897C73"
+  },
+  {
+    "id": "72.132-fresh-blood",
+    "name": "Fresh Blood",
+    "code": "72.132",
+    "set": "Game Color",
+    "hex": "#7E2B19"
+  },
+  {
+    "id": "72.604-frost",
+    "name": "Frost",
+    "code": "72.604",
+    "set": "Game Color Special FX",
+    "hex": "#8AC9E3"
+  },
+  {
+    "id": "74.010-frozen-flesh",
+    "name": "Frozen Flesh",
+    "code": "74.010",
+    "set": "Nocturna Models",
+    "hex": "#57555B"
+  },
+  {
+    "id": "73.814-fuel-stains",
+    "name": "Fuel Stains",
+    "code": "73.814",
+    "set": "Weathering FX",
+    "hex": "#8D5D39"
+  },
+  {
+    "id": "69.814-fuel-stains-gloss",
+    "name": "Fuel Stains (Gloss)",
+    "code": "69.814",
+    "set": "Mecha Color",
+    "hex": "#A06217"
+  },
+  {
+    "id": "72.610-galvanic-corrosion",
+    "name": "Galvanic Corrosion",
+    "code": "72.610",
+    "set": "Game Color Special FX",
+    "hex": "#EEAE76"
+  },
+  {
+    "id": "85.031-georgia-clay",
+    "name": "Georgia Clay",
+    "code": "85.031",
+    "set": "Arte Deco",
+    "hex": "#BE3E17"
+  },
+  {
+    "id": "70.821-german-beige-wwii",
+    "name": "German Beige WWII",
+    "code": "70.821",
+    "set": "Model Color",
+    "hex": "#796950"
+  },
+  {
+    "id": "70.604-german-dark-yellow",
+    "name": "German Dark Yellow",
+    "code": "70.604",
+    "set": "Surface Primer",
+    "hex": "#897461"
+  },
+  {
+    "id": "28.006-german-field-grey",
+    "name": "German Field Grey",
+    "code": "28.006",
+    "set": "Hobby Paint",
+    "hex": "#62625A"
+  },
+  {
+    "id": "70.830-german-fieldgrey-wwii",
+    "name": "German Fieldgrey WWII",
+    "code": "70.830",
+    "set": "Model Color",
+    "hex": "#58523C"
+  },
+  {
+    "id": "70.606-german-green-brown",
+    "name": "German Green Brown",
+    "code": "70.606",
+    "set": "Surface Primer",
+    "hex": "#7C6448"
+  },
+  {
+    "id": "70.308-german-green-tail-light",
+    "name": "German Green Tail Light",
+    "code": "70.308",
+    "set": "Panzer Aces",
+    "hex": "#3D5347"
+  },
+  {
+    "id": "71.268-german-grey",
+    "name": "German Grey",
+    "code": "71.268",
+    "set": "Model Air",
+    "hex": "#464942"
+  },
+  {
+    "id": "70.995-german-grey",
+    "name": "German Grey",
+    "code": "70.995",
+    "set": "Model Color",
+    "hex": "#2E2E2C"
+  },
+  {
+    "id": "70.805-german-orange",
+    "name": "German Orange",
+    "code": "70.805",
+    "set": "Model Color",
+    "hex": "#BA6254"
+  },
+  {
+    "id": "70.603-german-panzer-grey",
+    "name": "German Panzer Grey",
+    "code": "70.603",
+    "set": "Surface Primer",
+    "hex": "#404042"
+  },
+  {
+    "id": "70.605-german-red-brown",
+    "name": "German Red Brown",
+    "code": "70.605",
+    "set": "Surface Primer",
+    "hex": "#624341"
+  },
+  {
+    "id": "71.271-german-red-brown",
+    "name": "German Red Brown",
+    "code": "71.271",
+    "set": "Model Air",
+    "hex": "#674239"
+  },
+  {
+    "id": "70.307-german-red-tail-light",
+    "name": "German Red Tail Light",
+    "code": "70.307",
+    "set": "Panzer Aces",
+    "hex": "#503428"
+  },
+  {
+    "id": "70.759-german-tank-crew",
+    "name": "German Tank Crew",
+    "code": "70.759",
+    "set": "Model Color",
+    "hex": "#544A3E"
+  },
+  {
+    "id": "70.333-german-tank-crew",
+    "name": "German Tank Crew",
+    "code": "70.333",
+    "set": "Panzer Aces",
+    "hex": "#434949"
+  },
+  {
+    "id": "70.337-german-tank-crew-highlights",
+    "name": "German Tank Crew Highlights",
+    "code": "70.337",
+    "set": "Panzer Aces",
+    "hex": "#3C2618"
+  },
+  {
+    "id": "70.338-german-tank-crew-highlights-i",
+    "name": "German Tank Crew Highlights I",
+    "code": "70.338",
+    "set": "Panzer Aces",
+    "hex": "#5B7572"
+  },
+  {
+    "id": "70.339-german-tank-crew-highlights-ii",
+    "name": "German Tank Crew Highlights II",
+    "code": "70.339",
+    "set": "Panzer Aces",
+    "hex": "#94795E"
+  },
+  {
+    "id": "70.334-german-tank-crew-i",
+    "name": "German Tank Crew I",
+    "code": "70.334",
+    "set": "Panzer Aces",
+    "hex": "#013E2C"
+  },
+  {
+    "id": "70.335-german-tank-crew-ii",
+    "name": "German Tank Crew II",
+    "code": "70.335",
+    "set": "Panzer Aces",
+    "hex": "#473C26"
+  },
+  {
+    "id": "70.920-german-uniform",
+    "name": "German Uniform",
+    "code": "70.920",
+    "set": "Model Color",
+    "hex": "#434D42"
+  },
+  {
+    "id": "70.344-german-white-tank-crew",
+    "name": "German White Tank Crew",
+    "code": "70.344",
+    "set": "Panzer Aces",
+    "hex": "#E0DFDB"
+  },
+  {
+    "id": "70.806-german-yellow",
+    "name": "German Yellow",
+    "code": "70.806",
+    "set": "Model Color",
+    "hex": "#CEB65E"
+  },
+  {
+    "id": "71.272-german-yellow-brown",
+    "name": "German Yellow Brown",
+    "code": "71.272",
+    "set": "Model Air",
+    "hex": "#846E49"
+  },
+  {
+    "id": "72.121-ghost-green",
+    "name": "Ghost Green",
+    "code": "72.121",
+    "set": "Game Color",
+    "hex": "#83C192"
+  },
+  {
+    "id": "76.121-ghost-green",
+    "name": "Ghost Green",
+    "code": "76.121",
+    "set": "Game Air",
+    "hex": "#83C192"
+  },
+  {
+    "id": "72.046-ghost-grey",
+    "name": "Ghost Grey",
+    "code": "72.046",
+    "set": "Game Color",
+    "hex": "#C2CBD4"
+  },
+  {
+    "id": "72.095-glacier-blue",
+    "name": "Glacier Blue",
+    "code": "72.095",
+    "set": "Game Color",
+    "hex": "#CDD9F1"
+  },
+  {
+    "id": "72.410-gloomy-violet",
+    "name": "Gloomy Violet",
+    "code": "72.410",
+    "set": "Xpress Color",
+    "hex": "#402F59"
+  },
+  {
+    "id": "72.056-glorious-gold",
+    "name": "Glorious Gold",
+    "code": "72.056",
+    "set": "Game Color",
+    "hex": "#F4E3C5"
+  },
+  {
+    "id": "72.756-glorious-gold",
+    "name": "Glorious Gold",
+    "code": "72.756",
+    "set": "Game Air",
+    "hex": "#C4905E"
+  },
+  {
+    "id": "77.660-gloss-black",
+    "name": "Gloss Black",
+    "code": "77.660",
+    "set": "Surface Primer",
+    "hex": "#060606"
+  },
+  {
+    "id": "77.657-gloss-metal-varnish",
+    "name": "Gloss Metal Varnish",
+    "code": "77.657",
+    "set": "Metal Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "62.064-gloss-varnish",
+    "name": "Gloss Varnish",
+    "code": "62.064",
+    "set": "Premium Airbrush Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "84.154-gloss-varnish",
+    "name": "Gloss Varnish",
+    "code": "84.154",
+    "set": "Arte Deco",
+    "hex": "#E5E5E5"
+  },
+  {
+    "id": "70.842-gloss-white",
+    "name": "Gloss White",
+    "code": "70.842",
+    "set": "Model Color",
+    "hex": "#F5F3F4"
+  },
+  {
+    "id": "70.861-glossy-black",
+    "name": "Glossy Black",
+    "code": "70.861",
+    "set": "Model Color",
+    "hex": "#241E1E"
+  },
+  {
+    "id": "71.300-glossy-sea-blue",
+    "name": "Glossy Sea Blue",
+    "code": "71.300",
+    "set": "Model Air",
+    "hex": "#242B35"
+  },
+  {
+    "id": "72.030-goblin-green",
+    "name": "Goblin Green",
+    "code": "72.030",
+    "set": "Game Color",
+    "hex": "#576033"
+  },
+  {
+    "id": "28.027-goblin-green",
+    "name": "Goblin Green",
+    "code": "28.027",
+    "set": "Hobby Paint",
+    "hex": "#6C7445"
+  },
+  {
+    "id": "72.730-goblin-green",
+    "name": "Goblin Green",
+    "code": "72.730",
+    "set": "Game Air",
+    "hex": "#6B7342"
+  },
+  {
+    "id": "70.996-gold",
+    "name": "Gold",
+    "code": "70.996",
+    "set": "Model Color",
+    "hex": "#996728"
+  },
+  {
+    "id": "69.059-gold",
+    "name": "Gold",
+    "code": "69.059",
+    "set": "Mecha Color",
+    "hex": "#AC8424"
+  },
+  {
+    "id": "81.122-gold",
+    "name": "Gold",
+    "code": "81.122",
+    "set": "Arte Deco",
+    "hex": "#E4B239"
+  },
+  {
+    "id": "77.725-gold",
+    "name": "Gold",
+    "code": "77.725",
+    "set": "Metal Color",
+    "hex": "#AAA184"
+  },
+  {
+    "id": "70.791-gold",
+    "name": "Gold",
+    "code": "70.791",
+    "set": "Liquid Gold",
+    "hex": "#EEE6E3"
+  },
+  {
+    "id": "62.049-gold",
+    "name": "Gold",
+    "code": "62.049",
+    "set": "Premium Airbrush Color",
+    "hex": "#F0E3D2"
+  },
+  {
+    "id": "71.066-gold-metallic",
+    "name": "Gold (Metallic)",
+    "code": "71.066",
+    "set": "Model Air",
+    "hex": "#9E8155"
+  },
+  {
+    "id": "70.877-gold-brown",
+    "name": "Gold Brown",
+    "code": "70.877",
+    "set": "Model Color",
+    "hex": "#BF873C"
+  },
+  {
+    "id": "72.707-gold-yellow",
+    "name": "Gold Yellow",
+    "code": "72.707",
+    "set": "Game Air",
+    "hex": "#F19A00"
+  },
+  {
+    "id": "72.007-gold-yellow",
+    "name": "Gold Yellow",
+    "code": "72.007",
+    "set": "Game Color",
+    "hex": "#D67419"
+  },
+  {
+    "id": "76.007-gold-yellow",
+    "name": "Gold Yellow",
+    "code": "76.007",
+    "set": "Game Air",
+    "hex": "#D67419"
+  },
+  {
+    "id": "71.032-golden-brown",
+    "name": "Golden Brown",
+    "code": "71.032",
+    "set": "Model Air",
+    "hex": "#876343"
+  },
+  {
+    "id": "85.110-golden-ochre",
+    "name": "Golden Ochre",
+    "code": "85.110",
+    "set": "Arte Deco",
+    "hex": "#C87356"
+  },
+  {
+    "id": "70.857-golden-olive",
+    "name": "Golden Olive",
+    "code": "70.857",
+    "set": "Model Color",
+    "hex": "#808145"
+  },
+  {
+    "id": "70.948-golden-yellow",
+    "name": "Golden Yellow",
+    "code": "70.948",
+    "set": "Model Color",
+    "hex": "#F8A734"
+  },
+  {
+    "id": "85.023-gooseberry-pink",
+    "name": "Gooseberry Pink",
+    "code": "85.023",
+    "set": "Arte Deco",
+    "hex": "#DC6888"
+  },
+  {
+    "id": "72.124-gorgon-brown",
+    "name": "Gorgon Brown",
+    "code": "72.124",
+    "set": "Game Color",
+    "hex": "#5A2E23"
+  },
+  {
+    "id": "28.029-gory-red",
+    "name": "Gory Red",
+    "code": "28.029",
+    "set": "Hobby Paint",
+    "hex": "#783C3C"
+  },
+  {
+    "id": "72.711-gory-red",
+    "name": "Gory Red",
+    "code": "72.711",
+    "set": "Game Air",
+    "hex": "#693B3D"
+  },
+  {
+    "id": "72.011-gory-red",
+    "name": "Gory Red",
+    "code": "72.011",
+    "set": "Game Color",
+    "hex": "#7D1F1F"
+  },
+  {
+    "id": "71.103-gray-blue-rlm84",
+    "name": "Gray Blue RLM84",
+    "code": "71.103",
+    "set": "Model Air",
+    "hex": "#A2A39B"
+  },
+  {
+    "id": "71.258-gray-green-rlm74",
+    "name": "Gray Green RLM74",
+    "code": "71.258",
+    "set": "Model Air",
+    "hex": "#535554"
+  },
+  {
+    "id": "71.128-gray-violet",
+    "name": "Gray Violet",
+    "code": "71.128",
+    "set": "Model Air",
+    "hex": "#646663"
+  },
+  {
+    "id": "72.476-greasy-black",
+    "name": "Greasy Black",
+    "code": "72.476",
+    "set": "Xpress Color",
+    "hex": "#413736"
+  },
+  {
+    "id": "69.026-green",
+    "name": "Green",
+    "code": "69.026",
+    "set": "Mecha Color",
+    "hex": "#A4A792"
+  },
+  {
+    "id": "85.088-green",
+    "name": "Green",
+    "code": "85.088",
+    "set": "Arte Deco",
+    "hex": "#008B4F"
+  },
+  {
+    "id": "71.329-green",
+    "name": "Green",
+    "code": "71.329",
+    "set": "Model Air",
+    "hex": "#71746B"
+  },
+  {
+    "id": "72.089-green",
+    "name": "Green",
+    "code": "72.089",
+    "set": "Game Color",
+    "hex": "#007133"
+  },
+  {
+    "id": "69.027-green-blue",
+    "name": "Green Blue",
+    "code": "69.027",
+    "set": "Mecha Color",
+    "hex": "#8A9F80"
+  },
+  {
+    "id": "71.020-green-brown",
+    "name": "Green Brown",
+    "code": "71.020",
+    "set": "Model Air",
+    "hex": "#504B45"
+  },
+  {
+    "id": "70.879-green-brown",
+    "name": "Green Brown",
+    "code": "70.879",
+    "set": "Model Color",
+    "hex": "#816D32"
+  },
+  {
+    "id": "69.057-green-fluorescent",
+    "name": "Green Fluorescent",
+    "code": "69.057",
+    "set": "Mecha Color",
+    "hex": "#A8C958"
+  },
+  {
+    "id": "70.737-green-fluorescent",
+    "name": "Green Fluorescent",
+    "code": "70.737",
+    "set": "Model Color",
+    "hex": "#A8C958"
+  },
+  {
+    "id": "70.795-green-gold",
+    "name": "Green Gold",
+    "code": "70.795",
+    "set": "Liquid Gold",
+    "hex": "#E3D8C4"
+  },
+  {
+    "id": "70.971-green-grey",
+    "name": "Green Grey",
+    "code": "70.971",
+    "set": "Model Color",
+    "hex": "#B5B6AE"
+  },
+  {
+    "id": "70.886-green-grey",
+    "name": "Green Grey",
+    "code": "70.886",
+    "set": "Model Color",
+    "hex": "#65624F"
+  },
+  {
+    "id": "71.341-green-grey",
+    "name": "Green Grey",
+    "code": "71.341",
+    "set": "Model Air",
+    "hex": "#586257"
+  },
+  {
+    "id": "70.914-green-ochre",
+    "name": "Green Ochre",
+    "code": "70.914",
+    "set": "Model Color",
+    "hex": "#A17F35"
+  },
+  {
+    "id": "71.104-green-rlm62",
+    "name": "Green RLM62",
+    "code": "71.104",
+    "set": "Model Air",
+    "hex": "#595C47"
+  },
+  {
+    "id": "71.263-green-rlm72",
+    "name": "Green RLM72",
+    "code": "71.263",
+    "set": "Model Air",
+    "hex": "#474948"
+  },
+  {
+    "id": "71.256-green-rlm73",
+    "name": "Green RLM73",
+    "code": "71.256",
+    "set": "Model Air",
+    "hex": "#444D4C"
+  },
+  {
+    "id": "72.605-green-rush",
+    "name": "Green Rush",
+    "code": "72.605",
+    "set": "Game Color Special FX",
+    "hex": "#8CC5B2"
+  },
+  {
+    "id": "70.974-green-sky",
+    "name": "Green Sky",
+    "code": "70.974",
+    "set": "Model Color",
+    "hex": "#7A9165"
+  },
+  {
+    "id": "73.205-green-wash",
+    "name": "Green Wash",
+    "code": "73.205",
+    "set": "Game Color Wash",
+    "hex": "#72B25B"
+  },
+  {
+    "id": "70.881-green-yellow",
+    "name": "Green Yellow",
+    "code": "70.881",
+    "set": "Model Color",
+    "hex": "#6E653C"
+  },
+  {
+    "id": "71.094-green-zinc-chromate",
+    "name": "Green Zinc Chromate",
+    "code": "71.094",
+    "set": "Model Air",
+    "hex": "#565D3B"
+  },
+  {
+    "id": "71.047-grey",
+    "name": "Grey",
+    "code": "71.047",
+    "set": "Model Air",
+    "hex": "#555C66"
+  },
+  {
+    "id": "62.019-grey",
+    "name": "Grey",
+    "code": "62.019",
+    "set": "Premium Airbrush Color",
+    "hex": "#898995"
+  },
+  {
+    "id": "69.037-grey",
+    "name": "Grey",
+    "code": "69.037",
+    "set": "Mecha Color",
+    "hex": "#8A97A0"
+  },
+  {
+    "id": "70.601-grey",
+    "name": "Grey",
+    "code": "70.601",
+    "set": "Surface Primer",
+    "hex": "#C0C0C2"
+  },
+  {
+    "id": "70.641-grey",
+    "name": "Grey",
+    "code": "70.641",
+    "set": "Mecha Color",
+    "hex": "#C5C6C8"
+  },
+  {
+    "id": "28.011-grey",
+    "name": "Grey",
+    "code": "28.011",
+    "set": "Hobby Paint",
+    "hex": "#E7E7E7"
+  },
+  {
+    "id": "70.943-grey-blue",
+    "name": "Grey Blue",
+    "code": "70.943",
+    "set": "Model Color",
+    "hex": "#596D85"
+  },
+  {
+    "id": "71.005-grey-blue",
+    "name": "Grey Blue",
+    "code": "71.005",
+    "set": "Model Air",
+    "hex": "#424854"
+  },
+  {
+    "id": "70.762-grey-brown",
+    "name": "Grey Brown",
+    "code": "70.762",
+    "set": "Model Color",
+    "hex": "#5B4923"
+  },
+  {
+    "id": "70.866-grey-green",
+    "name": "Grey Green",
+    "code": "70.866",
+    "set": "Model Color",
+    "hex": "#41403E"
+  },
+  {
+    "id": "71.340-grey-green",
+    "name": "Grey Green",
+    "code": "71.340",
+    "set": "Model Air",
+    "hex": "#787E7A"
+  },
+  {
+    "id": "69.014-grey-green",
+    "name": "Grey Green",
+    "code": "69.014",
+    "set": "Mecha Color",
+    "hex": "#6D8589"
+  },
+  {
+    "id": "71.044-grey-rlm02",
+    "name": "Grey RLM02",
+    "code": "71.044",
+    "set": "Model Air",
+    "hex": "#7A7C67"
+  },
+  {
+    "id": "69.031-grey-sand",
+    "name": "Grey Sand",
+    "code": "69.031",
+    "set": "Mecha Color",
+    "hex": "#BA9F72"
+  },
+  {
+    "id": "85.102-grey-sky",
+    "name": "Grey Sky",
+    "code": "85.102",
+    "set": "Arte Deco",
+    "hex": "#C5B4A8"
+  },
+  {
+    "id": "71.259-grey-violet-rlm75",
+    "name": "Grey Violet RLM75",
+    "code": "71.259",
+    "set": "Model Air",
+    "hex": "#616362"
+  },
+  {
+    "id": "69.039-grey-z",
+    "name": "Grey Z",
+    "code": "69.039",
+    "set": "Mecha Color",
+    "hex": "#7A7B7D"
+  },
+  {
+    "id": "76.115-grunge-brown",
+    "name": "Grunge Brown",
+    "code": "76.115",
+    "set": "Game Air",
+    "hex": "#864326"
+  },
+  {
+    "id": "72.115-grunge-brown",
+    "name": "Grunge Brown",
+    "code": "72.115",
+    "set": "Game Color",
+    "hex": "#864326"
+  },
+  {
+    "id": "72.754-gunmetal",
+    "name": "Gunmetal",
+    "code": "72.754",
+    "set": "Game Air",
+    "hex": "#6E6F71"
+  },
+  {
+    "id": "70.863-gunmetal",
+    "name": "Gunmetal",
+    "code": "70.863",
+    "set": "Model Color",
+    "hex": "#352A2E"
+  },
+  {
+    "id": "62.052-gunmetal",
+    "name": "Gunmetal",
+    "code": "62.052",
+    "set": "Premium Airbrush Color",
+    "hex": "#D1CFD2"
+  },
+  {
+    "id": "28.031-gunmetal",
+    "name": "Gunmetal",
+    "code": "28.031",
+    "set": "Hobby Paint",
+    "hex": "#65646A"
+  },
+  {
+    "id": "69.058-gunmetal",
+    "name": "Gunmetal",
+    "code": "69.058",
+    "set": "Mecha Color",
+    "hex": "#646760"
+  },
+  {
+    "id": "71.072-gunmetal-metallic",
+    "name": "Gunmetal (Metallic)",
+    "code": "71.072",
+    "set": "Model Air",
+    "hex": "#7A7B80"
+  },
+  {
+    "id": "70.800-gunmetal-blue",
+    "name": "Gunmetal Blue",
+    "code": "70.800",
+    "set": "Model Color",
+    "hex": "#282834"
+  },
+  {
+    "id": "77.720-gunmetal-grey",
+    "name": "Gunmetal Grey",
+    "code": "77.720",
+    "set": "Metal Color",
+    "hex": "#737373"
+  },
+  {
+    "id": "71.014-gunship-green",
+    "name": "Gunship Green",
+    "code": "71.014",
+    "set": "Model Air",
+    "hex": "#555F54"
+  },
+  {
+    "id": "70.895-gunship-green",
+    "name": "Gunship Green",
+    "code": "70.895",
+    "set": "Model Color",
+    "hex": "#4C5840"
+  },
+  {
+    "id": "72.059-hammered-copper",
+    "name": "Hammered Copper",
+    "code": "72.059",
+    "set": "Game Color",
+    "hex": "#DCCFC7"
+  },
+  {
+    "id": "85.013-harvest-yellow",
+    "name": "Harvest Yellow",
+    "code": "85.013",
+    "set": "Arte Deco",
+    "hex": "#FEBB39"
+  },
+  {
+    "id": "72.147-heavy-black-green",
+    "name": "Heavy Black Green",
+    "code": "72.147",
+    "set": "Game Color",
+    "hex": "#3E4943"
+  },
+  {
+    "id": "72.143-heavy-blue",
+    "name": "Heavy Blue",
+    "code": "72.143",
+    "set": "Game Color",
+    "hex": "#405B78"
+  },
+  {
+    "id": "72.144-heavy-bluegrey",
+    "name": "Heavy Bluegrey",
+    "code": "72.144",
+    "set": "Game Color",
+    "hex": "#CBCAC8"
+  },
+  {
+    "id": "72.153-heavy-brown",
+    "name": "Heavy Brown",
+    "code": "72.153",
+    "set": "Game Color",
+    "hex": "#7B674E"
+  },
+  {
+    "id": "72.151-heavy-gold-brown",
+    "name": "Heavy Gold Brown",
+    "code": "72.151",
+    "set": "Game Color",
+    "hex": "#B68644"
+  },
+  {
+    "id": "72.146-heavy-green",
+    "name": "Heavy Green",
+    "code": "72.146",
+    "set": "Game Color",
+    "hex": "#566637"
+  },
+  {
+    "id": "72.149-heavy-kakhi",
+    "name": "Heavy Kakhi",
+    "code": "72.149",
+    "set": "Game Color",
+    "hex": "#B49F50"
+  },
+  {
+    "id": "72.150-heavy-ochre",
+    "name": "Heavy Ochre",
+    "code": "72.150",
+    "set": "Game Color",
+    "hex": "#AE7727"
+  },
+  {
+    "id": "72.152-heavy-orange",
+    "name": "Heavy Orange",
+    "code": "72.152",
+    "set": "Game Color",
+    "hex": "#EA5E0F"
+  },
+  {
+    "id": "72.141-heavy-red",
+    "name": "Heavy Red",
+    "code": "72.141",
+    "set": "Game Color",
+    "hex": "#8D363C"
+  },
+  {
+    "id": "72.154-heavy-siena",
+    "name": "Heavy Siena",
+    "code": "72.154",
+    "set": "Game Color",
+    "hex": "#5E483B"
+  },
+  {
+    "id": "72.140-heavy-skin-tone",
+    "name": "Heavy Skin Tone",
+    "code": "72.140",
+    "set": "Game Color",
+    "hex": "#AD8468"
+  },
+  {
+    "id": "72.142-heavy-violet",
+    "name": "Heavy Violet",
+    "code": "72.142",
+    "set": "Game Color",
+    "hex": "#484069"
+  },
+  {
+    "id": "71.023-hemp",
+    "name": "Hemp",
+    "code": "71.023",
+    "set": "Model Air",
+    "hex": "#817964"
+  },
+  {
+    "id": "72.481-heretic-turquoise",
+    "name": "Heretic Turquoise",
+    "code": "72.481",
+    "set": "Xpress Color Intense",
+    "hex": "#13514B"
+  },
+  {
+    "id": "72.715-hexed-lichen",
+    "name": "Hexed Lichen",
+    "code": "72.715",
+    "set": "Game Air",
+    "hex": "#39373A"
+  },
+  {
+    "id": "72.015-hexed-lichen",
+    "name": "Hexed Lichen",
+    "code": "72.015",
+    "set": "Game Color",
+    "hex": "#4B2753"
+  },
+  {
+    "id": "74.008-highlight-skin",
+    "name": "Highlight Skin",
+    "code": "74.008",
+    "set": "Nocturna Models",
+    "hex": "#F0D4BE"
+  },
+  {
+    "id": "85.094-holly-green",
+    "name": "Holly Green",
+    "code": "85.094",
+    "set": "Arte Deco",
+    "hex": "#004A39"
+  },
+  {
+    "id": "72.484-hospitallier-black",
+    "name": "Hospitallier Black",
+    "code": "72.484",
+    "set": "Xpress Color Intense",
+    "hex": "#252527"
+  },
+  {
+    "id": "72.709-hot-orange",
+    "name": "Hot Orange",
+    "code": "72.709",
+    "set": "Game Air",
+    "hex": "#E64C2A"
+  },
+  {
+    "id": "72.009-hot-orange",
+    "name": "Hot Orange",
+    "code": "72.009",
+    "set": "Game Color",
+    "hex": "#E23922"
+  },
+  {
+    "id": "70.985-hull-red",
+    "name": "Hull Red",
+    "code": "70.985",
+    "set": "Model Color",
+    "hex": "#5C383C"
+  },
+  {
+    "id": "71.039-hull-red",
+    "name": "Hull Red",
+    "code": "71.039",
+    "set": "Model Air",
+    "hex": "#483D39"
+  },
+  {
+    "id": "85.055-hyacinth-blue",
+    "name": "Hyacinth Blue",
+    "code": "85.055",
+    "set": "Arte Deco",
+    "hex": "#986BB8"
+  },
+  {
+    "id": "85.021-hyacinth-rose",
+    "name": "Hyacinth Rose",
+    "code": "85.021",
+    "set": "Arte Deco",
+    "hex": "#D39699"
+  },
+  {
+    "id": "71.327-iaf-sand",
+    "name": "IAF Sand",
+    "code": "71.327",
+    "set": "Model Air",
+    "hex": "#C4B29A"
+  },
+  {
+    "id": "71.113-idf-blue",
+    "name": "IDF Blue",
+    "code": "71.113",
+    "set": "Model Air",
+    "hex": "#59758A"
+  },
+  {
+    "id": "70.614-idf-israeli-sand-grey-61-73",
+    "name": "IDF Israeli Sand Grey (61-73)",
+    "code": "70.614",
+    "set": "Surface Primer",
+    "hex": "#796E68"
+  },
+  {
+    "id": "71.141-idf-sand-grey-73",
+    "name": "IDF Sand Grey 73",
+    "code": "71.141",
+    "set": "Model Air",
+    "hex": "#AA9F83"
+  },
+  {
+    "id": "71.142-idf-sinai-grey-82",
+    "name": "IDF Sinai Grey 82",
+    "code": "71.142",
+    "set": "Model Air",
+    "hex": "#7B726D"
+  },
+  {
+    "id": "71.126-idf-iaf-green",
+    "name": "IDF/IAF Green",
+    "code": "71.126",
+    "set": "Model Air",
+    "hex": "#79866C"
+  },
+  {
+    "id": "71.135-ija-chrome-yellow",
+    "name": "IJA Chrome Yellow",
+    "code": "71.135",
+    "set": "Model Air",
+    "hex": "#F4A900"
+  },
+  {
+    "id": "71.285-ija-dark-green",
+    "name": "IJA Dark Green",
+    "code": "71.285",
+    "set": "Model Air",
+    "hex": "#52543F"
+  },
+  {
+    "id": "71.136-ija-earth-brown",
+    "name": "IJA Earth Brown",
+    "code": "71.136",
+    "set": "Model Air",
+    "hex": "#78644B"
+  },
+  {
+    "id": "71.326-ija-grey-green",
+    "name": "IJA Grey Green",
+    "code": "71.326",
+    "set": "Model Air",
+    "hex": "#BBB39E"
+  },
+  {
+    "id": "71.287-ija-khaki-brown",
+    "name": "IJA Khaki Brown",
+    "code": "71.287",
+    "set": "Model Air",
+    "hex": "#695940"
+  },
+  {
+    "id": "71.321-ija-light-grey-green",
+    "name": "IJA Light Grey Green",
+    "code": "71.321",
+    "set": "Model Air",
+    "hex": "#A5AA93"
+  },
+  {
+    "id": "71.134-ija-midouri-green",
+    "name": "IJA Midouri Green",
+    "code": "71.134",
+    "set": "Model Air",
+    "hex": "#3E483D"
+  },
+  {
+    "id": "71.286-ija-olive-green",
+    "name": "IJA Olive Green",
+    "code": "71.286",
+    "set": "Model Air",
+    "hex": "#544C3F"
+  },
+  {
+    "id": "71.311-ijn-ash-grey",
+    "name": "IJN Ash Grey",
+    "code": "71.311",
+    "set": "Model Air",
+    "hex": "#89816C"
+  },
+  {
+    "id": "71.322-ijn-black-green",
+    "name": "IJN Black Green",
+    "code": "71.322",
+    "set": "Model Air",
+    "hex": "#3E483D"
+  },
+  {
+    "id": "71.325-ijn-dark-black-green",
+    "name": "IJN Dark Black Green",
+    "code": "71.325",
+    "set": "Model Air",
+    "hex": "#434542"
+  },
+  {
+    "id": "71.310-ijn-deep-dark-green",
+    "name": "IJN Deep Dark Green",
+    "code": "71.310",
+    "set": "Model Air",
+    "hex": "#36504D"
+  },
+  {
+    "id": "71.312-ijn-medium-grey",
+    "name": "IJN Medium Grey",
+    "code": "71.312",
+    "set": "Model Air",
+    "hex": "#B9B0AB"
+  },
+  {
+    "id": "70.858-ice-yellow",
+    "name": "Ice Yellow",
+    "code": "70.858",
+    "set": "Model Color",
+    "hex": "#EECF72"
+  },
+  {
+    "id": "72.463-iceberg-grey",
+    "name": "Iceberg Grey",
+    "code": "72.463",
+    "set": "Xpress Color",
+    "hex": "#42576C"
+  },
+  {
+    "id": "72.720-imperial-blue",
+    "name": "Imperial Blue",
+    "code": "72.720",
+    "set": "Game Air",
+    "hex": "#04316A"
+  },
+  {
+    "id": "72.020-imperial-blue",
+    "name": "Imperial Blue",
+    "code": "72.020",
+    "set": "Game Color",
+    "hex": "#262A47"
+  },
+  {
+    "id": "76.020-imperial-blue",
+    "name": "Imperial Blue",
+    "code": "76.020",
+    "set": "Game Air",
+    "hex": "#262A47"
+  },
+  {
+    "id": "74.025-imperial-purple",
+    "name": "Imperial Purple",
+    "code": "74.025",
+    "set": "Nocturna Models",
+    "hex": "#4E2D79"
+  },
+  {
+    "id": "72.403-imperial-yellow",
+    "name": "Imperial Yellow",
+    "code": "72.403",
+    "set": "Xpress Color",
+    "hex": "#F59F2E"
+  },
+  {
+    "id": "85.071-indian-turquoise",
+    "name": "Indian Turquoise",
+    "code": "85.071",
+    "set": "Arte Deco",
+    "hex": "#9BD5D9"
+  },
+  {
+    "id": "73.803-industrial-splash-mud",
+    "name": "Industrial Splash Mud",
+    "code": "73.803",
+    "set": "Weathering FX",
+    "hex": "#73746E"
+  },
+  {
+    "id": "73.809-industrial-thick-mud",
+    "name": "Industrial Thick Mud",
+    "code": "73.809",
+    "set": "Weathering FX",
+    "hex": "#53564D"
+  },
+  {
+    "id": "70.752-infantry-blue",
+    "name": "Infantry Blue",
+    "code": "70.752",
+    "set": "Model Color",
+    "hex": "#25212F"
+  },
+  {
+    "id": "74.022-inferno-red",
+    "name": "Inferno Red",
+    "code": "74.022",
+    "set": "Nocturna Models",
+    "hex": "#DD323A"
+  },
+  {
+    "id": "71.279-insignia-white",
+    "name": "Insignia White",
+    "code": "71.279",
+    "set": "Model Air",
+    "hex": "#E3E3DB"
+  },
+  {
+    "id": "71.010-interior-green",
+    "name": "Interior Green",
+    "code": "71.010",
+    "set": "Model Air",
+    "hex": "#645D40"
+  },
+  {
+    "id": "71.305-interior-grey-green",
+    "name": "Interior Grey Green",
+    "code": "71.305",
+    "set": "Model Air",
+    "hex": "#96A28A"
+  },
+  {
+    "id": "70.903-intermediate-blue",
+    "name": "Intermediate Blue",
+    "code": "70.903",
+    "set": "Model Color",
+    "hex": "#646D76"
+  },
+  {
+    "id": "71.299-intermediate-blue",
+    "name": "Intermediate Blue",
+    "code": "71.299",
+    "set": "Model Air",
+    "hex": "#5E707E"
+  },
+  {
+    "id": "70.891-intermediate-green",
+    "name": "Intermediate Green",
+    "code": "70.891",
+    "set": "Model Color",
+    "hex": "#506544"
+  },
+  {
+    "id": "70.819-iraqi-sand",
+    "name": "Iraqi Sand",
+    "code": "70.819",
+    "set": "Model Color",
+    "hex": "#B49360"
+  },
+  {
+    "id": "70.327-italian-tank-crew",
+    "name": "Italian Tank Crew",
+    "code": "70.327",
+    "set": "Panzer Aces",
+    "hex": "#4B461C"
+  },
+  {
+    "id": "70.331-italian-tank-crew-highlights",
+    "name": "Italian Tank Crew Highlights",
+    "code": "70.331",
+    "set": "Panzer Aces",
+    "hex": "#9EB193"
+  },
+  {
+    "id": "70.643-ivory",
+    "name": "Ivory",
+    "code": "70.643",
+    "set": "Mecha Color",
+    "hex": "#F4EFD2"
+  },
+  {
+    "id": "71.075-ivory",
+    "name": "Ivory",
+    "code": "71.075",
+    "set": "Model Air",
+    "hex": "#C1AF89"
+  },
+  {
+    "id": "70.918-ivory",
+    "name": "Ivory",
+    "code": "70.918",
+    "set": "Model Color",
+    "hex": "#EBE2D1"
+  },
+  {
+    "id": "71.106-ivory-rlm05",
+    "name": "Ivory RLM05",
+    "code": "71.106",
+    "set": "Model Air",
+    "hex": "#C8B269"
+  },
+  {
+    "id": "71.297-jgsd-brown-3606",
+    "name": "JGSD Brown 3606",
+    "code": "71.297",
+    "set": "Model Air",
+    "hex": "#70665C"
+  },
+  {
+    "id": "85.083-jade-green",
+    "name": "Jade Green",
+    "code": "85.083",
+    "set": "Arte Deco",
+    "hex": "#77B48A"
+  },
+  {
+    "id": "76.026-jade-green",
+    "name": "Jade Green",
+    "code": "76.026",
+    "set": "Game Air",
+    "hex": "#007155"
+  },
+  {
+    "id": "72.026-jade-green",
+    "name": "Jade Green",
+    "code": "72.026",
+    "set": "Game Color",
+    "hex": "#007155"
+  },
+  {
+    "id": "70.328-japanese-tank-crew",
+    "name": "Japanese Tank Crew",
+    "code": "70.328",
+    "set": "Panzer Aces",
+    "hex": "#5C5632"
+  },
+  {
+    "id": "70.332-japanese-tank-crew-highlights",
+    "name": "Japanese Tank Crew Highlights",
+    "code": "70.332",
+    "set": "Panzer Aces",
+    "hex": "#AAA391"
+  },
+  {
+    "id": "70.923-japanese-uniform-wwii",
+    "name": "Japanese Uniform WWII",
+    "code": "70.923",
+    "set": "Model Color",
+    "hex": "#9F7F2A"
+  },
+  {
+    "id": "77.713-jet-exhaust",
+    "name": "Jet Exhaust",
+    "code": "77.713",
+    "set": "Metal Color",
+    "hex": "#797979"
+  },
+  {
+    "id": "85.092-kelly-green",
+    "name": "Kelly Green",
+    "code": "85.092",
+    "set": "Arte Deco",
+    "hex": "#008E4D"
+  },
+  {
+    "id": "72.061-khaki",
+    "name": "Khaki",
+    "code": "72.061",
+    "set": "Game Color",
+    "hex": "#9A7B4C"
+  },
+  {
+    "id": "72.761-khaki",
+    "name": "Khaki",
+    "code": "72.761",
+    "set": "Game Air",
+    "hex": "#AA9D73"
+  },
+  {
+    "id": "70.988-khaki",
+    "name": "Khaki",
+    "code": "70.988",
+    "set": "Model Color",
+    "hex": "#6F5F3B"
+  },
+  {
+    "id": "71.024-khaki-brown",
+    "name": "Khaki Brown",
+    "code": "71.024",
+    "set": "Model Air",
+    "hex": "#917957"
+  },
+  {
+    "id": "72.451-khaki-drill",
+    "name": "Khaki Drill",
+    "code": "72.451",
+    "set": "Xpress Color",
+    "hex": "#C7945B"
+  },
+  {
+    "id": "71.330-khaki-green-num-3",
+    "name": "Khaki Green Num.3",
+    "code": "71.330",
+    "set": "Model Air",
+    "hex": "#615E4B"
+  },
+  {
+    "id": "70.880-khaki-grey",
+    "name": "Khaki Grey",
+    "code": "70.880",
+    "set": "Model Color",
+    "hex": "#7E6338"
+  },
+  {
+    "id": "72.469-landser-grey",
+    "name": "Landser Grey",
+    "code": "72.469",
+    "set": "Xpress Color",
+    "hex": "#524F48"
+  },
+  {
+    "id": "85.054-lavender",
+    "name": "Lavender",
+    "code": "85.054",
+    "set": "Arte Deco",
+    "hex": "#7E398C"
+  },
+  {
+    "id": "70.774-lavender-grey",
+    "name": "Lavender Grey",
+    "code": "70.774",
+    "set": "Model Color",
+    "hex": "#7F6F6F"
+  },
+  {
+    "id": "85.098-leaf-green",
+    "name": "Leaf Green",
+    "code": "85.098",
+    "set": "Arte Deco",
+    "hex": "#006E37"
+  },
+  {
+    "id": "70.312-leather-belt",
+    "name": "Leather Belt",
+    "code": "70.312",
+    "set": "Panzer Aces",
+    "hex": "#665249"
+  },
+  {
+    "id": "76.040-leather-brown",
+    "name": "Leather Brown",
+    "code": "76.040",
+    "set": "Game Air",
+    "hex": "#8D5E2A"
+  },
+  {
+    "id": "70.871-leather-brown",
+    "name": "Leather Brown",
+    "code": "70.871",
+    "set": "Model Color",
+    "hex": "#594335"
+  },
+  {
+    "id": "70.626-leather-brown",
+    "name": "Leather Brown",
+    "code": "70.626",
+    "set": "Surface Primer",
+    "hex": "#7C6052"
+  },
+  {
+    "id": "28.014-leather-brown",
+    "name": "Leather Brown",
+    "code": "28.014",
+    "set": "Hobby Paint",
+    "hex": "#87643C"
+  },
+  {
+    "id": "72.040-leather-brown",
+    "name": "Leather Brown",
+    "code": "72.040",
+    "set": "Game Color",
+    "hex": "#8D5E2A"
+  },
+  {
+    "id": "72.480-legacy-blue",
+    "name": "Legacy Blue",
+    "code": "72.480",
+    "set": "Xpress Color Intense",
+    "hex": "#272961"
+  },
+  {
+    "id": "85.007-lemon-yellow",
+    "name": "Lemon Yellow",
+    "code": "85.007",
+    "set": "Arte Deco",
+    "hex": "#FEEC40"
+  },
+  {
+    "id": "70.952-lemon-yellow",
+    "name": "Lemon Yellow",
+    "code": "70.952",
+    "set": "Model Color",
+    "hex": "#E4D202"
+  },
+  {
+    "id": "85.096-light-avocado",
+    "name": "Light Avocado",
+    "code": "85.096",
+    "set": "Arte Deco",
+    "hex": "#5DA97A"
+  },
+  {
+    "id": "69.016-light-blue",
+    "name": "Light Blue",
+    "code": "69.016",
+    "set": "Mecha Color",
+    "hex": "#6B8DBB"
+  },
+  {
+    "id": "71.328-light-blue",
+    "name": "Light Blue",
+    "code": "71.328",
+    "set": "Model Air",
+    "hex": "#C6C9C0"
+  },
+  {
+    "id": "71.255-light-blue-rlm65",
+    "name": "Light Blue RLM65",
+    "code": "71.255",
+    "set": "Model Air",
+    "hex": "#899D9C"
+  },
+  {
+    "id": "71.257-light-blue-rlm76",
+    "name": "Light Blue RLM76",
+    "code": "71.257",
+    "set": "Model Air",
+    "hex": "#96ABA4"
+  },
+  {
+    "id": "71.101-light-blue-rlm78",
+    "name": "Light Blue RLM78",
+    "code": "71.101",
+    "set": "Model Air",
+    "hex": "#809590"
+  },
+  {
+    "id": "71.027-light-brown",
+    "name": "Light Brown",
+    "code": "71.027",
+    "set": "Model Air",
+    "hex": "#AE9169"
+  },
+  {
+    "id": "70.929-light-brown",
+    "name": "Light Brown",
+    "code": "70.929",
+    "set": "Model Color",
+    "hex": "#A25B31"
+  },
+  {
+    "id": "73.810-light-brown-mud",
+    "name": "Light Brown Mud",
+    "code": "73.810",
+    "set": "Weathering FX",
+    "hex": "#818376"
+  },
+  {
+    "id": "73.804-light-brown-splash-mud",
+    "name": "Light Brown Splash Mud",
+    "code": "73.804",
+    "set": "Weathering FX",
+    "hex": "#C7BBAF"
+  },
+  {
+    "id": "69.005-light-flesh",
+    "name": "Light Flesh",
+    "code": "69.005",
+    "set": "Mecha Color",
+    "hex": "#F8D8C9"
+  },
+  {
+    "id": "70.928-light-flesh",
+    "name": "Light Flesh",
+    "code": "70.928",
+    "set": "Model Color",
+    "hex": "#F3D4B8"
+  },
+  {
+    "id": "71.050-light-gray",
+    "name": "Light Gray",
+    "code": "71.050",
+    "set": "Model Air",
+    "hex": "#8C909B"
+  },
+  {
+    "id": "70.942-light-green",
+    "name": "Light Green",
+    "code": "70.942",
+    "set": "Model Color",
+    "hex": "#007943"
+  },
+  {
+    "id": "69.025-light-green",
+    "name": "Light Green",
+    "code": "69.025",
+    "set": "Mecha Color",
+    "hex": "#C6C9C0"
+  },
+  {
+    "id": "70.972-light-green-blue",
+    "name": "Light Green Blue",
+    "code": "70.972",
+    "set": "Model Color",
+    "hex": "#86958E"
+  },
+  {
+    "id": "71.006-light-green-chromate",
+    "name": "Light Green Chromate",
+    "code": "71.006",
+    "set": "Model Air",
+    "hex": "#5F6644"
+  },
+  {
+    "id": "71.267-light-green-rlm25",
+    "name": "Light Green RLM25",
+    "code": "71.267",
+    "set": "Model Air",
+    "hex": "#497868"
+  },
+  {
+    "id": "71.022-light-green-rlm82",
+    "name": "Light Green RLM82",
+    "code": "71.022",
+    "set": "Model Air",
+    "hex": "#4B4F3E"
+  },
+  {
+    "id": "76.515-light-grey",
+    "name": "Light Grey",
+    "code": "76.515",
+    "set": "Wash FX",
+    "hex": "#C3C3C1"
+  },
+  {
+    "id": "70.990-light-grey",
+    "name": "Light Grey",
+    "code": "70.990",
+    "set": "Model Color",
+    "hex": "#919294"
+  },
+  {
+    "id": "69.036-light-grey",
+    "name": "Light Grey",
+    "code": "69.036",
+    "set": "Mecha Color",
+    "hex": "#969DA5"
+  },
+  {
+    "id": "71.260-light-grey-rlm63",
+    "name": "Light Grey RLM63",
+    "code": "71.260",
+    "set": "Model Air",
+    "hex": "#6B6F60"
+  },
+  {
+    "id": "69.515-light-grey-wash",
+    "name": "Light Grey Wash",
+    "code": "69.515",
+    "set": "Mecha Color",
+    "hex": "#C9C9C7"
+  },
+  {
+    "id": "71.121-light-gull-gray",
+    "name": "Light Gull Gray",
+    "code": "71.121",
+    "set": "Model Air",
+    "hex": "#A9AAA2"
+  },
+  {
+    "id": "72.733-light-livery-green",
+    "name": "Light Livery Green",
+    "code": "72.733",
+    "set": "Game Air",
+    "hex": "#92BD16"
+  },
+  {
+    "id": "85.047-light-magenta",
+    "name": "Light Magenta",
+    "code": "85.047",
+    "set": "Arte Deco",
+    "hex": "#FA68B8"
+  },
+  {
+    "id": "70.315-light-mud",
+    "name": "Light Mud",
+    "code": "70.315",
+    "set": "Panzer Aces",
+    "hex": "#ACA37A"
+  },
+  {
+    "id": "70.760-light-mud",
+    "name": "Light Mud",
+    "code": "70.760",
+    "set": "Model Color",
+    "hex": "#7C745D"
+  },
+  {
+    "id": "71.247-light-olive",
+    "name": "Light Olive",
+    "code": "71.247",
+    "set": "Model Air",
+    "hex": "#68604D"
+  },
+  {
+    "id": "70.911-light-orange",
+    "name": "Light Orange",
+    "code": "70.911",
+    "set": "Model Color",
+    "hex": "#EE7228"
+  },
+  {
+    "id": "71.086-light-red",
+    "name": "Light Red",
+    "code": "71.086",
+    "set": "Model Air",
+    "hex": "#E04622"
+  },
+  {
+    "id": "70.305-light-rubber",
+    "name": "Light Rubber",
+    "code": "70.305",
+    "set": "Panzer Aces",
+    "hex": "#838381"
+  },
+  {
+    "id": "70.301-light-rust",
+    "name": "Light Rust",
+    "code": "70.301",
+    "set": "Panzer Aces",
+    "hex": "#87431E"
+  },
+  {
+    "id": "76.505-light-rust",
+    "name": "Light Rust",
+    "code": "76.505",
+    "set": "Wash FX",
+    "hex": "#C97932"
+  },
+  {
+    "id": "71.129-light-rust",
+    "name": "Light Rust",
+    "code": "71.129",
+    "set": "Model Air",
+    "hex": "#915E43"
+  },
+  {
+    "id": "69.505-light-rust-wash",
+    "name": "Light Rust Wash",
+    "code": "69.505",
+    "set": "Mecha Color",
+    "hex": "#EB7919"
+  },
+  {
+    "id": "71.089-light-sea-blue",
+    "name": "Light Sea Blue",
+    "code": "71.089",
+    "set": "Model Air",
+    "hex": "#02A4D5"
+  },
+  {
+    "id": "70.973-light-sea-grey",
+    "name": "Light Sea Grey",
+    "code": "70.973",
+    "set": "Model Color",
+    "hex": "#A1B1B1"
+  },
+  {
+    "id": "69.064-light-steel",
+    "name": "Light Steel",
+    "code": "69.064",
+    "set": "Mecha Color",
+    "hex": "#CDD6D3"
+  },
+  {
+    "id": "70.840-light-turquoise",
+    "name": "Light Turquoise",
+    "code": "70.840",
+    "set": "Model Color",
+    "hex": "#006989"
+  },
+  {
+    "id": "70.750-light-violet",
+    "name": "Light Violet",
+    "code": "70.750",
+    "set": "Model Color",
+    "hex": "#A893BC"
+  },
+  {
+    "id": "70.949-light-yellow",
+    "name": "Light Yellow",
+    "code": "70.949",
+    "set": "Model Color",
+    "hex": "#F8D347"
+  },
+  {
+    "id": "85.051-lila",
+    "name": "Lila",
+    "code": "85.051",
+    "set": "Arte Deco",
+    "hex": "#DDABD9"
+  },
+  {
+    "id": "70.827-lime-green",
+    "name": "Lime Green",
+    "code": "70.827",
+    "set": "Model Color",
+    "hex": "#7F9435"
+  },
+  {
+    "id": "74.029-lipstick",
+    "name": "Lipstick",
+    "code": "74.029",
+    "set": "Nocturna Models",
+    "hex": "#82125A"
+  },
+  {
+    "id": "72.033-livery-green",
+    "name": "Livery Green",
+    "code": "72.033",
+    "set": "Game Color",
+    "hex": "#9DC451"
+  },
+  {
+    "id": "72.418-lizard-green",
+    "name": "Lizard Green",
+    "code": "72.418",
+    "set": "Xpress Color",
+    "hex": "#223A2C"
+  },
+  {
+    "id": "71.245-loam-beige",
+    "name": "Loam Beige",
+    "code": "71.245",
+    "set": "Model Air",
+    "hex": "#988864"
+  },
+  {
+    "id": "70.836-london-grey",
+    "name": "London Grey",
+    "code": "70.836",
+    "set": "Model Color",
+    "hex": "#696363"
+  },
+  {
+    "id": "85.115-lt-cinnamon",
+    "name": "Lt Cinnamon",
+    "code": "85.115",
+    "set": "Arte Deco",
+    "hex": "#A27784"
+  },
+  {
+    "id": "70.823-luftwaffe-green",
+    "name": "Luftwaffe Green",
+    "code": "70.823",
+    "set": "Model Color",
+    "hex": "#393F25"
+  },
+  {
+    "id": "70.816-luftwaffe-uniform-wwii",
+    "name": "Luftwaffe Uniform WWII",
+    "code": "70.816",
+    "set": "Model Color",
+    "hex": "#44404E"
+  },
+  {
+    "id": "76.114-lustful-purple",
+    "name": "Lustful Purple",
+    "code": "76.114",
+    "set": "Game Air",
+    "hex": "#B78BBC"
+  },
+  {
+    "id": "72.114-lustful-purple",
+    "name": "Lustful Purple",
+    "code": "72.114",
+    "set": "Game Color",
+    "hex": "#B78BBC"
+  },
+  {
+    "id": "71.298-m495-light-gray",
+    "name": "M495 Light Gray",
+    "code": "71.298",
+    "set": "Model Air",
+    "hex": "#9C998A"
+  },
+  {
+    "id": "69.010-magenta",
+    "name": "Magenta",
+    "code": "69.010",
+    "set": "Mecha Color",
+    "hex": "#C11126"
+  },
+  {
+    "id": "62.007-magenta",
+    "name": "Magenta",
+    "code": "62.007",
+    "set": "Premium Airbrush Color",
+    "hex": "#A52E64"
+  },
+  {
+    "id": "70.945-magenta",
+    "name": "Magenta",
+    "code": "70.945",
+    "set": "Model Color",
+    "hex": "#903153"
+  },
+  {
+    "id": "72.083-magenta",
+    "name": "Magenta",
+    "code": "72.083",
+    "set": "Game Color",
+    "hex": "#A62355"
+  },
+  {
+    "id": "74.021-magenta-blood",
+    "name": "Magenta Blood",
+    "code": "74.021",
+    "set": "Nocturna Models",
+    "hex": "#AA2038"
+  },
+  {
+    "id": "70.735-magenta-fluorescent",
+    "name": "Magenta Fluorescent",
+    "code": "70.735",
+    "set": "Model Color",
+    "hex": "#E6418D"
+  },
+  {
+    "id": "69.056-magenta-fluorescent",
+    "name": "Magenta Fluorescent",
+    "code": "69.056",
+    "set": "Mecha Color",
+    "hex": "#E7418D"
+  },
+  {
+    "id": "76.021-magic-blue",
+    "name": "Magic Blue",
+    "code": "76.021",
+    "set": "Game Air",
+    "hex": "#0069AA"
+  },
+  {
+    "id": "72.021-magic-blue",
+    "name": "Magic Blue",
+    "code": "72.021",
+    "set": "Game Color",
+    "hex": "#0069AA"
+  },
+  {
+    "id": "72.721-magic-blue",
+    "name": "Magic Blue",
+    "code": "72.721",
+    "set": "Game Air",
+    "hex": "#026EB6"
+  },
+  {
+    "id": "28.030-magic-blue",
+    "name": "Magic Blue",
+    "code": "28.030",
+    "set": "Hobby Paint",
+    "hex": "#126DB4"
+  },
+  {
+    "id": "77.711-magnesium",
+    "name": "Magnesium",
+    "code": "77.711",
+    "set": "Metal Color",
+    "hex": "#858585"
+  },
+  {
+    "id": "72.472-mahogany",
+    "name": "Mahogany",
+    "code": "72.472",
+    "set": "Xpress Color",
+    "hex": "#5A3930"
+  },
+  {
+    "id": "71.036-mahogany",
+    "name": "Mahogany",
+    "code": "71.036",
+    "set": "Model Air",
+    "hex": "#4A3B38"
+  },
+  {
+    "id": "70.846-mahogany-brown",
+    "name": "Mahogany Brown",
+    "code": "70.846",
+    "set": "Model Color",
+    "hex": "#79504A"
+  },
+  {
+    "id": "70.828-mahogany-ink",
+    "name": "Mahogany Ink",
+    "code": "70.828",
+    "set": "Model Color",
+    "hex": "#674641"
+  },
+  {
+    "id": "74.012-malefic-flesh",
+    "name": "Malefic Flesh",
+    "code": "74.012",
+    "set": "Nocturna Models",
+    "hex": "#696061"
+  },
+  {
+    "id": "72.405-martian-orange",
+    "name": "Martian Orange",
+    "code": "72.405",
+    "set": "Xpress Color",
+    "hex": "#CD4619"
+  },
+  {
+    "id": "62.062-matt-varnish",
+    "name": "Matt Varnish",
+    "code": "62.062",
+    "set": "Premium Airbrush Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "84.155-matt-varnish",
+    "name": "Matt Varnish",
+    "code": "84.155",
+    "set": "Arte Deco",
+    "hex": "#DCDCDC"
+  },
+  {
+    "id": "85.041-mauve",
+    "name": "Mauve",
+    "code": "85.041",
+    "set": "Arte Deco",
+    "hex": "#9F4F5E"
+  },
+  {
+    "id": "69.701-mecha-gloss-varnish",
+    "name": "Mecha Gloss Varnish",
+    "code": "69.701",
+    "set": "Mecha Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "69.702-mecha-matt-varnish",
+    "name": "Mecha Matt Varnish",
+    "code": "69.702",
+    "set": "Mecha Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "69.703-mecha-satin-varnish",
+    "name": "Mecha Satin Varnish",
+    "code": "69.703",
+    "set": "Mecha Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "70.963-medium-blue",
+    "name": "Medium Blue",
+    "code": "70.963",
+    "set": "Model Color",
+    "hex": "#16416C"
+  },
+  {
+    "id": "85.063-medium-blue",
+    "name": "Medium Blue",
+    "code": "85.063",
+    "set": "Arte Deco",
+    "hex": "#29409A"
+  },
+  {
+    "id": "70.826-medium-brown",
+    "name": "Medium Brown",
+    "code": "70.826",
+    "set": "Model Color",
+    "hex": "#5B483A"
+  },
+  {
+    "id": "74.005-medium-flesh",
+    "name": "Medium Flesh",
+    "code": "74.005",
+    "set": "Nocturna Models",
+    "hex": "#E98877"
+  },
+  {
+    "id": "85.017-medium-flesh",
+    "name": "Medium Flesh",
+    "code": "85.017",
+    "set": "Arte Deco",
+    "hex": "#FAD0D1"
+  },
+  {
+    "id": "70.860-medium-fleshtone",
+    "name": "Medium Fleshtone",
+    "code": "70.860",
+    "set": "Model Color",
+    "hex": "#B07940"
+  },
+  {
+    "id": "71.114-medium-gray",
+    "name": "Medium Gray",
+    "code": "71.114",
+    "set": "Model Air",
+    "hex": "#687E8B"
+  },
+  {
+    "id": "69.038-medium-grey",
+    "name": "Medium Grey",
+    "code": "69.038",
+    "set": "Mecha Color",
+    "hex": "#828385"
+  },
+  {
+    "id": "70.987-medium-grey",
+    "name": "Medium Grey",
+    "code": "70.987",
+    "set": "Model Color",
+    "hex": "#867259"
+  },
+  {
+    "id": "70.772-medium-grey-blue",
+    "name": "Medium Grey Blue",
+    "code": "70.772",
+    "set": "Model Color",
+    "hex": "#779D92"
+  },
+  {
+    "id": "71.097-medium-gunship-gray",
+    "name": "Medium Gunship Gray",
+    "code": "71.097",
+    "set": "Model Air",
+    "hex": "#5A616B"
+  },
+  {
+    "id": "71.092-medium-olive",
+    "name": "Medium Olive",
+    "code": "71.092",
+    "set": "Model Air",
+    "hex": "#505443"
+  },
+  {
+    "id": "70.850-medium-olive",
+    "name": "Medium Olive",
+    "code": "70.850",
+    "set": "Model Color",
+    "hex": "#414E32"
+  },
+  {
+    "id": "70.870-medium-sea-grey",
+    "name": "Medium Sea Grey",
+    "code": "70.870",
+    "set": "Model Color",
+    "hex": "#7D7B7C"
+  },
+  {
+    "id": "72.448-medium-xpress",
+    "name": "Medium Xpress",
+    "code": "72.448",
+    "set": "Xpress Color",
+    "hex": "#FFFBF8"
+  },
+  {
+    "id": "71.002-medium-yellow",
+    "name": "Medium Yellow",
+    "code": "71.002",
+    "set": "Model Air",
+    "hex": "#F9B202"
+  },
+  {
+    "id": "62.053-metallic-black",
+    "name": "Metallic Black",
+    "code": "62.053",
+    "set": "Premium Airbrush Color",
+    "hex": "#BEBABB"
+  },
+  {
+    "id": "62.046-metallic-blue",
+    "name": "Metallic Blue",
+    "code": "62.046",
+    "set": "Premium Airbrush Color",
+    "hex": "#D0D7E9"
+  },
+  {
+    "id": "69.067-metallic-blue",
+    "name": "Metallic Blue",
+    "code": "69.067",
+    "set": "Mecha Color",
+    "hex": "#373C4F"
+  },
+  {
+    "id": "69.068-metallic-green",
+    "name": "Metallic Green",
+    "code": "69.068",
+    "set": "Mecha Color",
+    "hex": "#1B927F"
+  },
+  {
+    "id": "62.047-metallic-green",
+    "name": "Metallic Green",
+    "code": "62.047",
+    "set": "Premium Airbrush Color",
+    "hex": "#DBEBE1"
+  },
+  {
+    "id": "62.041-metallic-medium",
+    "name": "Metallic Medium",
+    "code": "62.041",
+    "set": "Premium Airbrush Color",
+    "hex": "#FAF7F0"
+  },
+  {
+    "id": "62.043-metallic-orange",
+    "name": "Metallic Orange",
+    "code": "62.043",
+    "set": "Premium Airbrush Color",
+    "hex": "#F6DEDA"
+  },
+  {
+    "id": "69.066-metallic-red",
+    "name": "Metallic Red",
+    "code": "69.066",
+    "set": "Mecha Color",
+    "hex": "#CB5970"
+  },
+  {
+    "id": "62.044-metallic-red",
+    "name": "Metallic Red",
+    "code": "62.044",
+    "set": "Premium Airbrush Color",
+    "hex": "#F0D3D5"
+  },
+  {
+    "id": "62.045-metallic-violet",
+    "name": "Metallic Violet",
+    "code": "62.045",
+    "set": "Premium Airbrush Color",
+    "hex": "#DBD7EE"
+  },
+  {
+    "id": "62.042-metallic-yellow",
+    "name": "Metallic Yellow",
+    "code": "62.042",
+    "set": "Premium Airbrush Color",
+    "hex": "#FBEDD3"
+  },
+  {
+    "id": "70.882-middle-stone",
+    "name": "Middle Stone",
+    "code": "70.882",
+    "set": "Model Color",
+    "hex": "#937F42"
+  },
+  {
+    "id": "71.031-middle-stone",
+    "name": "Middle Stone",
+    "code": "71.031",
+    "set": "Model Air",
+    "hex": "#997C50"
+  },
+  {
+    "id": "85.070-midnight-blue",
+    "name": "Midnight Blue",
+    "code": "85.070",
+    "set": "Arte Deco",
+    "hex": "#012D2C"
+  },
+  {
+    "id": "76.116-midnight-purple",
+    "name": "Midnight Purple",
+    "code": "76.116",
+    "set": "Game Air",
+    "hex": "#2D1E33"
+  },
+  {
+    "id": "72.116-midnight-purple",
+    "name": "Midnight Purple",
+    "code": "72.116",
+    "set": "Game Color",
+    "hex": "#2D1E33"
+  },
+  {
+    "id": "70.975-military-green",
+    "name": "Military Green",
+    "code": "70.975",
+    "set": "Model Color",
+    "hex": "#434434"
+  },
+  {
+    "id": "70.764-military-yellow",
+    "name": "Military Yellow",
+    "code": "70.764",
+    "set": "Model Color",
+    "hex": "#937626"
+  },
+  {
+    "id": "72.453-military-yellow",
+    "name": "Military Yellow",
+    "code": "72.453",
+    "set": "Xpress Color",
+    "hex": "#805E30"
+  },
+  {
+    "id": "85.108-mink-tan",
+    "name": "Mink Tan",
+    "code": "85.108",
+    "set": "Arte Deco",
+    "hex": "#B57B69"
+  },
+  {
+    "id": "85.077-mint-julep",
+    "name": "Mint Julep",
+    "code": "85.077",
+    "set": "Arte Deco",
+    "hex": "#A6CBAA"
+  },
+  {
+    "id": "85.093-mistletoe",
+    "name": "Mistletoe",
+    "code": "85.093",
+    "set": "Arte Deco",
+    "hex": "#347645"
+  },
+  {
+    "id": "85.112-mocha",
+    "name": "Mocha",
+    "code": "85.112",
+    "set": "Arte Deco",
+    "hex": "#FB8A7C"
+  },
+  {
+    "id": "72.482-monastic-green",
+    "name": "Monastic Green",
+    "code": "72.482",
+    "set": "Xpress Color Intense",
+    "hex": "#004B37"
+  },
+  {
+    "id": "76.005-moon-yellow",
+    "name": "Moon Yellow",
+    "code": "76.005",
+    "set": "Game Air",
+    "hex": "#EEB800"
+  },
+  {
+    "id": "72.705-moon-yellow",
+    "name": "Moon Yellow",
+    "code": "72.705",
+    "set": "Game Air",
+    "hex": "#FCBC02"
+  },
+  {
+    "id": "85.006-moon-yellow",
+    "name": "Moon Yellow",
+    "code": "85.006",
+    "set": "Arte Deco",
+    "hex": "#FEE8B0"
+  },
+  {
+    "id": "72.005-moon-yellow",
+    "name": "Moon Yellow",
+    "code": "72.005",
+    "set": "Game Color",
+    "hex": "#EEB800"
+  },
+  {
+    "id": "73.827-moss-and-lichen",
+    "name": "Moss and Lichen",
+    "code": "73.827",
+    "set": "Weathering FX",
+    "hex": "#BD9C3B"
+  },
+  {
+    "id": "72.611-moss-and-lichen",
+    "name": "Moss and Lichen",
+    "code": "72.611",
+    "set": "Game Color Special FX",
+    "hex": "#DAD76C"
+  },
+  {
+    "id": "71.037-mud-brown",
+    "name": "Mud Brown",
+    "code": "71.037",
+    "set": "Model Air",
+    "hex": "#8D6448"
+  },
+  {
+    "id": "73.826-mud-and-grass",
+    "name": "Mud and Grass",
+    "code": "73.826",
+    "set": "Weathering FX",
+    "hex": "#4C4C44"
+  },
+  {
+    "id": "72.475-muddy-ground",
+    "name": "Muddy Ground",
+    "code": "72.475",
+    "set": "Xpress Color",
+    "hex": "#452E28"
+  },
+  {
+    "id": "72.449-mummy-white",
+    "name": "Mummy White",
+    "code": "72.449",
+    "set": "Xpress Color",
+    "hex": "#CFB496"
+  },
+  {
+    "id": "70.769-mustard-brown",
+    "name": "Mustard Brown",
+    "code": "70.769",
+    "set": "Model Color",
+    "hex": "#9D714A"
+  },
+  {
+    "id": "72.105-mutation-green",
+    "name": "Mutation Green",
+    "code": "72.105",
+    "set": "Game Color",
+    "hex": "#4C7650"
+  },
+  {
+    "id": "72.411-mystic-blue",
+    "name": "Mystic Blue",
+    "code": "72.411",
+    "set": "Xpress Color",
+    "hex": "#004A87"
+  },
+  {
+    "id": "71.251-nato-black",
+    "name": "NATO Black",
+    "code": "71.251",
+    "set": "Model Air",
+    "hex": "#38383A"
+  },
+  {
+    "id": "71.249-nato-brown",
+    "name": "NATO Brown",
+    "code": "71.249",
+    "set": "Model Air",
+    "hex": "#5C4E45"
+  },
+  {
+    "id": "71.093-nato-green",
+    "name": "NATO Green",
+    "code": "71.093",
+    "set": "Model Air",
+    "hex": "#525A4F"
+  },
+  {
+    "id": "70.612-nato-green",
+    "name": "NATO Green",
+    "code": "70.612",
+    "set": "Surface Primer",
+    "hex": "#4A5545"
+  },
+  {
+    "id": "85.032-naphthol-red",
+    "name": "Naphthol Red",
+    "code": "85.032",
+    "set": "Arte Deco",
+    "hex": "#C61819"
+  },
+  {
+    "id": "74.006-natural-flesh",
+    "name": "Natural Flesh",
+    "code": "74.006",
+    "set": "Nocturna Models",
+    "hex": "#C0947B"
+  },
+  {
+    "id": "70.864-natural-steel",
+    "name": "Natural Steel",
+    "code": "70.864",
+    "set": "Model Color",
+    "hex": "#535258"
+  },
+  {
+    "id": "70.834-natural-wood-grain",
+    "name": "Natural Wood Grain",
+    "code": "70.834",
+    "set": "Model Color",
+    "hex": "#EAA432"
+  },
+  {
+    "id": "85.069-navy-blue",
+    "name": "Navy Blue",
+    "code": "85.069",
+    "set": "Arte Deco",
+    "hex": "#2E214F"
+  },
+  {
+    "id": "85.137-neon-blue",
+    "name": "Neon Blue",
+    "code": "85.137",
+    "set": "Arte Deco Colores Fluoresecents",
+    "hex": "#06266D"
+  },
+  {
+    "id": "85.138-neon-green",
+    "name": "Neon Green",
+    "code": "85.138",
+    "set": "Arte Deco Colores Fluoresecents",
+    "hex": "#009331"
+  },
+  {
+    "id": "85.136-neon-magenta",
+    "name": "Neon Magenta",
+    "code": "85.136",
+    "set": "Arte Deco Colores Fluoresecents",
+    "hex": "#E60068"
+  },
+  {
+    "id": "85.135-neon-pink",
+    "name": "Neon Pink",
+    "code": "85.135",
+    "set": "Arte Deco Colores Fluoresecents",
+    "hex": "#E50058"
+  },
+  {
+    "id": "85.134-neon-red",
+    "name": "Neon Red",
+    "code": "85.134",
+    "set": "Arte Deco Colores Fluoresecents",
+    "hex": "#EB4E22"
+  },
+  {
+    "id": "85.132-neon-yellow",
+    "name": "Neon Yellow",
+    "code": "85.132",
+    "set": "Arte Deco Colores Fluoresecents",
+    "hex": "#FFF170"
+  },
+  {
+    "id": "71.051-neutral-gray",
+    "name": "Neutral Gray",
+    "code": "71.051",
+    "set": "Model Air",
+    "hex": "#70777F"
+  },
+  {
+    "id": "72.050-neutral-grey",
+    "name": "Neutral Grey",
+    "code": "72.050",
+    "set": "Game Color",
+    "hex": "#6F6D61"
+  },
+  {
+    "id": "70.992-neutral-grey",
+    "name": "Neutral Grey",
+    "code": "70.992",
+    "set": "Model Color",
+    "hex": "#61615F"
+  },
+  {
+    "id": "85.100-neutral-grey",
+    "name": "Neutral Grey",
+    "code": "85.100",
+    "set": "Arte Deco",
+    "hex": "#71706B"
+  },
+  {
+    "id": "70.770-new-wood",
+    "name": "New Wood",
+    "code": "70.770",
+    "set": "Model Color",
+    "hex": "#8A633C"
+  },
+  {
+    "id": "70.311-new-wood",
+    "name": "New Wood",
+    "code": "70.311",
+    "set": "Panzer Aces",
+    "hex": "#896545"
+  },
+  {
+    "id": "72.019-night-blue",
+    "name": "Night Blue",
+    "code": "72.019",
+    "set": "Game Color",
+    "hex": "#202430"
+  },
+  {
+    "id": "76.019-night-blue",
+    "name": "Night Blue",
+    "code": "76.019",
+    "set": "Game Air",
+    "hex": "#202430"
+  },
+  {
+    "id": "74.001-nocturna-shadow",
+    "name": "Nocturna Shadow",
+    "code": "74.001",
+    "set": "Nocturna Models",
+    "hex": "#434646"
+  },
+  {
+    "id": "76.111-nocturnal-red",
+    "name": "Nocturnal Red",
+    "code": "76.111",
+    "set": "Game Air",
+    "hex": "#551C22"
+  },
+  {
+    "id": "72.111-nocturnal-red",
+    "name": "Nocturnal Red",
+    "code": "72.111",
+    "set": "Game Color",
+    "hex": "#551C22"
+  },
+  {
+    "id": "72.404-nuclear-yellow",
+    "name": "Nuclear Yellow",
+    "code": "72.404",
+    "set": "Xpress Color",
+    "hex": "#DD9213"
+  },
+  {
+    "id": "71.316-num-41-dark-olive-drab",
+    "name": "Num. 41 Dark Olive Drab",
+    "code": "71.316",
+    "set": "Model Air",
+    "hex": "#544C3F"
+  },
+  {
+    "id": "71.273-ocean-gray",
+    "name": "Ocean Gray",
+    "code": "71.273",
+    "set": "Model Air",
+    "hex": "#6E757F"
+  },
+  {
+    "id": "71.081-ochre",
+    "name": "Ochre",
+    "code": "71.081",
+    "set": "Model Air",
+    "hex": "#77693A"
+  },
+  {
+    "id": "85.109-ochre",
+    "name": "Ochre",
+    "code": "85.109",
+    "set": "Arte Deco",
+    "hex": "#B6802A"
+  },
+  {
+    "id": "70.856-ochre-brown",
+    "name": "Ochre Brown",
+    "code": "70.856",
+    "set": "Model Color",
+    "hex": "#AA793E"
+  },
+  {
+    "id": "76.516-off-grey",
+    "name": "Off-Grey",
+    "code": "76.516",
+    "set": "Wash FX",
+    "hex": "#656563"
+  },
+  {
+    "id": "72.101-off-white",
+    "name": "Off-White",
+    "code": "72.101",
+    "set": "Game Color",
+    "hex": "#FEF3DD"
+  },
+  {
+    "id": "69.003-off-white",
+    "name": "Off-White",
+    "code": "69.003",
+    "set": "Mecha Color",
+    "hex": "#EBEBE3"
+  },
+  {
+    "id": "70.820-off-white",
+    "name": "Off-White",
+    "code": "70.820",
+    "set": "Model Color",
+    "hex": "#F5ECE7"
+  },
+  {
+    "id": "71.270-off-white",
+    "name": "Off-White",
+    "code": "71.270",
+    "set": "Model Air",
+    "hex": "#E8D8BE"
+  },
+  {
+    "id": "73.813-oil-stains",
+    "name": "Oil Stains",
+    "code": "73.813",
+    "set": "Weathering FX",
+    "hex": "#6E502E"
+  },
+  {
+    "id": "69.813-oil-stains-gloss",
+    "name": "Oil Stains (Gloss)",
+    "code": "69.813",
+    "set": "Mecha Color",
+    "hex": "#73531A"
+  },
+  {
+    "id": "76.521-oiled-earth",
+    "name": "Oiled Earth",
+    "code": "76.521",
+    "set": "Wash FX",
+    "hex": "#665C53"
+  },
+  {
+    "id": "69.521-oiled-earth-wash",
+    "name": "Oiled Earth Wash",
+    "code": "69.521",
+    "set": "Mecha Color",
+    "hex": "#6E5C52"
+  },
+  {
+    "id": "70.865-oily-steel",
+    "name": "Oily Steel",
+    "code": "70.865",
+    "set": "Model Color",
+    "hex": "#484246"
+  },
+  {
+    "id": "70.792-old-gold",
+    "name": "Old Gold",
+    "code": "70.792",
+    "set": "Liquid Gold",
+    "hex": "#F2ECCA"
+  },
+  {
+    "id": "69.060-old-gold",
+    "name": "Old Gold",
+    "code": "69.060",
+    "set": "Mecha Color",
+    "hex": "#9C8448"
+  },
+  {
+    "id": "70.878-old-gold",
+    "name": "Old Gold",
+    "code": "70.878",
+    "set": "Model Color",
+    "hex": "#55371D"
+  },
+  {
+    "id": "70.944-old-rose",
+    "name": "Old Rose",
+    "code": "70.944",
+    "set": "Model Color",
+    "hex": "#BC6D70"
+  },
+  {
+    "id": "81.124-old-silver",
+    "name": "Old Silver",
+    "code": "81.124",
+    "set": "Arte Deco",
+    "hex": "#CCBDBA"
+  },
+  {
+    "id": "70.310-old-wood",
+    "name": "Old Wood",
+    "code": "70.310",
+    "set": "Panzer Aces",
+    "hex": "#AD9C70"
+  },
+  {
+    "id": "70.889-olive-brown",
+    "name": "Olive Brown",
+    "code": "70.889",
+    "set": "Model Color",
+    "hex": "#3F3126"
+  },
+  {
+    "id": "76.519-olive-green",
+    "name": "Olive Green",
+    "code": "76.519",
+    "set": "Wash FX",
+    "hex": "#455845"
+  },
+  {
+    "id": "85.097-olive-green",
+    "name": "Olive Green",
+    "code": "85.097",
+    "set": "Arte Deco",
+    "hex": "#104B25"
+  },
+  {
+    "id": "69.028-olive-green",
+    "name": "Olive Green",
+    "code": "69.028",
+    "set": "Mecha Color",
+    "hex": "#5F6E45"
+  },
+  {
+    "id": "70.967-olive-green",
+    "name": "Olive Green",
+    "code": "70.967",
+    "set": "Model Color",
+    "hex": "#526138"
+  },
+  {
+    "id": "71.007-olive-green",
+    "name": "Olive Green",
+    "code": "71.007",
+    "set": "Model Air",
+    "hex": "#343A38"
+  },
+  {
+    "id": "71.265-olive-green-rlm80",
+    "name": "Olive Green RLM80",
+    "code": "71.265",
+    "set": "Model Air",
+    "hex": "#4C4F3A"
+  },
+  {
+    "id": "70.888-olive-grey",
+    "name": "Olive Grey",
+    "code": "70.888",
+    "set": "Model Color",
+    "hex": "#40422D"
+  },
+  {
+    "id": "71.096-olive-grey",
+    "name": "Olive Grey",
+    "code": "71.096",
+    "set": "Model Air",
+    "hex": "#6C635E"
+  },
+  {
+    "id": "72.413-omega-blue",
+    "name": "Omega Blue",
+    "code": "72.413",
+    "set": "Xpress Color",
+    "hex": "#3A365B"
+  },
+  {
+    "id": "69.007-orange",
+    "name": "Orange",
+    "code": "69.007",
+    "set": "Mecha Color",
+    "hex": "#E9602C"
+  },
+  {
+    "id": "62.004-orange",
+    "name": "Orange",
+    "code": "62.004",
+    "set": "Premium Airbrush Color",
+    "hex": "#EA5B17"
+  },
+  {
+    "id": "71.083-orange",
+    "name": "Orange",
+    "code": "71.083",
+    "set": "Model Air",
+    "hex": "#E14C24"
+  },
+  {
+    "id": "70.981-orange-brown",
+    "name": "Orange Brown",
+    "code": "70.981",
+    "set": "Model Color",
+    "hex": "#AD623A"
+  },
+  {
+    "id": "72.708-orange-fire",
+    "name": "Orange Fire",
+    "code": "72.708",
+    "set": "Game Air",
+    "hex": "#EA632B"
+  },
+  {
+    "id": "76.008-orange-fire",
+    "name": "Orange Fire",
+    "code": "76.008",
+    "set": "Game Air",
+    "hex": "#EB5B1E"
+  },
+  {
+    "id": "72.008-orange-fire",
+    "name": "Orange Fire",
+    "code": "72.008",
+    "set": "Game Color",
+    "hex": "#EB5B1E"
+  },
+  {
+    "id": "69.055-orange-fluorescent",
+    "name": "Orange Fluorescent",
+    "code": "69.055",
+    "set": "Mecha Color",
+    "hex": "#E86016"
+  },
+  {
+    "id": "70.733-orange-fluorescent",
+    "name": "Orange Fluorescent",
+    "code": "70.733",
+    "set": "Model Color",
+    "hex": "#E86016"
+  },
+  {
+    "id": "70.824-orange-ochre",
+    "name": "Orange Ochre",
+    "code": "70.824",
+    "set": "Model Color",
+    "hex": "#AC8035"
+  },
+  {
+    "id": "85.133-orange-pearl",
+    "name": "Orange Pearl",
+    "code": "85.133",
+    "set": "Arte Deco Colores Fluoresecents",
+    "hex": "#F58841"
+  },
+  {
+    "id": "62.002-orange-pink",
+    "name": "Orange Pink",
+    "code": "62.002",
+    "set": "Premium Airbrush Color",
+    "hex": "#FBCB9D"
+  },
+  {
+    "id": "70.910-orange-red",
+    "name": "Orange Red",
+    "code": "70.910",
+    "set": "Model Color",
+    "hex": "#DC4319"
+  },
+  {
+    "id": "71.130-orange-rust",
+    "name": "Orange Rust",
+    "code": "71.130",
+    "set": "Model Air",
+    "hex": "#C76832"
+  },
+  {
+    "id": "72.415-orc-skin",
+    "name": "Orc Skin",
+    "code": "72.415",
+    "set": "Xpress Color",
+    "hex": "#5E752D"
+  },
+  {
+    "id": "85.052-orchid",
+    "name": "Orchid",
+    "code": "85.052",
+    "set": "Arte Deco",
+    "hex": "#DD97CF"
+  },
+  {
+    "id": "74.032-orchid-light",
+    "name": "Orchid Light",
+    "code": "74.032",
+    "set": "Nocturna Models",
+    "hex": "#9E9CCD"
+  },
+  {
+    "id": "70.807-oxford-blue",
+    "name": "Oxford Blue",
+    "code": "70.807",
+    "set": "Model Color",
+    "hex": "#3E3A53"
+  },
+  {
+    "id": "70.906-pale-blue",
+    "name": "Pale Blue",
+    "code": "70.906",
+    "set": "Model Color",
+    "hex": "#90A3A9"
+  },
+  {
+    "id": "71.008-pale-blue",
+    "name": "Pale Blue",
+    "code": "71.008",
+    "set": "Model Air",
+    "hex": "#759496"
+  },
+  {
+    "id": "71.046-pale-blue-grey",
+    "name": "Pale Blue Grey",
+    "code": "71.046",
+    "set": "Model Air",
+    "hex": "#969DA5"
+  },
+  {
+    "id": "70.825-pale-brown",
+    "name": "Pale Brown",
+    "code": "70.825",
+    "set": "Model Color",
+    "hex": "#9F8375"
+  },
+  {
+    "id": "77.704-pale-burnt-metal",
+    "name": "Pale Burnt Metal",
+    "code": "77.704",
+    "set": "Metal Color",
+    "hex": "#A9A9A9"
+  },
+  {
+    "id": "74.015-pale-flesh",
+    "name": "Pale Flesh",
+    "code": "74.015",
+    "set": "Nocturna Models",
+    "hex": "#B0A39A"
+  },
+  {
+    "id": "76.003-pale-flesh",
+    "name": "Pale Flesh",
+    "code": "76.003",
+    "set": "Game Air",
+    "hex": "#CBA37F"
+  },
+  {
+    "id": "28.024-pale-flesh",
+    "name": "Pale Flesh",
+    "code": "28.024",
+    "set": "Hobby Paint",
+    "hex": "#ECBDA9"
+  },
+  {
+    "id": "72.703-pale-flesh",
+    "name": "Pale Flesh",
+    "code": "72.703",
+    "set": "Game Air",
+    "hex": "#FADACF"
+  },
+  {
+    "id": "72.003-pale-flesh",
+    "name": "Pale Flesh",
+    "code": "72.003",
+    "set": "Game Color",
+    "hex": "#CBA37F"
+  },
+  {
+    "id": "71.095-pale-green",
+    "name": "Pale Green",
+    "code": "71.095",
+    "set": "Model Air",
+    "hex": "#75845B"
+  },
+  {
+    "id": "70.907-pale-grey-blue",
+    "name": "Pale Grey Blue",
+    "code": "70.907",
+    "set": "Model Color",
+    "hex": "#A7B6B3"
+  },
+  {
+    "id": "73.202-pale-grey-wash",
+    "name": "Pale Grey Wash",
+    "code": "73.202",
+    "set": "Game Color Wash",
+    "hex": "#CACAD2"
+  },
+  {
+    "id": "85.053-pale-lavender",
+    "name": "Pale Lavender",
+    "code": "85.053",
+    "set": "Arte Deco",
+    "hex": "#CA64B6"
+  },
+  {
+    "id": "70.837-pale-sand",
+    "name": "Pale Sand",
+    "code": "70.837",
+    "set": "Model Color",
+    "hex": "#E3C28F"
+  },
+  {
+    "id": "72.097-pale-yellow",
+    "name": "Pale Yellow",
+    "code": "72.097",
+    "set": "Game Color",
+    "hex": "#EBCE7E"
+  },
+  {
+    "id": "71.056-panzer-dark-gray",
+    "name": "Panzer Dark Gray",
+    "code": "71.056",
+    "set": "Model Air",
+    "hex": "#434544"
+  },
+  {
+    "id": "28.002-panzer-grey",
+    "name": "Panzer Grey",
+    "code": "28.002",
+    "set": "Hobby Paint",
+    "hex": "#4B4C50"
+  },
+  {
+    "id": "28.001-panzer-yellow",
+    "name": "Panzer Yellow",
+    "code": "28.001",
+    "set": "Hobby Paint",
+    "hex": "#94854E"
+  },
+  {
+    "id": "76.042-parasite-brown",
+    "name": "Parasite Brown",
+    "code": "76.042",
+    "set": "Game Air",
+    "hex": "#A35C1E"
+  },
+  {
+    "id": "72.042-parasite-brown",
+    "name": "Parasite Brown",
+    "code": "72.042",
+    "set": "Game Color",
+    "hex": "#A35C1E"
+  },
+  {
+    "id": "70.610-parched-grass-late",
+    "name": "Parched Grass (Late)",
+    "code": "70.610",
+    "set": "Surface Primer",
+    "hex": "#716859"
+  },
+  {
+    "id": "70.969-park-green-flat",
+    "name": "Park Green Flat",
+    "code": "70.969",
+    "set": "Model Color",
+    "hex": "#21624A"
+  },
+  {
+    "id": "70.901-pastel-blue",
+    "name": "Pastel Blue",
+    "code": "70.901",
+    "set": "Model Color",
+    "hex": "#607A93"
+  },
+  {
+    "id": "70.885-pastel-green",
+    "name": "Pastel Green",
+    "code": "70.885",
+    "set": "Model Color",
+    "hex": "#939870"
+  },
+  {
+    "id": "85.019-peaches",
+    "name": "Peaches",
+    "code": "85.019",
+    "set": "Arte Deco",
+    "hex": "#FCA6B4"
+  },
+  {
+    "id": "84.158-pearl-medium",
+    "name": "Pearl Medium",
+    "code": "84.158",
+    "set": "Arte Deco",
+    "hex": "#C2C2C2"
+  },
+  {
+    "id": "70.309-periscopes",
+    "name": "Periscopes",
+    "code": "70.309",
+    "set": "Panzer Aces",
+    "hex": "#3B4D5B"
+  },
+  {
+    "id": "85.173-permanent-rose",
+    "name": "Permanent Rose",
+    "code": "85.173",
+    "set": "Arte Deco",
+    "hex": "#940D3B"
+  },
+  {
+    "id": "73.817-petrol-spills",
+    "name": "Petrol Spills",
+    "code": "73.817",
+    "set": "Weathering FX",
+    "hex": "#211F22"
+  },
+  {
+    "id": "69.817-petrol-spills-gloss",
+    "name": "Petrol Spills (Gloss)",
+    "code": "69.817",
+    "set": "Mecha Color",
+    "hex": "#141C1F"
+  },
+  {
+    "id": "69.040-phantom-grey",
+    "name": "Phantom Grey",
+    "code": "69.040",
+    "set": "Mecha Color",
+    "hex": "#535762"
+  },
+  {
+    "id": "72.478-phoenix-orange",
+    "name": "Phoenix Orange",
+    "code": "72.478",
+    "set": "Xpress Color Intense",
+    "hex": "#B1401E"
+  },
+  {
+    "id": "62.040-phosphorescent",
+    "name": "Phosphorescent",
+    "code": "62.040",
+    "set": "Premium Airbrush Color",
+    "hex": "#E9EAE2"
+  },
+  {
+    "id": "85.005-pineapple",
+    "name": "Pineapple",
+    "code": "85.005",
+    "set": "Arte Deco",
+    "hex": "#DEEF90"
+  },
+  {
+    "id": "70.958-pink",
+    "name": "Pink",
+    "code": "70.958",
+    "set": "Model Color",
+    "hex": "#B04F7C"
+  },
+  {
+    "id": "69.006-pink",
+    "name": "Pink",
+    "code": "69.006",
+    "set": "Mecha Color",
+    "hex": "#D08474"
+  },
+  {
+    "id": "72.039-plague-brown",
+    "name": "Plague Brown",
+    "code": "72.039",
+    "set": "Game Color",
+    "hex": "#AB7131"
+  },
+  {
+    "id": "72.419-plague-green",
+    "name": "Plague Green",
+    "code": "72.419",
+    "set": "Xpress Color",
+    "hex": "#4C4D2E"
+  },
+  {
+    "id": "85.085-plantation-pine",
+    "name": "Plantation Pine",
+    "code": "85.085",
+    "set": "Arte Deco",
+    "hex": "#206D2F"
+  },
+  {
+    "id": "72.406-plasma-red",
+    "name": "Plasma Red",
+    "code": "72.406",
+    "set": "Xpress Color",
+    "hex": "#A52822"
+  },
+  {
+    "id": "70.628-plate-mail-metal",
+    "name": "Plate Mail Metal",
+    "code": "70.628",
+    "set": "Surface Primer",
+    "hex": "#98999E"
+  },
+  {
+    "id": "72.055-polished-gold",
+    "name": "Polished Gold",
+    "code": "72.055",
+    "set": "Game Color",
+    "hex": "#F8ECC2"
+  },
+  {
+    "id": "72.755-polished-gold",
+    "name": "Polished Gold",
+    "code": "72.755",
+    "set": "Game Air",
+    "hex": "#EBAE00"
+  },
+  {
+    "id": "70.965-prussian-blue",
+    "name": "Prussian Blue",
+    "code": "70.965",
+    "set": "Model Color",
+    "hex": "#3C405D"
+  },
+  {
+    "id": "85.027-pumpkin",
+    "name": "Pumpkin",
+    "code": "85.027",
+    "set": "Arte Deco",
+    "hex": "#F64128"
+  },
+  {
+    "id": "69.042-pure-black",
+    "name": "Pure Black",
+    "code": "69.042",
+    "set": "Mecha Color",
+    "hex": "#010101"
+  },
+  {
+    "id": "70.624-pure-red",
+    "name": "Pure Red",
+    "code": "70.624",
+    "set": "Surface Primer",
+    "hex": "#C3322D"
+  },
+  {
+    "id": "69.001-pure-white",
+    "name": "Pure White",
+    "code": "69.001",
+    "set": "Mecha Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "85.045-purple",
+    "name": "Purple",
+    "code": "85.045",
+    "set": "Arte Deco",
+    "hex": "#482359"
+  },
+  {
+    "id": "70.959-purple",
+    "name": "Purple",
+    "code": "70.959",
+    "set": "Model Color",
+    "hex": "#533152"
+  },
+  {
+    "id": "69.012-purple",
+    "name": "Purple",
+    "code": "69.012",
+    "set": "Mecha Color",
+    "hex": "#AD8DBC"
+  },
+  {
+    "id": "74.026-purple-hex",
+    "name": "Purple Hex",
+    "code": "74.026",
+    "set": "Nocturna Models",
+    "hex": "#6A297F"
+  },
+  {
+    "id": "74.011-purple-shadow",
+    "name": "Purple Shadow",
+    "code": "74.011",
+    "set": "Nocturna Models",
+    "hex": "#584852"
+  },
+  {
+    "id": "73.819-rain-marks",
+    "name": "Rain Marks",
+    "code": "73.819",
+    "set": "Weathering FX",
+    "hex": "#6D635A"
+  },
+  {
+    "id": "85.036-raspberry",
+    "name": "Raspberry",
+    "code": "85.036",
+    "set": "Arte Deco",
+    "hex": "#943856"
+  },
+  {
+    "id": "62.017-raw-sienna",
+    "name": "Raw Sienna",
+    "code": "62.017",
+    "set": "Premium Airbrush Color",
+    "hex": "#824B44"
+  },
+  {
+    "id": "85.113-raw-sienna",
+    "name": "Raw Sienna",
+    "code": "85.113",
+    "set": "Arte Deco",
+    "hex": "#AC7757"
+  },
+  {
+    "id": "71.269-red",
+    "name": "Red",
+    "code": "71.269",
+    "set": "Model Air",
+    "hex": "#9F3D34"
+  },
+  {
+    "id": "72.086-red",
+    "name": "Red",
+    "code": "72.086",
+    "set": "Game Color",
+    "hex": "#CD1316"
+  },
+  {
+    "id": "71.102-red",
+    "name": "Red",
+    "code": "71.102",
+    "set": "Model Air",
+    "hex": "#B32A34"
+  },
+  {
+    "id": "70.926-red",
+    "name": "Red",
+    "code": "70.926",
+    "set": "Model Color",
+    "hex": "#792825"
+  },
+  {
+    "id": "69.008-red",
+    "name": "Red",
+    "code": "69.008",
+    "set": "Mecha Color",
+    "hex": "#BC4040"
+  },
+  {
+    "id": "70.794-red-gold",
+    "name": "Red Gold",
+    "code": "70.794",
+    "set": "Liquid Gold",
+    "hex": "#F3E2C8"
+  },
+  {
+    "id": "85.040-red-iron-oxide",
+    "name": "Red Iron Oxide",
+    "code": "85.040",
+    "set": "Arte Deco",
+    "hex": "#742916"
+  },
+  {
+    "id": "70.818-red-leather",
+    "name": "Red Leather",
+    "code": "70.818",
+    "set": "Model Color",
+    "hex": "#95543E"
+  },
+  {
+    "id": "71.003-red-rlm23",
+    "name": "Red RLM23",
+    "code": "71.003",
+    "set": "Model Air",
+    "hex": "#C71F1C"
+  },
+  {
+    "id": "72.772-red-terracotta",
+    "name": "Red Terracotta",
+    "code": "72.772",
+    "set": "Game Air",
+    "hex": "#79423D"
+  },
+  {
+    "id": "73.206-red-wash",
+    "name": "Red Wash",
+    "code": "73.206",
+    "set": "Game Color Wash",
+    "hex": "#D55E86"
+  },
+  {
+    "id": "74.003-reddish-flesh",
+    "name": "Reddish Flesh",
+    "code": "74.003",
+    "set": "Nocturna Models",
+    "hex": "#9E6569"
+  },
+  {
+    "id": "62.066-reducer",
+    "name": "Reducer",
+    "code": "62.066",
+    "set": "Premium Airbrush Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "70.890-refractive-green",
+    "name": "Refractive Green",
+    "code": "70.890",
+    "set": "Model Color",
+    "hex": "#474A35"
+  },
+  {
+    "id": "62.065-retarder",
+    "name": "Retarder",
+    "code": "62.065",
+    "set": "Premium Airbrush Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "70.793-rich-gold",
+    "name": "Rich Gold",
+    "code": "70.793",
+    "set": "Liquid Gold",
+    "hex": "#E9DEC2"
+  },
+  {
+    "id": "85.044-rookwood-red",
+    "name": "Rookwood Red",
+    "code": "85.044",
+    "set": "Arte Deco",
+    "hex": "#663330"
+  },
+  {
+    "id": "85.035-rose-red",
+    "name": "Rose Red",
+    "code": "85.035",
+    "set": "Arte Deco",
+    "hex": "#E82B6D"
+  },
+  {
+    "id": "72.100-rosy-flesh",
+    "name": "Rosy Flesh",
+    "code": "72.100",
+    "set": "Game Color",
+    "hex": "#E58A6B"
+  },
+  {
+    "id": "76.100-rosy-flesh",
+    "name": "Rosy Flesh",
+    "code": "76.100",
+    "set": "Game Air",
+    "hex": "#E58A6B"
+  },
+  {
+    "id": "72.452-rotten-flesh",
+    "name": "Rotten Flesh",
+    "code": "72.452",
+    "set": "Xpress Color",
+    "hex": "#89763B"
+  },
+  {
+    "id": "72.130-rotten-white",
+    "name": "Rotten White",
+    "code": "72.130",
+    "set": "Game Color",
+    "hex": "#F0EEEF"
+  },
+  {
+    "id": "70.809-royal-blue",
+    "name": "Royal Blue",
+    "code": "70.809",
+    "set": "Model Color",
+    "hex": "#1A427D"
+  },
+  {
+    "id": "70.810-royal-purple",
+    "name": "Royal Purple",
+    "code": "70.810",
+    "set": "Model Color",
+    "hex": "#4D2740"
+  },
+  {
+    "id": "76.016-royal-purple",
+    "name": "Royal Purple",
+    "code": "76.016",
+    "set": "Game Air",
+    "hex": "#302337"
+  },
+  {
+    "id": "72.016-royal-purple",
+    "name": "Royal Purple",
+    "code": "72.016",
+    "set": "Game Color",
+    "hex": "#302337"
+  },
+  {
+    "id": "71.333-russian-af-blue",
+    "name": "Russian AF Blue",
+    "code": "71.333",
+    "set": "Model Air",
+    "hex": "#008EB4"
+  },
+  {
+    "id": "71.347-russian-af-dark-green",
+    "name": "Russian AF Dark Green",
+    "code": "71.347",
+    "set": "Model Air",
+    "hex": "#4B4835"
+  },
+  {
+    "id": "71.338-russian-af-grey-blue",
+    "name": "Russian AF Grey Blue",
+    "code": "71.338",
+    "set": "Model Air",
+    "hex": "#A3ACAB"
+  },
+  {
+    "id": "71.339-russian-af-grey-n-3",
+    "name": "Russian AF Grey N.3",
+    "code": "71.339",
+    "set": "Model Air",
+    "hex": "#858E8D"
+  },
+  {
+    "id": "71.346-russian-af-grey-n-4",
+    "name": "Russian AF Grey N.4",
+    "code": "71.346",
+    "set": "Model Air",
+    "hex": "#AAA794"
+  },
+  {
+    "id": "71.343-russian-af-grey-n-7",
+    "name": "Russian AF Grey N.7",
+    "code": "71.343",
+    "set": "Model Air",
+    "hex": "#739CB0"
+  },
+  {
+    "id": "71.345-russian-af-grey-n-8",
+    "name": "Russian AF Grey N.8",
+    "code": "71.345",
+    "set": "Model Air",
+    "hex": "#A1B5BE"
+  },
+  {
+    "id": "71.344-russian-af-grey-protective-coat",
+    "name": "Russian AF Grey Protective Coat",
+    "code": "71.344",
+    "set": "Model Air",
+    "hex": "#B3CBD7"
+  },
+  {
+    "id": "71.342-russian-af-light-blue",
+    "name": "Russian AF Light Blue",
+    "code": "71.342",
+    "set": "Model Air",
+    "hex": "#AAC9C4"
+  },
+  {
+    "id": "70.609-russian-green-4bo",
+    "name": "Russian Green 4BO",
+    "code": "70.609",
+    "set": "Surface Primer",
+    "hex": "#4B4C44"
+  },
+  {
+    "id": "71.017-russian-green-4bo",
+    "name": "Russian Green 4BO",
+    "code": "71.017",
+    "set": "Model Air",
+    "hex": "#52543F"
+  },
+  {
+    "id": "28.003-russian-green-4bo",
+    "name": "Russian Green 4BO",
+    "code": "28.003",
+    "set": "Hobby Paint",
+    "hex": "#575546"
+  },
+  {
+    "id": "73.802-russian-splash-mud",
+    "name": "Russian Splash Mud",
+    "code": "73.802",
+    "set": "Weathering FX",
+    "hex": "#3D3334"
+  },
+  {
+    "id": "70.329-russian-tank-crew-highlights-i",
+    "name": "Russian Tank Crew Highlights I",
+    "code": "70.329",
+    "set": "Panzer Aces",
+    "hex": "#9BABAA"
+  },
+  {
+    "id": "70.330-russian-tank-crew-highlights-ii",
+    "name": "Russian Tank Crew Highlights II",
+    "code": "70.330",
+    "set": "Panzer Aces",
+    "hex": "#717538"
+  },
+  {
+    "id": "70.325-russian-tank-crew-i",
+    "name": "Russian Tank Crew I",
+    "code": "70.325",
+    "set": "Panzer Aces",
+    "hex": "#4C5D67"
+  },
+  {
+    "id": "70.326-russian-tank-crew-ii",
+    "name": "Russian Tank Crew II",
+    "code": "70.326",
+    "set": "Panzer Aces",
+    "hex": "#6A624F"
+  },
+  {
+    "id": "73.808-russian-thick-mud",
+    "name": "Russian Thick Mud",
+    "code": "73.808",
+    "set": "Weathering FX",
+    "hex": "#343434"
+  },
+  {
+    "id": "28.007-russian-uniform",
+    "name": "Russian Uniform",
+    "code": "28.007",
+    "set": "Hobby Paint",
+    "hex": "#6B6452"
+  },
+  {
+    "id": "70.924-russian-uniform-wwii",
+    "name": "Russian Uniform WWII",
+    "code": "70.924",
+    "set": "Model Color",
+    "hex": "#585336"
+  },
+  {
+    "id": "72.131-rust",
+    "name": "Rust",
+    "code": "72.131",
+    "set": "Game Color",
+    "hex": "#E45314"
+  },
+  {
+    "id": "72.609-rust",
+    "name": "Rust",
+    "code": "72.609",
+    "set": "Game Color Special FX",
+    "hex": "#64504B"
+  },
+  {
+    "id": "71.080-rust",
+    "name": "Rust",
+    "code": "71.080",
+    "set": "Model Air",
+    "hex": "#75544B"
+  },
+  {
+    "id": "76.506-rust",
+    "name": "Rust",
+    "code": "76.506",
+    "set": "Wash FX",
+    "hex": "#D07D5B"
+  },
+  {
+    "id": "71.069-rust-metallic",
+    "name": "Rust (Metallic)",
+    "code": "71.069",
+    "set": "Model Air",
+    "hex": "#755445"
+  },
+  {
+    "id": "73.821-rust-texture",
+    "name": "Rust Texture",
+    "code": "73.821",
+    "set": "Weathering FX",
+    "hex": "#463C3A"
+  },
+  {
+    "id": "69.821-rust-texture-matt",
+    "name": "Rust Texture (Matt)",
+    "code": "69.821",
+    "set": "Mecha Color",
+    "hex": "#69322B"
+  },
+  {
+    "id": "85.114-sable-brown",
+    "name": "Sable Brown",
+    "code": "85.114",
+    "set": "Arte Deco",
+    "hex": "#915E48"
+  },
+  {
+    "id": "70.940-saddle-brown",
+    "name": "Saddle Brown",
+    "code": "70.940",
+    "set": "Model Color",
+    "hex": "#8C645C"
+  },
+  {
+    "id": "85.062-salem-blue",
+    "name": "Salem Blue",
+    "code": "85.062",
+    "set": "Arte Deco",
+    "hex": "#5A7E9F"
+  },
+  {
+    "id": "70.835-salmon-rose",
+    "name": "Salmon Rose",
+    "code": "70.835",
+    "set": "Model Color",
+    "hex": "#E28F7F"
+  },
+  {
+    "id": "74.020-sanctuary-red",
+    "name": "Sanctuary Red",
+    "code": "74.020",
+    "set": "Nocturna Models",
+    "hex": "#981937"
+  },
+  {
+    "id": "71.112-sand",
+    "name": "Sand",
+    "code": "71.112",
+    "set": "Model Air",
+    "hex": "#9E887A"
+  },
+  {
+    "id": "70.644-sand",
+    "name": "Sand",
+    "code": "70.644",
+    "set": "Mecha Color",
+    "hex": "#DAC495"
+  },
+  {
+    "id": "71.244-sand-beige",
+    "name": "Sand Beige",
+    "code": "71.244",
+    "set": "Model Air",
+    "hex": "#B5A48A"
+  },
+  {
+    "id": "71.034-sand-brown",
+    "name": "Sand Brown",
+    "code": "71.034",
+    "set": "Model Air",
+    "hex": "#946B4F"
+  },
+  {
+    "id": "71.028-sand-yellow",
+    "name": "Sand Yellow",
+    "code": "71.028",
+    "set": "Model Air",
+    "hex": "#A48D6E"
+  },
+  {
+    "id": "69.033-sand-yellow",
+    "name": "Sand Yellow",
+    "code": "69.033",
+    "set": "Mecha Color",
+    "hex": "#E4B86F"
+  },
+  {
+    "id": "70.916-sand-yellow",
+    "name": "Sand Yellow",
+    "code": "70.916",
+    "set": "Model Color",
+    "hex": "#EABF56"
+  },
+  {
+    "id": "71.278-sand-yellow-rlm79",
+    "name": "Sand Yellow RLM79",
+    "code": "71.278",
+    "set": "Model Air",
+    "hex": "#97744E"
+  },
+  {
+    "id": "85.059-sapphire-blue",
+    "name": "Sapphire Blue",
+    "code": "85.059",
+    "set": "Arte Deco",
+    "hex": "#244997"
+  },
+  {
+    "id": "62.063-satin-varnish",
+    "name": "Satin Varnish",
+    "code": "62.063",
+    "set": "Premium Airbrush Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "84.169-satin-varnish",
+    "name": "Satin Varnish",
+    "code": "84.169",
+    "set": "Arte Deco",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "70.817-scarlet",
+    "name": "Scarlet",
+    "code": "70.817",
+    "set": "Model Color",
+    "hex": "#C23D2E"
+  },
+  {
+    "id": "72.106-scarlet-blood",
+    "name": "Scarlet Blood",
+    "code": "72.106",
+    "set": "Game Color",
+    "hex": "#C22222"
+  },
+  {
+    "id": "72.012-scarlet-red",
+    "name": "Scarlet Red",
+    "code": "72.012",
+    "set": "Game Color",
+    "hex": "#761E1D"
+  },
+  {
+    "id": "76.012-scarlet-red",
+    "name": "Scarlet Red",
+    "code": "76.012",
+    "set": "Game Air",
+    "hex": "#761E1D"
+  },
+  {
+    "id": "72.712-scarlet-red",
+    "name": "Scarlet Red",
+    "code": "72.712",
+    "set": "Game Air",
+    "hex": "#9C122C"
+  },
+  {
+    "id": "28.016-scarlet-red",
+    "name": "Scarlet Red",
+    "code": "28.016",
+    "set": "Hobby Paint",
+    "hex": "#AA3935"
+  },
+  {
+    "id": "72.032-scorpy-green",
+    "name": "Scorpy Green",
+    "code": "72.032",
+    "set": "Game Color",
+    "hex": "#4F8436"
+  },
+  {
+    "id": "72.732-scorpy-green",
+    "name": "Scorpy Green",
+    "code": "72.732",
+    "set": "Game Air",
+    "hex": "#80AF49"
+  },
+  {
+    "id": "76.032-scorpy-green",
+    "name": "Scorpy Green",
+    "code": "76.032",
+    "set": "Game Air",
+    "hex": "#4F8436"
+  },
+  {
+    "id": "72.038-scrofulous-brown",
+    "name": "Scrofulous Brown",
+    "code": "72.038",
+    "set": "Game Color",
+    "hex": "#A7691C"
+  },
+  {
+    "id": "76.027-scurvy-green",
+    "name": "Scurvy Green",
+    "code": "76.027",
+    "set": "Game Air",
+    "hex": "#1F4D43"
+  },
+  {
+    "id": "72.027-scurvy-green",
+    "name": "Scurvy Green",
+    "code": "72.027",
+    "set": "Game Color",
+    "hex": "#1F4D43"
+  },
+  {
+    "id": "85.076-sea-aqua",
+    "name": "Sea Aqua",
+    "code": "85.076",
+    "set": "Arte Deco",
+    "hex": "#85CAC7"
+  },
+  {
+    "id": "71.049-sea-grey",
+    "name": "Sea Grey",
+    "code": "71.049",
+    "set": "Model Air",
+    "hex": "#63686C"
+  },
+  {
+    "id": "71.314-seaplane-gray",
+    "name": "Seaplane Gray",
+    "code": "71.314",
+    "set": "Model Air",
+    "hex": "#555756"
+  },
+  {
+    "id": "77.716-semi-matt-aluminium",
+    "name": "Semi Matt Aluminium",
+    "code": "77.716",
+    "set": "Metal Color",
+    "hex": "#C0C1C3"
+  },
+  {
+    "id": "62.018-sepia",
+    "name": "Sepia",
+    "code": "62.018",
+    "set": "Premium Airbrush Color",
+    "hex": "#503428"
+  },
+  {
+    "id": "72.091-sepia",
+    "name": "Sepia",
+    "code": "72.091",
+    "set": "Game Color",
+    "hex": "#563D27"
+  },
+  {
+    "id": "73.200-sepia-wash",
+    "name": "Sepia Wash",
+    "code": "73.200",
+    "set": "Game Color Wash",
+    "hex": "#8B622C"
+  },
+  {
+    "id": "73.300-sepia-wash",
+    "name": "Sepia Wash",
+    "code": "73.300",
+    "set": "Game Color Wash",
+    "hex": "#744300"
+  },
+  {
+    "id": "72.479-seraph-red",
+    "name": "Seraph Red",
+    "code": "72.479",
+    "set": "Xpress Color Intense",
+    "hex": "#6B1411"
+  },
+  {
+    "id": "72.029-sick-green",
+    "name": "Sick Green",
+    "code": "72.029",
+    "set": "Game Color",
+    "hex": "#406037"
+  },
+  {
+    "id": "72.729-sick-green",
+    "name": "Sick Green",
+    "code": "72.729",
+    "set": "Game Air",
+    "hex": "#246B49"
+  },
+  {
+    "id": "28.028-sick-green",
+    "name": "Sick Green",
+    "code": "28.028",
+    "set": "Hobby Paint",
+    "hex": "#4E7055"
+  },
+  {
+    "id": "71.091-signal-blue",
+    "name": "Signal Blue",
+    "code": "71.091",
+    "set": "Model Air",
+    "hex": "#383641"
+  },
+  {
+    "id": "71.070-signal-red-metallic",
+    "name": "Signal Red (Metallic)",
+    "code": "71.070",
+    "set": "Model Air",
+    "hex": "#CB5970"
+  },
+  {
+    "id": "81.121-silver",
+    "name": "Silver",
+    "code": "81.121",
+    "set": "Arte Deco",
+    "hex": "#C8CAC9"
+  },
+  {
+    "id": "72.052-silver",
+    "name": "Silver",
+    "code": "72.052",
+    "set": "Game Color",
+    "hex": "#EBEDEC"
+  },
+  {
+    "id": "77.724-silver",
+    "name": "Silver",
+    "code": "77.724",
+    "set": "Metal Color",
+    "hex": "#A0A0A0"
+  },
+  {
+    "id": "70.997-silver",
+    "name": "Silver",
+    "code": "70.997",
+    "set": "Model Color",
+    "hex": "#939290"
+  },
+  {
+    "id": "28.021-silver",
+    "name": "Silver",
+    "code": "28.021",
+    "set": "Hobby Paint",
+    "hex": "#A6AAB3"
+  },
+  {
+    "id": "70.790-silver",
+    "name": "Silver",
+    "code": "70.790",
+    "set": "Liquid Gold",
+    "hex": "#F5F6F8"
+  },
+  {
+    "id": "72.752-silver",
+    "name": "Silver",
+    "code": "72.752",
+    "set": "Game Air",
+    "hex": "#A7ACB0"
+  },
+  {
+    "id": "62.048-silver",
+    "name": "Silver",
+    "code": "62.048",
+    "set": "Premium Airbrush Color",
+    "hex": "#ECECEE"
+  },
+  {
+    "id": "70.883-silver-grey",
+    "name": "Silver Grey",
+    "code": "70.883",
+    "set": "Model Color",
+    "hex": "#D8CDC9"
+  },
+  {
+    "id": "71.063-silver-rlm01-metallic",
+    "name": "Silver RLM01 (Metallic)",
+    "code": "71.063",
+    "set": "Model Air",
+    "hex": "#ADADB9"
+  },
+  {
+    "id": "70.627-skeleton-bone",
+    "name": "Skeleton Bone",
+    "code": "70.627",
+    "set": "Surface Primer",
+    "hex": "#BAA789"
+  },
+  {
+    "id": "72.093-skin",
+    "name": "Skin",
+    "code": "72.093",
+    "set": "Game Color",
+    "hex": "#5C2D27"
+  },
+  {
+    "id": "71.076-skin-tone",
+    "name": "Skin Tone",
+    "code": "71.076",
+    "set": "Model Air",
+    "hex": "#F8C492"
+  },
+  {
+    "id": "72.099-skin-tone",
+    "name": "Skin Tone",
+    "code": "72.099",
+    "set": "Game Color",
+    "hex": "#E5AB85"
+  },
+  {
+    "id": "71.306-sky-blue",
+    "name": "Sky Blue",
+    "code": "71.306",
+    "set": "Model Air",
+    "hex": "#C2D5D9"
+  },
+  {
+    "id": "69.017-sky-blue",
+    "name": "Sky Blue",
+    "code": "69.017",
+    "set": "Mecha Color",
+    "hex": "#7ACAEB"
+  },
+  {
+    "id": "70.961-sky-blue",
+    "name": "Sky Blue",
+    "code": "70.961",
+    "set": "Model Color",
+    "hex": "#74B8CF"
+  },
+  {
+    "id": "70.989-sky-grey",
+    "name": "Sky Grey",
+    "code": "70.989",
+    "set": "Model Color",
+    "hex": "#AAABAD"
+  },
+  {
+    "id": "71.302-sky-type-s",
+    "name": "Sky Type S",
+    "code": "71.302",
+    "set": "Model Air",
+    "hex": "#A2A48C"
+  },
+  {
+    "id": "85.104-slate-grey",
+    "name": "Slate Grey",
+    "code": "85.104",
+    "set": "Arte Deco",
+    "hex": "#B4B3AE"
+  },
+  {
+    "id": "73.822-slimy-grime-dark",
+    "name": "Slimy Grime Dark",
+    "code": "73.822",
+    "set": "Weathering FX",
+    "hex": "#484B3A"
+  },
+  {
+    "id": "70.939-smoke-ink",
+    "name": "Smoke Ink",
+    "code": "70.939",
+    "set": "Model Color",
+    "hex": "#5C4847"
+  },
+  {
+    "id": "72.068-smokey-ink",
+    "name": "Smokey Ink",
+    "code": "72.068",
+    "set": "Game Color",
+    "hex": "#493632"
+  },
+  {
+    "id": "72.417-snake-green",
+    "name": "Snake Green",
+    "code": "72.417",
+    "set": "Xpress Color",
+    "hex": "#015A46"
+  },
+  {
+    "id": "73.820-snow",
+    "name": "Snow",
+    "code": "73.820",
+    "set": "Weathering FX",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "72.748-sombre-grey",
+    "name": "Sombre Grey",
+    "code": "72.748",
+    "set": "Game Air",
+    "hex": "#576878"
+  },
+  {
+    "id": "72.048-sombre-grey",
+    "name": "Sombre Grey",
+    "code": "72.048",
+    "set": "Game Color",
+    "hex": "#535D69"
+  },
+  {
+    "id": "76.048-sombre-grey",
+    "name": "Sombre Grey",
+    "code": "76.048",
+    "set": "Game Air",
+    "hex": "#535D69"
+  },
+  {
+    "id": "72.422-space-grey",
+    "name": "Space Grey",
+    "code": "72.422",
+    "set": "Xpress Color",
+    "hex": "#2D5A5D"
+  },
+  {
+    "id": "85.022-spice-pink",
+    "name": "Spice Pink",
+    "code": "85.022",
+    "set": "Arte Deco",
+    "hex": "#F4A5AB"
+  },
+  {
+    "id": "70.346-splinter-blotches-i",
+    "name": "Splinter Blotches I",
+    "code": "70.346",
+    "set": "Panzer Aces",
+    "hex": "#01633C"
+  },
+  {
+    "id": "70.347-splinter-blotches-ii",
+    "name": "Splinter Blotches II",
+    "code": "70.347",
+    "set": "Panzer Aces",
+    "hex": "#3C2B24"
+  },
+  {
+    "id": "70.345-splinter-camouflage-base",
+    "name": "Splinter Camouflage Base",
+    "code": "70.345",
+    "set": "Panzer Aces",
+    "hex": "#9D9E98"
+  },
+  {
+    "id": "70.756-splinter-green",
+    "name": "Splinter Green",
+    "code": "70.756",
+    "set": "Model Color",
+    "hex": "#456341"
+  },
+  {
+    "id": "70.348-splinter-strips",
+    "name": "Splinter Strips",
+    "code": "70.348",
+    "set": "Panzer Aces",
+    "hex": "#4F684B"
+  },
+  {
+    "id": "85.086-spring-green",
+    "name": "Spring Green",
+    "code": "85.086",
+    "set": "Arte Deco",
+    "hex": "#DEF2CA"
+  },
+  {
+    "id": "85.081-spring-yellow",
+    "name": "Spring Yellow",
+    "code": "85.081",
+    "set": "Arte Deco",
+    "hex": "#BCD731"
+  },
+  {
+    "id": "72.013-squid-pink",
+    "name": "Squid Pink",
+    "code": "72.013",
+    "set": "Game Color",
+    "hex": "#C778A5"
+  },
+  {
+    "id": "76.013-squid-pink",
+    "name": "Squid Pink",
+    "code": "76.013",
+    "set": "Game Air",
+    "hex": "#C778A5"
+  },
+  {
+    "id": "72.713-squid-pink",
+    "name": "Squid Pink",
+    "code": "72.713",
+    "set": "Game Air",
+    "hex": "#DA88B8"
+  },
+  {
+    "id": "72.462-starship-steel",
+    "name": "Starship Steel",
+    "code": "72.462",
+    "set": "Xpress Color",
+    "hex": "#517375"
+  },
+  {
+    "id": "69.063-steel",
+    "name": "Steel",
+    "code": "69.063",
+    "set": "Mecha Color",
+    "hex": "#898A82"
+  },
+  {
+    "id": "62.051-steel",
+    "name": "Steel",
+    "code": "62.051",
+    "set": "Premium Airbrush Color",
+    "hex": "#DFDFDF"
+  },
+  {
+    "id": "77.712-steel",
+    "name": "Steel",
+    "code": "77.712",
+    "set": "Metal Color",
+    "hex": "#757573"
+  },
+  {
+    "id": "71.065-steel-metallic",
+    "name": "Steel (Metallic)",
+    "code": "71.065",
+    "set": "Model Air",
+    "hex": "#BBBBC7"
+  },
+  {
+    "id": "71.087-steel-blue",
+    "name": "Steel Blue",
+    "code": "71.087",
+    "set": "Model Air",
+    "hex": "#195770"
+  },
+  {
+    "id": "70.630-steel-grey",
+    "name": "Steel Grey",
+    "code": "70.630",
+    "set": "Surface Primer",
+    "hex": "#74858C"
+  },
+  {
+    "id": "72.102-steel-grey",
+    "name": "Steel Grey",
+    "code": "72.102",
+    "set": "Game Color",
+    "hex": "#7B92A2"
+  },
+  {
+    "id": "70.313-stencil",
+    "name": "Stencil",
+    "code": "70.313",
+    "set": "Panzer Aces",
+    "hex": "#E0E0D8"
+  },
+  {
+    "id": "70.884-stone-grey",
+    "name": "Stone Grey",
+    "code": "70.884",
+    "set": "Model Color",
+    "hex": "#8C7C63"
+  },
+  {
+    "id": "69.024-stone-grey",
+    "name": "Stone Grey",
+    "code": "69.024",
+    "set": "Mecha Color",
+    "hex": "#A1B1B1"
+  },
+  {
+    "id": "72.749-stone-wall-grey",
+    "name": "Stone Wall Grey",
+    "code": "72.749",
+    "set": "Game Air",
+    "hex": "#A1A2A4"
+  },
+  {
+    "id": "72.049-stonewall-grey",
+    "name": "Stonewall Grey",
+    "code": "72.049",
+    "set": "Game Color",
+    "hex": "#9C9384"
+  },
+  {
+    "id": "76.049-stonewall-grey",
+    "name": "Stonewall Grey",
+    "code": "76.049",
+    "set": "Game Air",
+    "hex": "#9C9384"
+  },
+  {
+    "id": "72.412-storm-blue",
+    "name": "Storm Blue",
+    "code": "72.412",
+    "set": "Xpress Color",
+    "hex": "#303A7F"
+  },
+  {
+    "id": "72.018-stormy-blue",
+    "name": "Stormy Blue",
+    "code": "72.018",
+    "set": "Game Color",
+    "hex": "#413F57"
+  },
+  {
+    "id": "72.108-succubus-skin",
+    "name": "Succubus Skin",
+    "code": "72.108",
+    "set": "Game Color",
+    "hex": "#933D46"
+  },
+  {
+    "id": "72.706-sun-yellow",
+    "name": "Sun Yellow",
+    "code": "72.706",
+    "set": "Game Air",
+    "hex": "#F6B422"
+  },
+  {
+    "id": "28.018-sun-yellow",
+    "name": "Sun Yellow",
+    "code": "28.018",
+    "set": "Hobby Paint",
+    "hex": "#F59C00"
+  },
+  {
+    "id": "72.006-sun-yellow",
+    "name": "Sun Yellow",
+    "code": "72.006",
+    "set": "Game Color",
+    "hex": "#F6A300"
+  },
+  {
+    "id": "76.006-sun-yellow",
+    "name": "Sun Yellow",
+    "code": "76.006",
+    "set": "Game Air",
+    "hex": "#F6A300"
+  },
+  {
+    "id": "70.845-sunny-skin-tone",
+    "name": "Sunny Skin Tone",
+    "code": "70.845",
+    "set": "Model Color",
+    "hex": "#ED9646"
+  },
+  {
+    "id": "72.118-sunrise-blue",
+    "name": "Sunrise Blue",
+    "code": "72.118",
+    "set": "Game Color",
+    "hex": "#73C9EC"
+  },
+  {
+    "id": "76.118-sunrise-blue",
+    "name": "Sunrise Blue",
+    "code": "76.118",
+    "set": "Game Air",
+    "hex": "#73C9EC"
+  },
+  {
+    "id": "72.110-sunset-orange",
+    "name": "Sunset Orange",
+    "code": "72.110",
+    "set": "Game Color",
+    "hex": "#F4973A"
+  },
+  {
+    "id": "70.802-sunset-red",
+    "name": "Sunset Red",
+    "code": "70.802",
+    "set": "Model Color",
+    "hex": "#C02B49"
+  },
+  {
+    "id": "69.009-sz-red",
+    "name": "Sz Red",
+    "code": "69.009",
+    "set": "Mecha Color",
+    "hex": "#B33737"
+  },
+  {
+    "id": "85.004-taffy-cream",
+    "name": "Taffy Cream",
+    "code": "85.004",
+    "set": "Arte Deco",
+    "hex": "#EEF2CD"
+  },
+  {
+    "id": "72.066-tan",
+    "name": "Tan",
+    "code": "72.066",
+    "set": "Game Color",
+    "hex": "#95604E"
+  },
+  {
+    "id": "70.874-tan-earth",
+    "name": "Tan Earth",
+    "code": "70.874",
+    "set": "Model Color",
+    "hex": "#997457"
+  },
+  {
+    "id": "71.079-tan-earth",
+    "name": "Tan Earth",
+    "code": "71.079",
+    "set": "Model Air",
+    "hex": "#A68167"
+  },
+  {
+    "id": "70.831-tan-glaze",
+    "name": "Tan Glaze",
+    "code": "70.831",
+    "set": "Model Color",
+    "hex": "#D59335"
+  },
+  {
+    "id": "70.912-tan-yellow",
+    "name": "Tan Yellow",
+    "code": "70.912",
+    "set": "Model Color",
+    "hex": "#C19B6E"
+  },
+  {
+    "id": "85.026-tangerine",
+    "name": "Tangerine",
+    "code": "85.026",
+    "set": "Arte Deco",
+    "hex": "#FB7129"
+  },
+  {
+    "id": "72.471-tanned-skin",
+    "name": "Tanned Skin",
+    "code": "72.471",
+    "set": "Xpress Color",
+    "hex": "#81452D"
+  },
+  {
+    "id": "85.105-taupe",
+    "name": "Taupe",
+    "code": "85.105",
+    "set": "Arte Deco",
+    "hex": "#D37B82"
+  },
+  {
+    "id": "85.099-teal-green",
+    "name": "Teal Green",
+    "code": "85.099",
+    "set": "Arte Deco",
+    "hex": "#457E6D"
+  },
+  {
+    "id": "72.401-templar-white",
+    "name": "Templar White",
+    "code": "72.401",
+    "set": "Xpress Color",
+    "hex": "#CCCECD"
+  },
+  {
+    "id": "72.065-terracotta",
+    "name": "Terracotta",
+    "code": "72.065",
+    "set": "Game Color",
+    "hex": "#693E38"
+  },
+  {
+    "id": "84.159-textile-medium",
+    "name": "Textile Medium",
+    "code": "84.159",
+    "set": "Arte Deco",
+    "hex": "#ECECEC"
+  },
+  {
+    "id": "72.602-thick-blood",
+    "name": "Thick Blood",
+    "code": "72.602",
+    "set": "Game Color Special FX",
+    "hex": "#954E43"
+  },
+  {
+    "id": "72.060-tinny-tin",
+    "name": "Tinny Tin",
+    "code": "72.060",
+    "set": "Game Color",
+    "hex": "#D5C7C6"
+  },
+  {
+    "id": "71.315-tire-black",
+    "name": "Tire Black",
+    "code": "71.315",
+    "set": "Model Air",
+    "hex": "#505153"
+  },
+  {
+    "id": "69.013-titan-blue",
+    "name": "Titan Blue",
+    "code": "69.013",
+    "set": "Mecha Color",
+    "hex": "#4D4D6F"
+  },
+  {
+    "id": "69.022-titan-dark-blue",
+    "name": "Titan Dark Blue",
+    "code": "69.022",
+    "set": "Mecha Color",
+    "hex": "#41454E"
+  },
+  {
+    "id": "85.111-toffee",
+    "name": "Toffee",
+    "code": "85.111",
+    "set": "Arte Deco",
+    "hex": "#FAD1B1"
+  },
+  {
+    "id": "76.109-toxic-yellow",
+    "name": "Toxic Yellow",
+    "code": "76.109",
+    "set": "Game Air",
+    "hex": "#E8D457"
+  },
+  {
+    "id": "72.109-toxic-yellow",
+    "name": "Toxic Yellow",
+    "code": "72.109",
+    "set": "Game Color",
+    "hex": "#E8D457"
+  },
+  {
+    "id": "70.304-track-primer",
+    "name": "Track Primer",
+    "code": "70.304",
+    "set": "Panzer Aces",
+    "hex": "#5B5652"
+  },
+  {
+    "id": "70.938-transparent-blue",
+    "name": "Transparent Blue",
+    "code": "70.938",
+    "set": "Model Color",
+    "hex": "#323D5D"
+  },
+  {
+    "id": "70.936-transparent-green",
+    "name": "Transparent Green",
+    "code": "70.936",
+    "set": "Model Color",
+    "hex": "#007943"
+  },
+  {
+    "id": "70.935-transparent-orange",
+    "name": "Transparent Orange",
+    "code": "70.935",
+    "set": "Model Color",
+    "hex": "#EA651A"
+  },
+  {
+    "id": "70.934-transparent-red",
+    "name": "Transparent Red",
+    "code": "70.934",
+    "set": "Model Color",
+    "hex": "#B62336"
+  },
+  {
+    "id": "70.937-transparent-yellow",
+    "name": "Transparent Yellow",
+    "code": "70.937",
+    "set": "Model Color",
+    "hex": "#F7A501"
+  },
+  {
+    "id": "72.416-troll-green",
+    "name": "Troll Green",
+    "code": "72.416",
+    "set": "Xpress Color",
+    "hex": "#015E32"
+  },
+  {
+    "id": "85.058-true-blue",
+    "name": "True Blue",
+    "code": "85.058",
+    "set": "Arte Deco",
+    "hex": "#014C8D"
+  },
+  {
+    "id": "85.050-true-violet",
+    "name": "True Violet",
+    "code": "85.050",
+    "set": "Arte Deco",
+    "hex": "#412B6C"
+  },
+  {
+    "id": "85.010-tulip-yellow",
+    "name": "Tulip Yellow",
+    "code": "85.010",
+    "set": "Arte Deco",
+    "hex": "#FDDA9A"
+  },
+  {
+    "id": "70.966-turquoise",
+    "name": "Turquoise",
+    "code": "70.966",
+    "set": "Model Color",
+    "hex": "#0C425A"
+  },
+  {
+    "id": "85.079-turquoise",
+    "name": "Turquoise",
+    "code": "85.079",
+    "set": "Arte Deco",
+    "hex": "#006279"
+  },
+  {
+    "id": "69.023-turquoise",
+    "name": "Turquoise",
+    "code": "69.023",
+    "set": "Mecha Color",
+    "hex": "#009B9F"
+  },
+  {
+    "id": "72.024-turquoise",
+    "name": "Turquoise",
+    "code": "72.024",
+    "set": "Game Color",
+    "hex": "#016160"
+  },
+  {
+    "id": "76.024-turquoise",
+    "name": "Turquoise",
+    "code": "76.024",
+    "set": "Game Air",
+    "hex": "#016160"
+  },
+  {
+    "id": "72.460-twilight-rose",
+    "name": "Twilight Rose",
+    "code": "72.460",
+    "set": "Xpress Color",
+    "hex": "#774755"
+  },
+  {
+    "id": "71.108-uk-azure-blue",
+    "name": "UK Azure Blue",
+    "code": "71.108",
+    "set": "Model Air",
+    "hex": "#728CAD"
+  },
+  {
+    "id": "28.004-uk-bronze-green",
+    "name": "UK Bronze Green",
+    "code": "28.004",
+    "set": "Hobby Paint",
+    "hex": "#535554"
+  },
+  {
+    "id": "70.607-uk-bronze-green",
+    "name": "UK Bronze Green",
+    "code": "70.607",
+    "set": "Surface Primer",
+    "hex": "#3C3E3D"
+  },
+  {
+    "id": "71.284-uk-light-mud",
+    "name": "UK Light Mud",
+    "code": "71.284",
+    "set": "Model Air",
+    "hex": "#87806E"
+  },
+  {
+    "id": "71.143-uk-light-stone",
+    "name": "UK Light Stone",
+    "code": "71.143",
+    "set": "Model Air",
+    "hex": "#B29B69"
+  },
+  {
+    "id": "70.318-us-army-tank-crew",
+    "name": "US Army Tank Crew",
+    "code": "70.318",
+    "set": "Panzer Aces",
+    "hex": "#79684E"
+  },
+  {
+    "id": "70.322-us-army-tank-crew-highlights",
+    "name": "US Army Tank Crew Highlights",
+    "code": "70.322",
+    "set": "Panzer Aces",
+    "hex": "#A99A85"
+  },
+  {
+    "id": "70.893-us-dark-green",
+    "name": "US Dark Green",
+    "code": "70.893",
+    "set": "Model Color",
+    "hex": "#494B36"
+  },
+  {
+    "id": "71.289-us-dark-green",
+    "name": "US Dark Green",
+    "code": "71.289",
+    "set": "Model Air",
+    "hex": "#575944"
+  },
+  {
+    "id": "71.122-us-desert-armour-686",
+    "name": "US Desert Armour 686",
+    "code": "71.122",
+    "set": "Model Air",
+    "hex": "#AE9B7D"
+  },
+  {
+    "id": "71.140-us-desert-sand",
+    "name": "US Desert Sand",
+    "code": "71.140",
+    "set": "Model Air",
+    "hex": "#A98E79"
+  },
+  {
+    "id": "71.290-us-earth-brown",
+    "name": "US Earth Brown",
+    "code": "71.290",
+    "set": "Model Air",
+    "hex": "#65594D"
+  },
+  {
+    "id": "71.293-us-earth-red",
+    "name": "US Earth Red",
+    "code": "71.293",
+    "set": "Model Air",
+    "hex": "#7B604F"
+  },
+  {
+    "id": "71.291-us-earth-yellow",
+    "name": "US Earth Yellow",
+    "code": "71.291",
+    "set": "Model Air",
+    "hex": "#BA915D"
+  },
+  {
+    "id": "71.139-us-field-drab",
+    "name": "US Field Drab",
+    "code": "71.139",
+    "set": "Model Air",
+    "hex": "#695940"
+  },
+  {
+    "id": "70.873-us-field-drab",
+    "name": "US Field Drab",
+    "code": "70.873",
+    "set": "Model Color",
+    "hex": "#826545"
+  },
+  {
+    "id": "71.026-us-flat-brown",
+    "name": "US Flat Brown",
+    "code": "71.026",
+    "set": "Model Air",
+    "hex": "#8E6A4A"
+  },
+  {
+    "id": "71.294-us-forest-green",
+    "name": "US Forest Green",
+    "code": "71.294",
+    "set": "Model Air",
+    "hex": "#54544C"
+  },
+  {
+    "id": "71.107-us-interior-yellow",
+    "name": "US Interior Yellow",
+    "code": "71.107",
+    "set": "Model Air",
+    "hex": "#CBA552"
+  },
+  {
+    "id": "28.009-us-khaki",
+    "name": "US Khaki",
+    "code": "28.009",
+    "set": "Hobby Paint",
+    "hex": "#86785E"
+  },
+  {
+    "id": "71.137-us-light-green",
+    "name": "US Light Green",
+    "code": "71.137",
+    "set": "Model Air",
+    "hex": "#67633E"
+  },
+  {
+    "id": "71.292-us-loam",
+    "name": "US Loam",
+    "code": "71.292",
+    "set": "Model Air",
+    "hex": "#565751"
+  },
+  {
+    "id": "71.043-us-olive-drab",
+    "name": "US Olive Drab",
+    "code": "71.043",
+    "set": "Model Air",
+    "hex": "#594F43"
+  },
+  {
+    "id": "28.005-us-olive-drab",
+    "name": "US Olive Drab",
+    "code": "28.005",
+    "set": "Hobby Paint",
+    "hex": "#635C4C"
+  },
+  {
+    "id": "70.887-us-olive-drab",
+    "name": "US Olive Drab",
+    "code": "70.887",
+    "set": "Model Color",
+    "hex": "#59513C"
+  },
+  {
+    "id": "71.138-us-sand",
+    "name": "US Sand",
+    "code": "71.138",
+    "set": "Model Air",
+    "hex": "#96866D"
+  },
+  {
+    "id": "70.608-usa-olive-drab",
+    "name": "USA Olive Drab",
+    "code": "70.608",
+    "set": "Surface Primer",
+    "hex": "#645D53"
+  },
+  {
+    "id": "71.296-usaaf-light-gray",
+    "name": "USAAF Light Gray",
+    "code": "71.296",
+    "set": "Model Air",
+    "hex": "#BCBCB4"
+  },
+  {
+    "id": "71.125-usaf-brown",
+    "name": "USAF Brown",
+    "code": "71.125",
+    "set": "Model Air",
+    "hex": "#8A715B"
+  },
+  {
+    "id": "71.124-usaf-green",
+    "name": "USAF Green",
+    "code": "71.124",
+    "set": "Model Air",
+    "hex": "#4C5B58"
+  },
+  {
+    "id": "71.111-usaf-light-blue",
+    "name": "USAF Light Blue",
+    "code": "71.111",
+    "set": "Model Air",
+    "hex": "#526778"
+  },
+  {
+    "id": "71.276-usaf-light-gray",
+    "name": "USAF Light Gray",
+    "code": "71.276",
+    "set": "Model Air",
+    "hex": "#C3C5C2"
+  },
+  {
+    "id": "71.275-usaf-medium-gray",
+    "name": "USAF Medium Gray",
+    "code": "71.275",
+    "set": "Model Air",
+    "hex": "#828385"
+  },
+  {
+    "id": "71.016-usaf-olive-drab",
+    "name": "USAF Olive Drab",
+    "code": "71.016",
+    "set": "Model Air",
+    "hex": "#635B46"
+  },
+  {
+    "id": "71.348-usaf-tan",
+    "name": "USAF Tan",
+    "code": "71.348",
+    "set": "Model Air",
+    "hex": "#BE9869"
+  },
+  {
+    "id": "70.319-usmc-tank-crew",
+    "name": "USMC Tank Crew",
+    "code": "70.319",
+    "set": "Panzer Aces",
+    "hex": "#1D573E"
+  },
+  {
+    "id": "70.323-usmc-tank-crew-highlights",
+    "name": "USMC Tank Crew Highlights",
+    "code": "70.323",
+    "set": "Panzer Aces",
+    "hex": "#A4B2A5"
+  },
+  {
+    "id": "70.615-usn-light-ghost-grey",
+    "name": "USN Light Ghost Grey",
+    "code": "70.615",
+    "set": "Surface Primer",
+    "hex": "#92999F"
+  },
+  {
+    "id": "71.295-usn-sea-blue",
+    "name": "USN Sea Blue",
+    "code": "71.295",
+    "set": "Model Air",
+    "hex": "#43484C"
+  },
+  {
+    "id": "71.288-uk-bsc-64-portland-stone",
+    "name": "Uk BSC 64 Portland Stone",
+    "code": "71.288",
+    "set": "Model Air",
+    "hex": "#CCBD96"
+  },
+  {
+    "id": "85.060-ultra-blue-deep",
+    "name": "Ultra Blue Deep",
+    "code": "85.060",
+    "set": "Arte Deco",
+    "hex": "#2E2979"
+  },
+  {
+    "id": "70.839-ultramarine",
+    "name": "Ultramarine",
+    "code": "70.839",
+    "set": "Model Color",
+    "hex": "#2D559D"
+  },
+  {
+    "id": "70.625-ultramarine",
+    "name": "Ultramarine",
+    "code": "70.625",
+    "set": "Surface Primer",
+    "hex": "#333657"
+  },
+  {
+    "id": "76.022-ultramarine-blue",
+    "name": "Ultramarine Blue",
+    "code": "76.022",
+    "set": "Game Air",
+    "hex": "#383967"
+  },
+  {
+    "id": "72.022-ultramarine-blue",
+    "name": "Ultramarine Blue",
+    "code": "72.022",
+    "set": "Game Color",
+    "hex": "#383967"
+  },
+  {
+    "id": "28.017-ultramarine-blue",
+    "name": "Ultramarine Blue",
+    "code": "28.017",
+    "set": "Hobby Paint",
+    "hex": "#4C5990"
+  },
+  {
+    "id": "72.722-ultramarine-blue",
+    "name": "Ultramarine Blue",
+    "code": "72.722",
+    "set": "Game Air",
+    "hex": "#1D548A"
+  },
+  {
+    "id": "73.203-umber-wash",
+    "name": "Umber Wash",
+    "code": "73.203",
+    "set": "Game Color Wash",
+    "hex": "#766053"
+  },
+  {
+    "id": "71.332-underside-blue-faded",
+    "name": "Underside Blue “Faded”",
+    "code": "71.332",
+    "set": "Model Air",
+    "hex": "#C4D4D1"
+  },
+  {
+    "id": "85.068-uniform-blue",
+    "name": "Uniform Blue",
+    "code": "85.068",
+    "set": "Arte Deco",
+    "hex": "#363153"
+  },
+  {
+    "id": "70.922-uniform-green",
+    "name": "Uniform Green",
+    "code": "70.922",
+    "set": "Model Color",
+    "hex": "#4B5230"
+  },
+  {
+    "id": "72.461-vampiric-purple",
+    "name": "Vampiric Purple",
+    "code": "72.461",
+    "set": "Xpress Color",
+    "hex": "#492857"
+  },
+  {
+    "id": "72.407-velvet-red",
+    "name": "Velvet Red",
+    "code": "72.407",
+    "set": "Xpress Color",
+    "hex": "#81282E"
+  },
+  {
+    "id": "72.135-verdigris",
+    "name": "Verdigris",
+    "code": "72.135",
+    "set": "Game Color",
+    "hex": "#91CBCC"
+  },
+  {
+    "id": "72.096-verdigris",
+    "name": "Verdigris",
+    "code": "72.096",
+    "set": "Game Color",
+    "hex": "#86C7A9"
+  },
+  {
+    "id": "70.832-verdigris-glaze",
+    "name": "Verdigris Glaze",
+    "code": "70.832",
+    "set": "Model Color",
+    "hex": "#99D0CA"
+  },
+  {
+    "id": "70.909-vermilion",
+    "name": "Vermilion",
+    "code": "70.909",
+    "set": "Model Color",
+    "hex": "#C42A28"
+  },
+  {
+    "id": "85.067-victorian-blue",
+    "name": "Victorian Blue",
+    "code": "85.067",
+    "set": "Arte Deco",
+    "hex": "#35578D"
+  },
+  {
+    "id": "72.483-viking-grey",
+    "name": "Viking Grey",
+    "code": "72.483",
+    "set": "Xpress Color Intense",
+    "hex": "#45515D"
+  },
+  {
+    "id": "72.483-viking-grey",
+    "name": "Viking Grey",
+    "code": "72.483",
+    "set": "Xpress Color Intense",
+    "hex": "#374855"
+  },
+  {
+    "id": "62.008-violet",
+    "name": "Violet",
+    "code": "62.008",
+    "set": "Premium Airbrush Color",
+    "hex": "#534078"
+  },
+  {
+    "id": "70.960-violet",
+    "name": "Violet",
+    "code": "70.960",
+    "set": "Model Color",
+    "hex": "#3C2C49"
+  },
+  {
+    "id": "72.087-violet",
+    "name": "Violet",
+    "code": "72.087",
+    "set": "Game Color",
+    "hex": "#6E3D74"
+  },
+  {
+    "id": "70.773-violet-grey",
+    "name": "Violet Grey",
+    "code": "70.773",
+    "set": "Model Color",
+    "hex": "#5A5957"
+  },
+  {
+    "id": "70.812-violet-red",
+    "name": "Violet Red",
+    "code": "70.812",
+    "set": "Model Color",
+    "hex": "#64353F"
+  },
+  {
+    "id": "74.030-violet-vamp",
+    "name": "Violet Vamp",
+    "code": "74.030",
+    "set": "Nocturna Models",
+    "hex": "#5E4D7A"
+  },
+  {
+    "id": "73.209-violeta-wash",
+    "name": "Violeta Wash",
+    "code": "73.209",
+    "set": "Game Color",
+    "hex": "#886CA7"
+  },
+  {
+    "id": "85.095-viridian-green",
+    "name": "Viridian Green",
+    "code": "85.095",
+    "set": "Arte Deco",
+    "hex": "#056C41"
+  },
+  {
+    "id": "72.600-vomit",
+    "name": "Vomit",
+    "code": "72.600",
+    "set": "Game Color Special FX",
+    "hex": "#FAAC42"
+  },
+  {
+    "id": "72.134-vomit",
+    "name": "Vomit",
+    "code": "72.134",
+    "set": "Game Color",
+    "hex": "#847C33"
+  },
+  {
+    "id": "72.464-wagram-blue",
+    "name": "Wagram Blue",
+    "code": "72.464",
+    "set": "Xpress Color",
+    "hex": "#014461"
+  },
+  {
+    "id": "72.714-warlord-purple",
+    "name": "Warlord Purple",
+    "code": "72.714",
+    "set": "Game Air",
+    "hex": "#B0376D"
+  },
+  {
+    "id": "76.014-warlord-purple",
+    "name": "Warlord Purple",
+    "code": "76.014",
+    "set": "Game Air",
+    "hex": "#841E4D"
+  },
+  {
+    "id": "72.014-warlord-purple",
+    "name": "Warlord Purple",
+    "code": "72.014",
+    "set": "Game Color",
+    "hex": "#862351"
+  },
+  {
+    "id": "72.148-warm-grey",
+    "name": "Warm Grey",
+    "code": "72.148",
+    "set": "Game Color",
+    "hex": "#B29E9D"
+  },
+  {
+    "id": "85.106-warm-neutral-tone",
+    "name": "Warm Neutral Tone",
+    "code": "85.106",
+    "set": "Arte Deco",
+    "hex": "#F39C81"
+  },
+  {
+    "id": "72.420-wasteland-brown",
+    "name": "Wasteland Brown",
+    "code": "72.420",
+    "set": "Xpress Color",
+    "hex": "#684527"
+  },
+  {
+    "id": "85.065-wedgewood-blue",
+    "name": "Wedgewood Blue",
+    "code": "85.065",
+    "set": "Arte Deco",
+    "hex": "#324C65"
+  },
+  {
+    "id": "73.828-wet-effects",
+    "name": "Wet Effects",
+    "code": "73.828",
+    "set": "Weathering FX",
+    "hex": "#BDBAA7"
+  },
+  {
+    "id": "85.001-white",
+    "name": "White",
+    "code": "85.001",
+    "set": "Arte Deco",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "70.951-white",
+    "name": "White",
+    "code": "70.951",
+    "set": "Model Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "76.501-white",
+    "name": "White",
+    "code": "76.501",
+    "set": "Wash FX",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "62.001-white",
+    "name": "White",
+    "code": "62.001",
+    "set": "Premium Airbrush Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "28.010-white",
+    "name": "White",
+    "code": "28.010",
+    "set": "Hobby Paint",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "70.640-white",
+    "name": "White",
+    "code": "70.640",
+    "set": "Mecha Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "71.001-white",
+    "name": "White",
+    "code": "71.001",
+    "set": "Model Air",
+    "hex": "#F9F9F7"
+  },
+  {
+    "id": "72.082-white",
+    "name": "White",
+    "code": "72.082",
+    "set": "Game Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "70.600-white",
+    "name": "White",
+    "code": "70.600",
+    "set": "Surface Primer",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "77.706-white-aluminium",
+    "name": "White Aluminium",
+    "code": "77.706",
+    "set": "Metal Color",
+    "hex": "#BAB9BE"
+  },
+  {
+    "id": "74.016-white-flesh",
+    "name": "White Flesh",
+    "code": "74.016",
+    "set": "Nocturna Models",
+    "hex": "#F5D7CC"
+  },
+  {
+    "id": "70.853-white-glaze",
+    "name": "White Glaze",
+    "code": "70.853",
+    "set": "Model Color",
+    "hex": "#F4F4F6"
+  },
+  {
+    "id": "70.796-white-gold",
+    "name": "White Gold",
+    "code": "70.796",
+    "set": "Liquid Gold",
+    "hex": "#F6F6F6"
+  },
+  {
+    "id": "69.002-white-grey",
+    "name": "White Grey",
+    "code": "69.002",
+    "set": "Mecha Color",
+    "hex": "#F0EBE5"
+  },
+  {
+    "id": "71.119-white-grey",
+    "name": "White Grey",
+    "code": "71.119",
+    "set": "Model Air",
+    "hex": "#DAD6CA"
+  },
+  {
+    "id": "70.993-white-grey",
+    "name": "White Grey",
+    "code": "70.993",
+    "set": "Model Color",
+    "hex": "#E3E2E0"
+  },
+  {
+    "id": "62.061-white-primer",
+    "name": "White Primer",
+    "code": "62.061",
+    "set": "Premium Airbrush Color",
+    "hex": "#FFFFFF"
+  },
+  {
+    "id": "72.456-wicked-purple",
+    "name": "Wicked Purple",
+    "code": "72.456",
+    "set": "Xpress Color",
+    "hex": "#756566"
+  },
+  {
+    "id": "85.057-williamsburg-blue",
+    "name": "Williamsburg Blue",
+    "code": "85.057",
+    "set": "Arte Deco",
+    "hex": "#5F779D"
+  },
+  {
+    "id": "72.474-willow-bark",
+    "name": "Willow Bark",
+    "code": "72.474",
+    "set": "Xpress Color",
+    "hex": "#392B27"
+  },
+  {
+    "id": "74.028-witch-purple",
+    "name": "Witch Purple",
+    "code": "74.028",
+    "set": "Nocturna Models",
+    "hex": "#801D6D"
+  },
+  {
+    "id": "72.047-wolf-grey",
+    "name": "Wolf Grey",
+    "code": "72.047",
+    "set": "Game Color",
+    "hex": "#C3D1D1"
+  },
+  {
+    "id": "76.047-wolf-grey",
+    "name": "Wolf Grey",
+    "code": "76.047",
+    "set": "Game Air",
+    "hex": "#C3D1D1"
+  },
+  {
+    "id": "28.020-wolf-grey",
+    "name": "Wolf Grey",
+    "code": "28.020",
+    "set": "Hobby Paint",
+    "hex": "#B0C0D0"
+  },
+  {
+    "id": "72.747-wolf-grey",
+    "name": "Wolf Grey",
+    "code": "72.747",
+    "set": "Game Air",
+    "hex": "#ACBDCD"
+  },
+  {
+    "id": "71.077-wood",
+    "name": "Wood",
+    "code": "71.077",
+    "set": "Model Air",
+    "hex": "#AB743B"
+  },
+  {
+    "id": "74.023-worn-red",
+    "name": "Worn Red",
+    "code": "74.023",
+    "set": "Nocturna Models",
+    "hex": "#C71E49"
+  },
+  {
+    "id": "69.004-yellow",
+    "name": "Yellow",
+    "code": "69.004",
+    "set": "Mecha Color",
+    "hex": "#E9A401"
+  },
+  {
+    "id": "85.008-yellow",
+    "name": "Yellow",
+    "code": "85.008",
+    "set": "Arte Deco",
+    "hex": "#FFE15D"
+  },
+  {
+    "id": "72.085-yellow",
+    "name": "Yellow",
+    "code": "72.085",
+    "set": "Game Color",
+    "hex": "#EBA90C"
+  },
+  {
+    "id": "71.246-yellow-brown",
+    "name": "Yellow Brown",
+    "code": "71.246",
+    "set": "Model Air",
+    "hex": "#978674"
+  },
+  {
+    "id": "70.730-yellow-fluorescent",
+    "name": "Yellow Fluorescent",
+    "code": "70.730",
+    "set": "Model Color",
+    "hex": "#EFE641"
+  },
+  {
+    "id": "69.054-yellow-fluorescent",
+    "name": "Yellow Fluorescent",
+    "code": "69.054",
+    "set": "Mecha Color",
+    "hex": "#EFE641"
+  },
+  {
+    "id": "85.087-yellow-green",
+    "name": "Yellow Green",
+    "code": "85.087",
+    "set": "Arte Deco",
+    "hex": "#97C45B"
+  },
+  {
+    "id": "70.954-yellow-green",
+    "name": "Yellow Green",
+    "code": "70.954",
+    "set": "Model Color",
+    "hex": "#DEDE26"
+  },
+  {
+    "id": "70.913-yellow-ochre",
+    "name": "Yellow Ochre",
+    "code": "70.913",
+    "set": "Model Color",
+    "hex": "#DEAA47"
+  },
+  {
+    "id": "85.014-yellow-ochre",
+    "name": "Yellow Ochre",
+    "code": "85.014",
+    "set": "Arte Deco",
+    "hex": "#E1A788"
+  },
+  {
+    "id": "71.033-yellow-ochre",
+    "name": "Yellow Ochre",
+    "code": "71.033",
+    "set": "Model Air",
+    "hex": "#D8932E"
+  },
+  {
+    "id": "62.015-yellow-ochre",
+    "name": "Yellow Ochre",
+    "code": "62.015",
+    "set": "Premium Airbrush Color",
+    "hex": "#C98836"
+  },
+  {
+    "id": "69.032-yellow-ochre",
+    "name": "Yellow Ochre",
+    "code": "69.032",
+    "set": "Mecha Color",
+    "hex": "#EAA432"
+  },
+  {
+    "id": "71.013-yellow-olive",
+    "name": "Yellow Olive",
+    "code": "71.013",
+    "set": "Model Air",
+    "hex": "#434542"
+  },
+  {
+    "id": "72.064-yellow-olive",
+    "name": "Yellow Olive",
+    "code": "72.064",
+    "set": "Game Color",
+    "hex": "#1E4F39"
+  },
+  {
+    "id": "70.892-yellow-olive",
+    "name": "Yellow Olive",
+    "code": "70.892",
+    "set": "Model Color",
+    "hex": "#383B32"
+  },
+  {
+    "id": "71.078-yellow-rlm04",
+    "name": "Yellow RLM04",
+    "code": "71.078",
+    "set": "Model Air",
+    "hex": "#E7A221"
+  },
+  {
+    "id": "73.208-yellow-wash",
+    "name": "Yellow Wash",
+    "code": "73.208",
+    "set": "Game Color",
+    "hex": "#E9E85C"
+  },
+  {
+    "id": "70.303-yellowish-rust",
+    "name": "Yellowish Rust",
+    "code": "70.303",
+    "set": "Panzer Aces",
+    "hex": "#BE8B5E"
+  },
+  {
+    "id": "72.470-zombie-flesh",
+    "name": "Zombie Flesh",
+    "code": "72.470",
+    "set": "Xpress Color",
+    "hex": "#856B5A"
+  }
+]

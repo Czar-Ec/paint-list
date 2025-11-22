@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "wave-2-abyss-blue",
+    "name": "Abyss Blue",
+    "set": "Wave 2",
+    "hex": "#334A66"
+  },
+  {
+    "id": "wave-3-ambush-yellow",
+    "name": "Ambush Yellow",
+    "set": "Wave 3",
+    "hex": "#E3CC73"
+  },
+  {
+    "id": "wave-1-amethyst-rayne",
+    "name": "Amethyst Rayne",
+    "set": "Wave 1",
+    "hex": "#524169"
+  },
+  {
+    "id": "wave-3-amphora-red",
+    "name": "Amphora Red",
+    "set": "Wave 3",
+    "hex": "#482124"
+  },
+  {
+    "id": "wave-2-amulet-purple",
+    "name": "Amulet Purple",
+    "set": "Wave 2",
+    "hex": "#BEACD2"
+  },
+  {
+    "id": "wave-1-ancient-forest",
+    "name": "Ancient Forest",
+    "set": "Wave 1",
+    "hex": "#715B52"
+  },
+  {
+    "id": "wave-3-ancient-gold",
+    "name": "Ancient Gold",
+    "set": "Wave 3",
+    "hex": "#776742"
+  },
+  {
+    "id": "wave-3-antiquity-green",
+    "name": "Antiquity Green",
+    "set": "Wave 3",
+    "hex": "#367D7A"
+  },
+  {
+    "id": "wave-3-apocalypse-sky",
+    "name": "Apocalypse Sky",
+    "set": "Wave 3",
+    "hex": "#E34E3F"
+  },
+  {
+    "id": "wave-1-archaic-sepia-wash",
+    "name": "Archaic Sepia Wash",
+    "set": "Wave 1",
+    "hex": "#A48773"
+  },
+  {
+    "id": "wave-2-ares-flesh",
+    "name": "Ares Flesh",
+    "set": "Wave 2",
+    "hex": "#DEC287"
+  },
+  {
+    "id": "wave-2-argonaut-skin",
+    "name": "Argonaut Skin",
+    "set": "Wave 2",
+    "hex": "#A78E6C"
+  },
+  {
+    "id": "wave-2-ashen-grey",
+    "name": "Ashen Grey",
+    "set": "Wave 2",
+    "hex": "#4E5248"
+  },
+  {
+    "id": "wave-2-asmodeus-red",
+    "name": "Asmodeus Red",
+    "set": "Wave 2",
+    "hex": "#8E4847"
+  },
+  {
+    "id": "wave-3-aztec-turquoise-wash",
+    "name": "Aztec Turquoise Wash",
+    "set": "Wave 3",
+    "hex": "#939EA0"
+  },
+  {
+    "id": "wave-1-barbarian-brawn",
+    "name": "Barbarian Brawn",
+    "set": "Wave 1",
+    "hex": "#8F5E54"
+  },
+  {
+    "id": "wave-2-bard-skin",
+    "name": "Bard Skin",
+    "set": "Wave 2",
+    "hex": "#956F61"
+  },
+  {
+    "id": "wave-2-batle-axe-brass",
+    "name": "Batle Axe Brass",
+    "set": "Wave 2",
+    "hex": "#D4A97D"
+  },
+  {
+    "id": "wave-1-battle-mud-wash",
+    "name": "Battle Mud Wash",
+    "set": "Wave 1",
+    "hex": "#796A5D"
+  },
+  {
+    "id": "wave-1-berserker-red",
+    "name": "Berserker Red",
+    "set": "Wave 1",
+    "hex": "#4D1A15"
+  },
+  {
+    "id": "wave-2-blue-glaze",
+    "name": "Blue Glaze",
+    "set": "Wave 2",
+    "hex": "#5A79BC"
+  },
+  {
+    "id": "wave-3-blue-steel",
+    "name": "Blue Steel",
+    "set": "Wave 3",
+    "hex": "#7F8C8B"
+  },
+  {
+    "id": "wave-1-boar-hide",
+    "name": "Boar Hide",
+    "set": "Wave 1",
+    "hex": "#724438"
+  },
+  {
+    "id": "wave-3-bone-wash",
+    "name": "Bone Wash",
+    "set": "Wave 3",
+    "hex": "#B6A8A9"
+  },
+  {
+    "id": "wave-3-boot-strap-brown",
+    "name": "Boot Strap Brown",
+    "set": "Wave 3",
+    "hex": "#8E674B"
+  },
+  {
+    "id": "wave-3-carapace-green",
+    "name": "Carapace Green",
+    "set": "Wave 3",
+    "hex": "#4F955A"
+  },
+  {
+    "id": "wave-1-carcharodon-grey",
+    "name": "Carcharodon Grey",
+    "set": "Wave 1",
+    "hex": "#959496"
+  },
+  {
+    "id": "wave-1-celestial-blue",
+    "name": "Celestial Blue",
+    "set": "Wave 1",
+    "hex": "#6991C0"
+  },
+  {
+    "id": "wave-3-centurion-red",
+    "name": "Centurion Red",
+    "set": "Wave 3",
+    "hex": "#E63132"
+  },
+  {
+    "id": "wave-2-cerberus-brown",
+    "name": "Cerberus Brown",
+    "set": "Wave 2",
+    "hex": "#DFAD58"
+  },
+  {
+    "id": "wave-3-chaos-bronze",
+    "name": "Chaos Bronze",
+    "set": "Wave 3",
+    "hex": "#A68B6D"
+  },
+  {
+    "id": "wave-1-cold-corpse-blue",
+    "name": "Cold Corpse Blue",
+    "set": "Wave 1",
+    "hex": "#50555C"
+  },
+  {
+    "id": "wave-3-contagion-green",
+    "name": "Contagion Green",
+    "set": "Wave 3",
+    "hex": "#8B9E7B"
+  },
+  {
+    "id": "wave-2-craven-yellow",
+    "name": "Craven Yellow",
+    "set": "Wave 2",
+    "hex": "#ECEB69"
+  },
+  {
+    "id": "wave-1-cuirass-leather",
+    "name": "Cuirass Leather",
+    "set": "Wave 1",
+    "hex": "#514239"
+  },
+  {
+    "id": "wave-2-cursed-blue",
+    "name": "Cursed Blue",
+    "set": "Wave 2",
+    "hex": "#4199B3"
+  },
+  {
+    "id": "wave-3-cyber-pink",
+    "name": "Cyber Pink",
+    "set": "Wave 3",
+    "hex": "#C64B8A"
+  },
+  {
+    "id": "wave-1-dark-sun-yellow",
+    "name": "Dark Sun Yellow",
+    "set": "Wave 1",
+    "hex": "#C38639"
+  },
+  {
+    "id": "wave-3-death-metal",
+    "name": "Death Metal",
+    "set": "Wave 3",
+    "hex": "#69655D"
+  },
+  {
+    "id": "wave-1-death-reaper",
+    "name": "Death Reaper",
+    "set": "Wave 1",
+    "hex": "#434142"
+  },
+  {
+    "id": "wave-3-decadent-purple",
+    "name": "Decadent Purple",
+    "set": "Wave 3",
+    "hex": "#C1BED3"
+  },
+  {
+    "id": "wave-1-demon-red",
+    "name": "Demon Red",
+    "set": "Wave 1",
+    "hex": "#D21116"
+  },
+  {
+    "id": "wave-1-doom-death-black",
+    "name": "Doom Death Black",
+    "set": "Wave 1",
+    "hex": "#3C3936"
+  },
+  {
+    "id": "wave-1-dragon-fang",
+    "name": "Dragon Fang",
+    "set": "Wave 1",
+    "hex": "#9E8461"
+  },
+  {
+    "id": "wave-1-dragon-s-gold",
+    "name": "Dragon's Gold",
+    "set": "Wave 1",
+    "hex": "#CDA24E"
+  },
+  {
+    "id": "wave-2-dread-red",
+    "name": "Dread Red",
+    "set": "Wave 2",
+    "hex": "#6E3E3E"
+  },
+  {
+    "id": "wave-2-druid-flesh",
+    "name": "Druid Flesh",
+    "set": "Wave 2",
+    "hex": "#533D33"
+  },
+  {
+    "id": "wave-2-dry-rust-brown",
+    "name": "Dry Rust Brown",
+    "set": "Wave 2",
+    "hex": "#BA773F"
+  },
+  {
+    "id": "wave-1-dungeon-stone-grey",
+    "name": "Dungeon Stone Grey",
+    "set": "Wave 1",
+    "hex": "#5C5E5F"
+  },
+  {
+    "id": "wave-1-dust-bowl",
+    "name": "Dust Bowl",
+    "set": "Wave 1",
+    "hex": "#7D6349"
+  },
+  {
+    "id": "wave-2-dwarven-iron",
+    "name": "Dwarven Iron",
+    "set": "Wave 2",
+    "hex": "#898884"
+  },
+  {
+    "id": "wave-1-dwarven-skin",
+    "name": "Dwarven Skin",
+    "set": "Wave 1",
+    "hex": "#B07C62"
+  },
+  {
+    "id": "wave-2-eidolon-grey",
+    "name": "Eidolon Grey",
+    "set": "Wave 2",
+    "hex": "#535548"
+  },
+  {
+    "id": "wave-3-elder-robe",
+    "name": "Elder Robe",
+    "set": "Wave 3",
+    "hex": "#2259A0"
+  },
+  {
+    "id": "wave-3-elixir-green",
+    "name": "Elixir Green",
+    "set": "Wave 3",
+    "hex": "#7EC68F"
+  },
+  {
+    "id": "wave-1-elven-skin",
+    "name": "Elven Skin",
+    "set": "Wave 1",
+    "hex": "#C49774"
+  },
+  {
+    "id": "wave-1-elysium-blue",
+    "name": "Elysium Blue",
+    "set": "Wave 1",
+    "hex": "#5179AB"
+  },
+  {
+    "id": "wave-3-emperor-red",
+    "name": "Emperor Red",
+    "set": "Wave 3",
+    "hex": "#A03140"
+  },
+  {
+    "id": "wave-3-emperor-s-purple",
+    "name": "Emperor's Purple",
+    "set": "Wave 3",
+    "hex": "#7A6089"
+  },
+  {
+    "id": "wave-3-enchantment-blue",
+    "name": "Enchantment Blue",
+    "set": "Wave 3",
+    "hex": "#347DAA"
+  },
+  {
+    "id": "wave-3-enchantress-purple",
+    "name": "Enchantress Purple",
+    "set": "Wave 3",
+    "hex": "#593662"
+  },
+  {
+    "id": "wave-3-enticing-purple",
+    "name": "Enticing Purple",
+    "set": "Wave 3",
+    "hex": "#7F7A8B"
+  },
+  {
+    "id": "wave-1-ethereal-green",
+    "name": "Ethereal Green",
+    "set": "Wave 1",
+    "hex": "#567F2D"
+  },
+  {
+    "id": "wave-2-evil-eye-red",
+    "name": "Evil Eye Red",
+    "set": "Wave 2",
+    "hex": "#C15D4F"
+  },
+  {
+    "id": "wave-1-fanatic-orange",
+    "name": "Fanatic Orange",
+    "set": "Wave 1",
+    "hex": "#D94A2E"
+  },
+  {
+    "id": "wave-3-faust-blue",
+    "name": "Faust Blue",
+    "set": "Wave 3",
+    "hex": "#45515B"
+  },
+  {
+    "id": "wave-2-field-grey",
+    "name": "Field Grey",
+    "set": "Wave 2",
+    "hex": "#6C715E"
+  },
+  {
+    "id": "wave-3-fire-opal",
+    "name": "Fire Opal",
+    "set": "Wave 3",
+    "hex": "#C36E4A"
+  },
+  {
+    "id": "wave-3-flak-gun-yellow",
+    "name": "Flak Gun Yellow",
+    "set": "Wave 3",
+    "hex": "#C5AA5A"
+  },
+  {
+    "id": "wave-2-flaming-forge-orange",
+    "name": "Flaming Forge Orange",
+    "set": "Wave 2",
+    "hex": "#E9A544"
+  },
+  {
+    "id": "wave-1-flesh-wash",
+    "name": "Flesh Wash",
+    "set": "Wave 1",
+    "hex": "#C4A678"
+  },
+  {
+    "id": "wave-3-frost-blue",
+    "name": "Frost Blue",
+    "set": "Wave 3",
+    "hex": "#78969D"
+  },
+  {
+    "id": "wave-2-fury-green",
+    "name": "Fury Green",
+    "set": "Wave 2",
+    "hex": "#6C6B4B"
+  },
+  {
+    "id": "wave-2-ghoul-green",
+    "name": "Ghoul Green",
+    "set": "Wave 2",
+    "hex": "#52BD97"
+  },
+  {
+    "id": "wave-2-gigawatt-blue",
+    "name": "Gigawatt Blue",
+    "set": "Wave 2",
+    "hex": "#57B7E8"
+  },
+  {
+    "id": "wave-1-glistening-gold",
+    "name": "Glistening Gold",
+    "set": "Wave 1",
+    "hex": "#9B8664"
+  },
+  {
+    "id": "wave-1-glistening-gums",
+    "name": "Glistening Gums",
+    "set": "Wave 1",
+    "hex": "#995779"
+  },
+  {
+    "id": "wave-3-gloss-varnish",
+    "name": "Gloss Varnish",
+    "set": "Wave 3",
+    "hex": "#A5A5A4"
+  },
+  {
+    "id": "wave-2-goblinoid-green",
+    "name": "Goblinoid Green",
+    "set": "Wave 2",
+    "hex": "#89B76A"
+  },
+  {
+    "id": "wave-1-gravestone-blue",
+    "name": "Gravestone Blue",
+    "set": "Wave 1",
+    "hex": "#7A8896"
+  },
+  {
+    "id": "wave-2-green-beret",
+    "name": "Green Beret",
+    "set": "Wave 2",
+    "hex": "#ABAB87"
+  },
+  {
+    "id": "wave-2-green-glaze",
+    "name": "Green Glaze",
+    "set": "Wave 2",
+    "hex": "#95CB74"
+  },
+  {
+    "id": "wave-1-griffon-claw",
+    "name": "Griffon Claw",
+    "set": "Wave 1",
+    "hex": "#9E9084"
+  },
+  {
+    "id": "wave-2-gung-ho-green",
+    "name": "Gung-ho Green",
+    "set": "Wave 2",
+    "hex": "#A8A264"
+  },
+  {
+    "id": "wave-2-gyzmo-fur",
+    "name": "Gyzmo Fur",
+    "set": "Wave 2",
+    "hex": "#D28950"
+  },
+  {
+    "id": "wave-3-hazard-yellow-wash",
+    "name": "Hazard Yellow Wash",
+    "set": "Wave 3",
+    "hex": "#E5C0B4"
+  },
+  {
+    "id": "wave-3-heirloom-gold",
+    "name": "Heirloom Gold",
+    "set": "Wave 3",
+    "hex": "#C69C53"
+  },
+  {
+    "id": "wave-2-helion-red-wash",
+    "name": "Helion Red Wash",
+    "set": "Wave 2",
+    "hex": "#865453"
+  },
+  {
+    "id": "wave-2-hellspawn-red",
+    "name": "Hellspawn Red",
+    "set": "Wave 2",
+    "hex": "#BE392E"
+  },
+  {
+    "id": "wave-2-hot-pink",
+    "name": "Hot Pink",
+    "set": "Wave 2",
+    "hex": "#E184A5"
+  },
+  {
+    "id": "wave-2-hydra-green",
+    "name": "Hydra Green",
+    "set": "Wave 2",
+    "hex": "#344B4D"
+  },
+  {
+    "id": "wave-3-incubus-purple",
+    "name": "Incubus Purple",
+    "set": "Wave 3",
+    "hex": "#6A696C"
+  },
+  {
+    "id": "wave-3-inferno-orange",
+    "name": "Inferno Orange",
+    "set": "Wave 3",
+    "hex": "#CE4A32"
+  },
+  {
+    "id": "wave-3-ion-blue",
+    "name": "Ion Blue",
+    "set": "Wave 3",
+    "hex": "#B7D5D8"
+  },
+  {
+    "id": "wave-1-ivory-tusk",
+    "name": "Ivory Tusk",
+    "set": "Wave 1",
+    "hex": "#D2C7BF"
+  },
+  {
+    "id": "wave-2-jade-green",
+    "name": "Jade Green",
+    "set": "Wave 2",
+    "hex": "#2E7968"
+  },
+  {
+    "id": "wave-1-keleton-legion",
+    "name": "Keleton Legion",
+    "set": "Wave 1",
+    "hex": "#AF966C"
+  },
+  {
+    "id": "wave-2-kobold-grey",
+    "name": "Kobold Grey",
+    "set": "Wave 2",
+    "hex": "#858B75"
+  },
+  {
+    "id": "wave-2-kronos-flesh",
+    "name": "Kronos Flesh",
+    "set": "Wave 2",
+    "hex": "#BF9A6F"
+  },
+  {
+    "id": "wave-3-legion-green",
+    "name": "Legion Green",
+    "set": "Wave 3",
+    "hex": "#2A6A66"
+  },
+  {
+    "id": "wave-2-leviathan-blue",
+    "name": "Leviathan Blue",
+    "set": "Wave 2",
+    "hex": "#3A7BBF"
+  },
+  {
+    "id": "wave-2-magi-purple-wash",
+    "name": "Magi Purple Wash",
+    "set": "Wave 2",
+    "hex": "#4F3350"
+  },
+  {
+    "id": "wave-2-manticore-ochre",
+    "name": "Manticore Ochre",
+    "set": "Wave 2",
+    "hex": "#D69744"
+  },
+  {
+    "id": "wave-1-marine-blue",
+    "name": "Marine Blue",
+    "set": "Wave 1",
+    "hex": "#43496F"
+  },
+  {
+    "id": "wave-3-matt-varnish",
+    "name": "Matt Varnish",
+    "set": "Wave 3",
+    "hex": "#DCDCDD"
+  },
+  {
+    "id": "wave-1-merald-green",
+    "name": "Merald Green",
+    "set": "Wave 1",
+    "hex": "#3C5C43"
+  },
+  {
+    "id": "wave-3-mythic-turquoise",
+    "name": "Mythic Turquoise",
+    "set": "Wave 3",
+    "hex": "#599E9C"
+  },
+  {
+    "id": "wave-1-mythril-blade",
+    "name": "Mythril Blade",
+    "set": "Wave 1",
+    "hex": "#7D7F7F"
+  },
+  {
+    "id": "wave-1-necrosis-green-wash",
+    "name": "Necrosis Green Wash",
+    "set": "Wave 1",
+    "hex": "#7B8A69"
+  },
+  {
+    "id": "wave-2-neo-pink",
+    "name": "Neo Pink",
+    "set": "Wave 2",
+    "hex": "#F3BCD7"
+  },
+  {
+    "id": "wave-2-noble-steed-brown",
+    "name": "Noble Steed Brown",
+    "set": "Wave 2",
+    "hex": "#755339"
+  },
+  {
+    "id": "wave-1-oblivion-black-wash",
+    "name": "Oblivion Black Wash",
+    "set": "Wave 1",
+    "hex": "#454344"
+  },
+  {
+    "id": "wave-3-omega-blue",
+    "name": "Omega Blue",
+    "set": "Wave 3",
+    "hex": "#58B9B6"
+  },
+  {
+    "id": "wave-1-orange-flare",
+    "name": "Orange Flare",
+    "set": "Wave 1",
+    "hex": "#EB7140"
+  },
+  {
+    "id": "wave-2-orange-glaze",
+    "name": "Orange Glaze",
+    "set": "Wave 2",
+    "hex": "#F89F5B"
+  },
+  {
+    "id": "wave-2-orc-hide",
+    "name": "Orc Hide",
+    "set": "Wave 2",
+    "hex": "#7B9B68"
+  },
+  {
+    "id": "wave-2-overlord-brass",
+    "name": "Overlord Brass",
+    "set": "Wave 2",
+    "hex": "#D6AF83"
+  },
+  {
+    "id": "wave-3-oxidation-green",
+    "name": "Oxidation Green",
+    "set": "Wave 3",
+    "hex": "#34444C"
+  },
+  {
+    "id": "wave-2-paladin-flesh",
+    "name": "Paladin Flesh",
+    "set": "Wave 2",
+    "hex": "#76564B"
+  },
+  {
+    "id": "wave-3-pale-skin",
+    "name": "Pale Skin",
+    "set": "Wave 3",
+    "hex": "#CAAA7A"
+  },
+  {
+    "id": "wave-3-panzer-yellow",
+    "name": "Panzer Yellow",
+    "set": "Wave 3",
+    "hex": "#A58E42"
+  },
+  {
+    "id": "wave-2-perisher-pink",
+    "name": "Perisher Pink",
+    "set": "Wave 2",
+    "hex": "#BA6368"
+  },
+  {
+    "id": "wave-3-pestilence-green",
+    "name": "Pestilence Green",
+    "set": "Wave 3",
+    "hex": "#D3DF95"
+  },
+  {
+    "id": "wave-1-plate-armour",
+    "name": "Plate Armour",
+    "set": "Wave 1",
+    "hex": "#787979"
+  },
+  {
+    "id": "wave-2-platinum-crown",
+    "name": "Platinum Crown",
+    "set": "Wave 2",
+    "hex": "#CEC2A4"
+  },
+  {
+    "id": "wave-2-purple-glaze",
+    "name": "Purple Glaze",
+    "set": "Wave 2",
+    "hex": "#B679AA"
+  },
+  {
+    "id": "wave-1-rc-flesh-wash",
+    "name": "RC Flesh Wash",
+    "set": "Wave 1",
+    "hex": "#52854C"
+  },
+  {
+    "id": "wave-2-ranger-cloak",
+    "name": "Ranger Cloak",
+    "set": "Wave 2",
+    "hex": "#7D8351"
+  },
+  {
+    "id": "wave-2-ray-gun-glow",
+    "name": "Ray Gun Glow",
+    "set": "Wave 2",
+    "hex": "#47B0C2"
+  },
+  {
+    "id": "wave-2-red-glaze",
+    "name": "Red Glaze",
+    "set": "Wave 2",
+    "hex": "#F38366"
+  },
+  {
+    "id": "wave-3-red-rage",
+    "name": "Red Rage",
+    "set": "Wave 3",
+    "hex": "#6A342A"
+  },
+  {
+    "id": "wave-3-relic-blue",
+    "name": "Relic Blue",
+    "set": "Wave 3",
+    "hex": "#2B7FBB"
+  },
+  {
+    "id": "wave-3-ritz-o-tin",
+    "name": "Ritz O'Tin",
+    "set": "Wave 3",
+    "hex": "#968273"
+  },
+  {
+    "id": "wave-2-rodent-grey",
+    "name": "Rodent Grey",
+    "set": "Wave 2",
+    "hex": "#707263"
+  },
+  {
+    "id": "wave-1-royal-cloak",
+    "name": "Royal Cloak",
+    "set": "Wave 1",
+    "hex": "#5B4249"
+  },
+  {
+    "id": "wave-1-runic-purple",
+    "name": "Runic Purple",
+    "set": "Wave 1",
+    "hex": "#9B8DB4"
+  },
+  {
+    "id": "wave-1-rust-orange",
+    "name": "Rust Orange",
+    "set": "Wave 1",
+    "hex": "#B94D37"
+  },
+  {
+    "id": "wave-1-sandstone",
+    "name": "Sandstone",
+    "set": "Wave 1",
+    "hex": "#927B68"
+  },
+  {
+    "id": "wave-1-sanguine-scarlet",
+    "name": "Sanguine Scarlet",
+    "set": "Wave 1",
+    "hex": "#961714"
+  },
+  {
+    "id": "wave-2-satyr-brown",
+    "name": "Satyr Brown",
+    "set": "Wave 2",
+    "hex": "#D59657"
+  },
+  {
+    "id": "wave-3-scabbard-brown",
+    "name": "Scabbard Brown",
+    "set": "Wave 3",
+    "hex": "#7B5E46"
+  },
+  {
+    "id": "wave-3-scarab-red",
+    "name": "Scarab Red",
+    "set": "Wave 3",
+    "hex": "#B04045"
+  },
+  {
+    "id": "wave-1-scorched-earth",
+    "name": "Scorched Earth",
+    "set": "Wave 1",
+    "hex": "#594C48"
+  },
+  {
+    "id": "wave-3-seafarer-blue",
+    "name": "Seafarer Blue",
+    "set": "Wave 3",
+    "hex": "#4A9CC7"
+  },
+  {
+    "id": "wave-2-sentient-turquoise",
+    "name": "Sentient Turquoise",
+    "set": "Wave 2",
+    "hex": "#3A83A0"
+  },
+  {
+    "id": "wave-3-septric-green",
+    "name": "Septric Green",
+    "set": "Wave 3",
+    "hex": "#ABB337"
+  },
+  {
+    "id": "wave-3-serpent-eye-yellow",
+    "name": "Serpent Eye Yellow",
+    "set": "Wave 3",
+    "hex": "#F5D10D"
+  },
+  {
+    "id": "wave-3-shadow-blue",
+    "name": "Shadow Blue",
+    "set": "Wave 3",
+    "hex": "#4F646B"
+  },
+  {
+    "id": "wave-1-sir-coates-silver",
+    "name": "Sir Coates Silver",
+    "set": "Wave 1",
+    "hex": "#4D4F4F"
+  },
+  {
+    "id": "wave-1-skulker-yellow",
+    "name": "Skulker Yellow",
+    "set": "Wave 1",
+    "hex": "#F49E00"
+  },
+  {
+    "id": "wave-3-smoke-grey-wash",
+    "name": "Smoke Grey Wash",
+    "set": "Wave 3",
+    "hex": "#FBFCFB"
+  },
+  {
+    "id": "wave-3-solar-flare",
+    "name": "Solar Flare",
+    "set": "Wave 3",
+    "hex": "#EE7F21"
+  },
+  {
+    "id": "wave-1-sorceror-s-cloak",
+    "name": "Sorceror's Cloak",
+    "set": "Wave 1",
+    "hex": "#78588D"
+  },
+  {
+    "id": "wave-1-spartan-bronze",
+    "name": "Spartan Bronze",
+    "set": "Wave 1",
+    "hex": "#644534"
+  },
+  {
+    "id": "wave-3-spectral-purple",
+    "name": "Spectral Purple",
+    "set": "Wave 3",
+    "hex": "#995A9A"
+  },
+  {
+    "id": "wave-2-steampunk-copper",
+    "name": "Steampunk Copper",
+    "set": "Wave 2",
+    "hex": "#B5623C"
+  },
+  {
+    "id": "wave-3-sun-bleach-yellow",
+    "name": "Sun Bleach Yellow",
+    "set": "Wave 3",
+    "hex": "#F5E350"
+  },
+  {
+    "id": "wave-1-sword-hilt-burgundy",
+    "name": "Sword Hilt Burgundy",
+    "set": "Wave 1",
+    "hex": "#773D4A"
+  },
+  {
+    "id": "wave-2-talisman-green",
+    "name": "Talisman Green",
+    "set": "Wave 2",
+    "hex": "#79C042"
+  },
+  {
+    "id": "wave-2-tempest-blue-wash",
+    "name": "Tempest Blue Wash",
+    "set": "Wave 2",
+    "hex": "#3E5165"
+  },
+  {
+    "id": "wave-1-temple-stone",
+    "name": "Temple Stone",
+    "set": "Wave 1",
+    "hex": "#A39179"
+  },
+  {
+    "id": "wave-2-top-brass",
+    "name": "Top Brass",
+    "set": "Wave 2",
+    "hex": "#B59155"
+  },
+  {
+    "id": "wave-3-traitor-green",
+    "name": "Traitor Green",
+    "set": "Wave 3",
+    "hex": "#2F534F"
+  },
+  {
+    "id": "wave-2-troll-snot-green",
+    "name": "Troll Snot Green",
+    "set": "Wave 2",
+    "hex": "#9CC575"
+  },
+  {
+    "id": "wave-1-trooper-white",
+    "name": "Trooper White",
+    "set": "Wave 1",
+    "hex": "#ECEADF"
+  },
+  {
+    "id": "wave-3-twin-suns-yellow",
+    "name": "Twin Suns Yellow",
+    "set": "Wave 3",
+    "hex": "#E5E6AC"
+  },
+  {
+    "id": "wave-1-ur-cloak",
+    "name": "Ur Cloak",
+    "set": "Wave 1",
+    "hex": "#91524D"
+  },
+  {
+    "id": "wave-3-vambrace-brown",
+    "name": "Vambrace Brown",
+    "set": "Wave 3",
+    "hex": "#9C745C"
+  },
+  {
+    "id": "wave-1-vampire-fang",
+    "name": "Vampire Fang",
+    "set": "Wave 1",
+    "hex": "#CBB89B"
+  },
+  {
+    "id": "wave-3-von-evile-pimple",
+    "name": "Von Evile Pimple",
+    "set": "Wave 3",
+    "hex": "#22012E"
+  },
+  {
+    "id": "wave-3-war-master-green",
+    "name": "War Master Green",
+    "set": "Wave 3",
+    "hex": "#3A4140"
+  },
+  {
+    "id": "wave-1-wasteland-brown",
+    "name": "Wasteland Brown",
+    "set": "Wave 1",
+    "hex": "#856C5C"
+  },
+  {
+    "id": "wave-1-white-star",
+    "name": "White Star",
+    "set": "Wave 1",
+    "hex": "#F9F9F9"
+  },
+  {
+    "id": "wave-2-witching-hour-blue",
+    "name": "Witching Hour Blue",
+    "set": "Wave 2",
+    "hex": "#326AB3"
+  },
+  {
+    "id": "wave-1-wizard-grey",
+    "name": "Wizard Grey",
+    "set": "Wave 1",
+    "hex": "#6D6B6C"
+  },
+  {
+    "id": "wave-1-wolf-grey",
+    "name": "Wolf Grey",
+    "set": "Wave 1",
+    "hex": "#627587"
+  },
+  {
+    "id": "wave-1-wyvern-green",
+    "name": "Wyvern Green",
+    "set": "Wave 1",
+    "hex": "#404942"
+  },
+  {
+    "id": "wave-1-yellow-flame",
+    "name": "Yellow Flame",
+    "set": "Wave 1",
+    "hex": "#F8AF2B"
+  },
+  {
+    "id": "wave-2-yellow-glaze",
+    "name": "Yellow Glaze",
+    "set": "Wave 2",
+    "hex": "#F2F075"
+  },
+  {
+    "id": "wave-3-zombie-rot",
+    "name": "Zombie Rot",
+    "set": "Wave 3",
+    "hex": "#B1B679"
+  }
+]
