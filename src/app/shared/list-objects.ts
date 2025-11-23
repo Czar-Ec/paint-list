@@ -5,7 +5,6 @@ export interface PaintRecord {
   set: string;
   hex: string;
   brandId: string;
-  properties?: any;
 }
 
 export interface Brand {
@@ -28,14 +27,16 @@ export enum PaintType {
   OTHER = 'OTHER'
 }
 
-// export interface Paint {
-//   paintId: string;
-//   paintName: string;
-//   paintType: PaintType;
-//   approximateColour: string;
-//   numInInventory: number;
-//   tags: string[];
-//   paintBrand: Brand;
-//   refImage: string;
-//   notes?: string;
-// }
+export interface Paint {
+  id: string;
+  name: string;
+  code: string | null;
+  set: string;
+  hex: string;
+  paintBrand: Brand;
+  properties?: any;
+}
+
+export interface PaintProperties {
+  type: PaintType;
+}

@@ -1,7 +1,7 @@
 import { Component, Input } from '@angular/core';
 import { MatCardModule } from '@angular/material/card';
 import { MatChipsModule } from '@angular/material/chips';
-import { PaintRecord } from '../../shared/list-objects';
+import { Paint } from '../../shared/list-objects';
 import { PaintBrand } from './paint-brand/paint-brand';
 import { PaintTypeComponent } from './paint-type/paint-type';
 
@@ -12,5 +12,5 @@ import { PaintTypeComponent } from './paint-type/paint-type';
   styleUrl: './paint-info.scss',
 })
 export class PaintInfo {
-  @Input() paint!: PaintRecord;
+  @Input() paint!: Paint;
 }

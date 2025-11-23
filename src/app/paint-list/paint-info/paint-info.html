@@ -1,8 +1,8 @@
 <mat-card appearance="outlined">
   <mat-card-header>
-    <app-paint-brand [brandId]="paint.brandId"></app-paint-brand>
+    <app-paint-brand [brandImageUrl]="paint.paintBrand.brandImageUrl" [brandUrl]="paint.paintBrand.brandUrl"></app-paint-brand>
     <mat-card-title>{{ paint.name }}</mat-card-title>
-    <app-paint-type [set]="paint.set"></app-paint-type>
+    <app-paint-type [paintType]="paint.properties?.type"></app-paint-type>
   </mat-card-header>
   <mat-card-content>
     <div class="paint-item-content">

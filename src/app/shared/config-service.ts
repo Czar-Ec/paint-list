@@ -1,7 +1,8 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable, signal } from '@angular/core';
 import { firstValueFrom } from 'rxjs';
-import { Brand, PaintRecord } from './list-objects';
+import { Brand, Paint, PaintRecord } from './list-objects';
+import { findCategory } from './utils';
 @Injectable({
   providedIn: 'root',
 })
@@ -11,8 +12,8 @@ export class ConfigService {
   private _paintBrandList: Brand[] = [];
   public paintBrandList$ = signal<Brand[]>([]);
 
-  private _allPaints: PaintRecord[] | null = null;
-  public allPaints$ = signal<PaintRecord[] | null>(null);
+  private _allPaints: Paint[] | null = null;
+  public allPaints$ = signal<Paint[] | null>(null);
 
   get configuration() {
     if (!this._config) {
@@ -51,15 +52,18 @@ export class ConfigService {
     this._allPaints = allPaintArrays.flat().map((paint) => ({
       id: paint.id,
       name: paint.name,
-      code: paint.code,
+      code: paint.code == "null" ? null : paint.code,
       set: paint.set,
       hex: paint.hex,
-      brandId: paint.brandId,
+      paintBrand: this._paintBrandList.find((brand) => brand.brandId === paint.brandId)!,
+      properties: {
+        type: findCategory(this._config.paintTypeAltNames, paint.set) ?? 'OTHER',
+      },
     }));
 
     // remove duplicates based on paint ID
     this._allPaints = Array.from(
-      new Map(allPaintArrays.flat().map((p) => [p.id, p])).values()
+      new Map(this._allPaints.flat().map((p) => [p.id, p])).values()
     ).sort((a, b) => a.name.localeCompare(b.name));
 
     this.allPaints$.set(this._allPaints);
