@@ -3,12 +3,11 @@ import { MatCardModule } from '@angular/material/card';
 import { MatChipsModule } from '@angular/material/chips';
 import { PaintRecord } from '../../shared/list-objects';
 import { PaintBrand } from './paint-brand/paint-brand';
+import { PaintTypeComponent } from './paint-type/paint-type';
 
 @Component({
   selector: 'app-paint-info',
-  imports: [MatCardModule, MatChipsModule, PaintBrand
-    // PaintTypeComponent
-  ],
+  imports: [MatCardModule, MatChipsModule, PaintBrand, PaintTypeComponent],
   templateUrl: './paint-info.html',
   styleUrl: './paint-info.scss',
 })

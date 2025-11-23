@@ -2,7 +2,7 @@
   <mat-card-header>
     <app-paint-brand [brandId]="paint.brandId"></app-paint-brand>
     <mat-card-title>{{ paint.name }}</mat-card-title>
-    <!-- <app-paint-type [paintType]="paint.paintType"></app-paint-type> -->
+    <app-paint-type [set]="paint.set"></app-paint-type>
   </mat-card-header>
   <mat-card-content>
     <div class="paint-item-content">

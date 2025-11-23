@@ -1,1 +1,59 @@
-{}
+{
+  "paintTypeAltNames": [
+    {
+      "PRIMER": [
+        "Spray",
+        "Warpaints Primer",
+        "D&D Nolzur's Marvelous Pigments Primer",
+        "Hobby Paint",
+        "Surface Primer"
+      ]
+    },
+    {
+      "AIR": [
+        "Air",
+        "Model Air",
+        "Warpaints Air",
+        "Model Air",
+        "Game Air",
+        "Premium Airbrush Color",
+        "Mecha Color"
+      ]
+    },
+    {
+      "BASE": [
+        "Base",
+        "Warpaints",
+        "D&D Nolzur's Marvelous Pigments",
+        "Warpaints Fanatic",
+        "D&D Undead Set",
+        "D&D Underdark Set",
+        "Skin Tones Paint Set",
+        "Panzer Aces",
+        "Model Color",
+        "Game Color",
+        "Nocturna Models",
+        "Arte Deco"
+      ]
+    },
+    { "CONTRAST": ["Contrast", "Speedpaint Set", "Speedpaint Set 2.0", "Xpress Color", "Xpress Color Intense"] },
+    { "LAYER": ["Layer"] },
+    {
+      "SHADE": [
+        "Shade",
+        "Glaze",
+        "Warpaints Wash",
+        "Quickshade Washes Set",
+        "Warpaints Tone",
+        "D&D Nolzur's Marvelous Pigments Wash",
+        "Warpaints Fanatic Wash",
+        "Skin Tones Paint Set - Washes",
+        "Game Color Wash",
+        "Wash FX"
+      ]
+    },
+    { "TECHNICAL": ["Technical", "Game Color Special FX", "Weathering FX", "Arte Deco Colores Fluoresecents"] },
+    { "METALLIC": ["Metallic Colours Paint Set", "Metal Color", "Liquid Gold"] },
+    { "COLOUR_SHIFT": ["Turbo Dork"] }
+  ]
+}

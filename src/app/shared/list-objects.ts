@@ -17,13 +17,14 @@ export interface Brand {
 
 export enum PaintType {
   PRIMER = 'PRIMER',
+  AIR='AIR',
   BASE = 'BASE',
   CONTRAST = 'CONTRAST',
   LAYER = 'LAYER',
   SHADE = 'SHADE',
   TECHNICAL = 'TECHNICAL',
   METALLIC = 'METALLIC',
-  COLOUR_SHIFT = 'COLOUR SHIFT',
+  COLOUR_SHIFT = 'COLOUR_SHIFT',
   OTHER = 'OTHER'
 }
 

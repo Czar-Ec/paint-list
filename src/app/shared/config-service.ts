@@ -11,8 +11,8 @@ export class ConfigService {
   private _paintBrandList: Brand[] = [];
   public paintBrandList$ = signal<Brand[]>([]);
 
-  private _allPaints: PaintRecord[] = [];
-  public allPaints$ = signal<PaintRecord[]>([]);
+  private _allPaints: PaintRecord[] | null = null;
+  public allPaints$ = signal<PaintRecord[] | null>(null);
 
   get configuration() {
     if (!this._config) {
@@ -58,7 +58,9 @@ export class ConfigService {
     }));
 
     // remove duplicates based on paint ID
-    this._allPaints = Array.from(new Map(allPaintArrays.flat().map((p) => [p.id, p])).values());
+    this._allPaints = Array.from(
+      new Map(allPaintArrays.flat().map((p) => [p.id, p])).values()
+    ).sort((a, b) => a.name.localeCompare(b.name));
 
     this.allPaints$.set(this._allPaints);
   }
