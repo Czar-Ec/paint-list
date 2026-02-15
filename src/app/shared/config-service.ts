@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable, signal } from '@angular/core';
-import { firstValueFrom } from 'rxjs';
+import { firstValueFrom, Observable, of } from 'rxjs';
 import { Brand, Paint, PaintRecord } from './list-objects';
 import { findCategory } from './utils';
 @Injectable({
@@ -28,9 +28,11 @@ export class ConfigService {
    * Loads configuration from the specified URL.
    * @param configUrl
    */
-  public async loadConfig(configUrl: any) {
-    const config = await firstValueFrom(this.http.get(configUrl));
-    this._config = config;
+  public async loadConfig(configUrl: any): Promise<any> {
+    return await firstValueFrom(this.http.get(configUrl)).then((res) => {
+      this._config = res
+      return res;
+    })
   }
 
   /**
@@ -46,13 +48,13 @@ export class ConfigService {
     ];
 
     const allPaintArrays = await Promise.all(
-      paintUrls.map((url) => firstValueFrom(this.http.get<PaintRecord[]>(url)))
+      paintUrls.map((url) => firstValueFrom(this.http.get<PaintRecord[]>(url))),
     );
 
     this._allPaints = allPaintArrays.flat().map((paint) => ({
       id: paint.id,
       name: paint.name,
-      code: paint.code == "null" ? null : paint.code,
+      code: paint.code == 'null' ? null : paint.code,
       set: paint.set,
       hex: paint.hex,
       paintBrand: this._paintBrandList.find((brand) => brand.brandId === paint.brandId)!,
@@ -63,7 +65,7 @@ export class ConfigService {
 
     // remove duplicates based on paint ID
     this._allPaints = Array.from(
-      new Map(this._allPaints.flat().map((p) => [p.id, p])).values()
+      new Map(this._allPaints.flat().map((p) => [p.id, p])).values(),
     ).sort((a, b) => a.name.localeCompare(b.name));
 
     this.allPaints$.set(this._allPaints);
@@ -75,8 +77,8 @@ export class ConfigService {
    * @param paintBrandList - The API endpoint or URL used to fetch the paint brand data.
    * @returns A promise that resolves once the paint brand list has been retrieved and stored.
    */
-  public async loadPaintBrandList(paintBrandList: any) {
-    const res = await firstValueFrom(this.http.get<Brand[]>(paintBrandList));
+  public async loadPaintBrandList() {
+    const res = await firstValueFrom(this.http.get<Brand[]>(this.configuration.paintBrandsJson));
     this._paintBrandList = res;
     this.paintBrandList$.set(this._paintBrandList);
   }

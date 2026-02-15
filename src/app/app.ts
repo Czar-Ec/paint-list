@@ -1,5 +1,5 @@
 import { HttpClient } from '@angular/common/http';
-import { ChangeDetectorRef, Component, OnInit, signal } from '@angular/core';
+import { ChangeDetectorRef, Component, Inject, OnInit, signal } from '@angular/core';
 import { MatCardModule } from '@angular/material/card';
 import { MatButtonModule } from '@angular/material/button';
 import { NgParticlesService, NgxParticlesModule } from '@tsparticles/angular';
@@ -9,6 +9,7 @@ import { Filter } from './filter/filter';
 import { ConfigService } from './shared/config-service';
 import { PaintList } from './paint-list/paint-list';
 import { ScreenService } from './shared/screen-service';
+import { PAINT_BRAND_CONFIG } from './shared/app.tokens';
 
 @Component({
   selector: 'app-root',
@@ -27,16 +28,17 @@ export class App implements OnInit {
     private readonly http: HttpClient,
     private cdr: ChangeDetectorRef,
     private readonly configService: ConfigService,
-    private readonly screenService: ScreenService
+    private readonly screenService: ScreenService,
   ) {
-    this.configService.loadConfig('assets/config.json');
-    this.configService.loadPaintBrandList('assets/paint-brands.json');
-    this.configService.loadAllPaints();
+    this.configService
+      .loadConfig('assets/config.json')
+      .then(() => this.configService.loadPaintBrandList())
+      .then(() => this.configService.loadAllPaints());
 
     // Load particles JSON from assets
     this.http
       .get<ISourceOptions>(
-        'https://raw.githubusercontent.com/Czar-Ec/Czar-Ec.github.io/refs/heads/develop/src/assets/particles/particles.json'
+        'https://raw.githubusercontent.com/Czar-Ec/Czar-Ec.github.io/refs/heads/develop/src/assets/particles/particles.json',
       )
       .subscribe((options) => {
         this.particlesOptions = options;
