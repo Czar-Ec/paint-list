@@ -1,4 +1,5 @@
 {
+  "paintBrandsJson": "https://raw.githubusercontent.com/Czar-Ec/miniature-paints-database/refs/heads/main/src/assets/paint-brands.json",
   "paintTypeAltNames": [
     {
       "PRIMER": [
